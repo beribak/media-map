@@ -95,7 +95,7 @@ layout: default
   <section class="feature-stage" id="coverage">
     <article class="feature-story">
       <div class="feature-story__image-wrap">
-        <img src="{{ featured.image }}" alt="{{ featured.title }}">
+        <div class="feature-story__image" style="background-image: url('{{ featured.image }}');" role="img" aria-label="{{ featured.title }}"></div>
       </div>
       <div class="feature-story__body">
         <p class="eyebrow">Главна сторија - {{ featured.category }}</p>
@@ -164,7 +164,7 @@ layout: default
           <article class="news-card">
             <a class="news-card__link" href="{{ article.url | relative_url }}" aria-label="{{ article.title }}">
               <div class="news-card__image-wrap">
-                <img src="{{ article.image }}" alt="{{ article.title }}">
+                <img src="{{ article.image }}" alt="{{ article.title }}" loading="lazy">
               </div>
               <div class="news-card__content">
                 <div class="news-card__topline">
