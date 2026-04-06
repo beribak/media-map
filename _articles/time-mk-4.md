@@ -1,16 +1,16 @@
 ---
 layout: article
-title: "СДСМ: Деца од Куманово принудени да ја пеат песната за Максим Димитриевски, се злоупотребуваат за политички цели"
+title: "ЗНАМ ги отфрли како лажни обвинувањата на СДСМ за злоупотреба на деца за политички цели"
 source: "360 степени"
-published_at: "2026-04-06T22:42:13.228+02:00"
+published_at: "2026-04-06T23:22:19.579+02:00"
 category: "Политика"
-image: "https://time.mk/images/thumb/df9222cfc0.jpg"
-excerpt: "Настанот за кој обвинува СДСМ се случил за време на хуманитарна акција организирана од Советот на родители при кумановското основно училиште „Кочо Рацин“ во кое, како што посочуваат од партијата, работат сопругата на Димитриевски, како и Ивана ..."
+image: "https://time.mk/images/thumb/850fd0d099.jpg"
+excerpt: "Од партијата на Максим Димитриевски посочуваат дека целата организација на посочената хуманитарна акција била на родителите во соработка со естрадни уметници, водители, диџеи и аниматори кои, како што велат, се изразуваат на слободен стил."
 featured: false
-external_url: "https://360stepeni.mk/sdsm-detsa-od-kumanovo-prinudeni-da-ja-peat-pesnata-za-maksim-dimitrievski-se-zloupotrebuvaat-za-politichki-tseli/"
+external_url: "https://360stepeni.mk/znam-gi-otfrli-kako-lazhni-obvinuvanata-na-sdsm-za-zloupotreba-na-detsa-za-politichki-tseli/"
 ---
-Настанот за кој обвинува СДСМ се случил за време на хуманитарна акција организирана од Советот на родители при кумановското основно училиште „Кочо Рацин“ во кое, како што посочуваат од партијата, работат сопругата на Димитриевски, како и Ивана ...
+Од партијата на Максим Димитриевски посочуваат дека целата организација на посочената хуманитарна акција била на родителите во соработка со естрадни уметници, водители, диџеи и аниматори кои, како што велат, се изразуваат на слободен стил.
 
-Оваа ставка е автоматски повлечена од https://time.mk преку time-mk-watcher и се освежува со cron.
+Оваа ставка е автоматски повлечена од https://time.mk преку GitHub Actions scraper.
 
-Оригинален линк: https://360stepeni.mk/sdsm-detsa-od-kumanovo-prinudeni-da-ja-peat-pesnata-za-maksim-dimitrievski-se-zloupotrebuvaat-za-politichki-tseli/
+Оригинален линк: https://360stepeni.mk/znam-gi-otfrli-kako-lazhni-obvinuvanata-na-sdsm-za-zloupotreba-na-detsa-za-politichki-tseli/

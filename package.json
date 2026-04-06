@@ -1,0 +1,11 @@
+{
+  "name": "media-map-fresh",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch:articles": "node scripts/fetch-time-mk.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

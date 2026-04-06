@@ -118,3 +118,14 @@
     trust_score: 50
     sensationalism: 50
   color: "#6b7280"
+
+- id: пари
+  name: "Пари"
+  aliases: ["Пари"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
