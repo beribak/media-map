@@ -10,6 +10,7 @@ const SOURCES_YML = path.join(DATA_DIR, 'sources.yml');
 const COLLECTION_DIR = path.join(ROOT_DIR, '_articles');
 const SCRAPED_PREFIX = 'time-mk-';
 const SCRAPED_LIMIT = 5;
+const MAX_STORED_ARTICLES = 50;
 
 function absolutize(url) {
   if (!url) return null;
@@ -38,6 +39,13 @@ function normalizeSourceName(value) {
     .toLowerCase()
     .replace(/\./g, '')
     .replace(/[^\p{L}\p{N}]+/gu, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function normalizeArticleTitle(value) {
+  return String(value || '')
+    .toLowerCase()
     .replace(/\s+/g, ' ')
     .trim();
 }
@@ -77,6 +85,65 @@ function buildYamlArticle(article, index) {
     `  excerpt: ${yamlQuote(article.excerpt)}`,
     `  featured: ${index === 0 ? 'true' : 'false'}`
   ].join('\n');
+}
+
+function matchYamlValue(block, key) {
+  const escapedKey = key.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const quotedMatch = block.match(new RegExp(`^\\s*${escapedKey}:\\s*"((?:\\\\.|[^"])*)"`, 'm'));
+  if (quotedMatch) {
+    return quotedMatch[1]
+      .replace(/\\"/g, '"')
+      .replace(/\\\\/g, '\\');
+  }
+
+  const plainMatch = block.match(new RegExp(`^\\s*${escapedKey}:\\s*(.+)$`, 'm'));
+  return plainMatch ? plainMatch[1].trim() : null;
+}
+
+function parseStoredArticles(yaml) {
+  return String(yaml || '')
+    .split(/\n(?=- id: )/g)
+    .map((block) => block.trim())
+    .filter(Boolean)
+    .map((block) => ({
+      id: matchYamlValue(block, 'id'),
+      title: matchYamlValue(block, 'title'),
+      source: matchYamlValue(block, 'source'),
+      published_at: matchYamlValue(block, 'published_at'),
+      category: matchYamlValue(block, 'category'),
+      image: matchYamlValue(block, 'image'),
+      url: matchYamlValue(block, 'url'),
+      excerpt: matchYamlValue(block, 'excerpt'),
+      featured: matchYamlValue(block, 'featured') === 'true'
+    }))
+    .filter((article) => article.id && article.title);
+}
+
+async function loadStoredArticles() {
+  try {
+    const yaml = await fs.readFile(ARTICLES_YML, 'utf8');
+    return parseStoredArticles(yaml);
+  } catch {
+    return [];
+  }
+}
+
+function createArticleId(article, takenIds) {
+  const datePart = String(article.published_at || '')
+    .slice(0, 10)
+    .replace(/-/g, '') || new Date().toISOString().slice(0, 10).replace(/-/g, '');
+  const slugPart = slugify(article.title).slice(0, 48);
+  const baseId = `${SCRAPED_PREFIX}${datePart}-${slugPart}`;
+  let candidate = baseId;
+  let counter = 2;
+
+  while (takenIds.has(candidate)) {
+    candidate = `${baseId}-${counter}`;
+    counter += 1;
+  }
+
+  takenIds.add(candidate);
+  return candidate;
 }
 
 async function ensureSourcePlaceholder(article) {
@@ -151,21 +218,62 @@ async function updateMediaMapFresh(articles) {
   await fs.mkdir(DATA_DIR, { recursive: true });
   await fs.mkdir(COLLECTION_DIR, { recursive: true });
 
-  const scrapedBlocks = articles.map((article, index) => buildYamlArticle(article, index));
+  const existingArticles = await loadStoredArticles();
+  const takenIds = new Set(existingArticles.map((article) => article.id).filter(Boolean));
+  const existingTitles = new Set(existingArticles.map((article) => normalizeArticleTitle(article.title)).filter(Boolean));
+  const mergedArticles = [];
+  const incomingTitles = new Set();
+  const keptTitles = new Set();
+  let addedCount = 0;
+  let skippedCount = 0;
+
+  for (const article of articles) {
+    const normalizedTitle = normalizeArticleTitle(article.title);
+    if (!normalizedTitle || existingTitles.has(normalizedTitle) || incomingTitles.has(normalizedTitle)) {
+      skippedCount += 1;
+      continue;
+    }
+
+    incomingTitles.add(normalizedTitle);
+    keptTitles.add(normalizedTitle);
+    mergedArticles.push({
+      ...article,
+      id: createArticleId(article, takenIds)
+    });
+    addedCount += 1;
+  }
+
+  for (const article of existingArticles) {
+    const normalizedTitle = normalizeArticleTitle(article.title);
+    if (!normalizedTitle || keptTitles.has(normalizedTitle)) continue;
+
+    keptTitles.add(normalizedTitle);
+    mergedArticles.push(article);
+  }
+
+  const keptArticles = mergedArticles.slice(0, MAX_STORED_ARTICLES);
+  const scrapedBlocks = keptArticles.map((article, index) => buildYamlArticle(article, index));
   await fs.writeFile(ARTICLES_YML, scrapedBlocks.join('\n\n') + '\n', 'utf8');
 
+  const keepIds = new Set(keptArticles.map((article) => article.id));
   const existingFiles = await fs.readdir(COLLECTION_DIR).catch(() => []);
   for (const file of existingFiles) {
-    if (file.startsWith(SCRAPED_PREFIX) && file.endsWith('.md')) {
+    if (file.startsWith(SCRAPED_PREFIX) && file.endsWith('.md') && !keepIds.has(file.replace(/\.md$/, ''))) {
       await fs.unlink(path.join(COLLECTION_DIR, file)).catch(() => {});
     }
   }
 
-  for (let i = 0; i < articles.length; i += 1) {
-    const article = articles[i];
+  for (let i = 0; i < keptArticles.length; i += 1) {
+    const article = keptArticles[i];
     await fs.writeFile(path.join(COLLECTION_DIR, `${article.id}.md`), buildCollectionMarkdown(article, i), 'utf8');
     await ensureSourcePlaceholder(article);
   }
+
+  return {
+    added: addedCount,
+    total: keptArticles.length,
+    skipped: skippedCount
+  };
 }
 
 async function main() {
@@ -218,8 +326,8 @@ async function main() {
     });
   });
 
-  await updateMediaMapFresh(articles);
-  console.log(JSON.stringify(articles, null, 2));
+  const result = await updateMediaMapFresh(articles);
+  console.log(JSON.stringify({ scraped: articles.length, ...result, articles }, null, 2));
 }
 
 main().catch((err) => {
