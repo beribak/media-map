@@ -1,0 +1,120 @@
+- id: vecer-pres
+  name: "Вечер Прес"
+  aliases: ["Вечер Прес", "Vecer Pres"]
+  bias:
+    ideology: "десница"
+    geopolitical: ["про-НАТО"]
+    party_affinity: ["наклонет кон ВМРО-ДПМНЕ"]
+    trust_score: 62
+    sensationalism: 58
+  color: "#1d4ed8"
+
+- id: plusinfo
+  name: "+инфо"
+  aliases: ["+инфо", "Plusinfo"]
+  bias:
+    ideology: "центар-лево"
+    geopolitical: ["про-НАТО", "про-ЕУ"]
+    party_affinity: ["наклонет кон СДСМ"]
+    trust_score: 68
+    sensationalism: 44
+  color: "#7c3aed"
+
+- id: sloboden-pecat
+  name: "Слободен Печат"
+  aliases: ["Слободен Печат", "Sloboden Pecat"]
+  bias:
+    ideology: "центар-лево"
+    geopolitical: ["про-ЕУ", "про-НАТО"]
+    party_affinity: ["либерален"]
+    trust_score: 72
+    sensationalism: 36
+  color: "#059669"
+
+- id: makfax
+  name: "Макфакс"
+  aliases: ["Макфакс", "Makfax"]
+  bias:
+    ideology: "центар"
+    geopolitical: ["про-ЕУ"]
+    party_affinity: ["неутрален"]
+    trust_score: 74
+    sensationalism: 28
+  color: "#ea580c"
+
+- id: fokus
+  name: "Фокус"
+  aliases: ["Фокус", "Fokus"]
+  bias:
+    ideology: "центар"
+    geopolitical: ["про-ЕУ", "про-НАТО"]
+    party_affinity: ["независен"]
+    trust_score: 76
+    sensationalism: 32
+  color: "#dc2626"
+
+- id: infomax
+  name: "iNFOMAX"
+  aliases: ["iNFOMAX", "Infomax"]
+  bias:
+    ideology: "десница"
+    geopolitical: ["про-руски", "анти-Запад"]
+    party_affinity: ["тврдокорно наклонет кон ВМРО-ДПМНЕ"]
+    trust_score: 41
+    sensationalism: 81
+  color: "#111827"
+
+- id: sdk
+  name: "Сакам да кажам"
+  aliases: ["Сакам да кажам", "SDK", "sdk.mk", "СДК"]
+  bias:
+    ideology: "центар"
+    geopolitical: ["про-ЕУ", "про-запад"]
+    party_affinity: ["критички настроен", "независен"]
+    trust_score: 81
+    sensationalism: 24
+  color: "#0f766e"
+
+- id: независен
+  name: "Независен"
+  aliases: ["Независен"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
+
+- id: тв21
+  name: "ТВ21"
+  aliases: ["ТВ21"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
+
+- id: 360-степени
+  name: "360 степени"
+  aliases: ["360 степени"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
+
+- id: 24-вести
+  name: "24 Вести"
+  aliases: ["24 Вести"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"

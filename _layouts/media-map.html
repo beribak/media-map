@@ -1,0 +1,268 @@
+---
+layout: default
+---
+{% assign articles = site.articles | sort: 'published_at' | reverse %}
+{% assign featured = articles | where: 'featured', true | first %}
+{% assign sources = site.data.sources %}
+{% assign latest_articles = articles | slice: 0, 4 %}
+
+{% capture matched_source_template %}{% endcapture %}
+
+<div class="page-shell">
+  <header class="topbar">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand__mark">MM</span>
+      <span class="brand__text">
+        <strong>Media Map</strong>
+        <span>медиумска мапа за Северна Македонија</span>
+      </span>
+    </a>
+    <nav class="topbar__nav" aria-label="Primary">
+      <a href="#coverage">Покривање</a>
+      <a href="#sources">Извори</a>
+      <a href="#method">Методологија</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero__content">
+      <p class="hero__eyebrow">Повеќе од агрегатор на линкови</p>
+      <h1>Следи ја веста, спореди го наративот, разбери го изворот.</h1>
+      <p class="hero__lede">Редизајнирана почетна страница што ја задржува брзината на агрегатор, но додава вистинско корисничко искуство: посилна хиерархија, почисто групирање и јасен профил на пристрасност за секој медиум.</p>
+      <div class="hero__actions">
+        <a class="button button--primary" href="#coverage">Прегледај покривање</a>
+        <a class="button button--ghost" href="#sources">Прелистај извори</a>
+      </div>
+      <div class="hero__chips">
+        <span class="signal-pill">видлива пристрасност</span>
+        <span class="signal-pill">изворот во фокус</span>
+        <span class="signal-pill">оцена на доверливост</span>
+        <span class="signal-pill">споредба на стории</span>
+      </div>
+    </div>
+
+    <aside class="hero__rail">
+      <div class="hero-card hero-card--spotlight">
+        <span class="hero-card__label">Денес на прв поглед</span>
+        <div class="hero-metrics">
+          <div>
+            <strong>{{ articles.size }}</strong>
+            <span>стории во фид</span>
+          </div>
+          <div>
+            <strong>{{ sources.size }}</strong>
+            <span>следени медиуми</span>
+          </div>
+          <div>
+            <strong>5 тагови</strong>
+            <span>димензии на пристрасност</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="hero-card hero-card--list">
+        <span class="hero-card__label">Брз преглед</span>
+        <ul class="mini-feed">
+          {% for article in latest_articles %}
+          <li>
+            <span class="mini-feed__category">{{ article.category }}</span>
+            <a href="{{ article.url | relative_url }}"><strong>{{ article.title }}</strong></a>
+            <span class="mini-feed__meta">{{ article.source }} - {{ article.published_at | date: '%H:%M' }}</span>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </aside>
+  </section>
+
+  {% if featured %}
+  {% assign featured_source = nil %}
+  {% for candidate in sources %}
+    {% if candidate.name == featured.source %}
+      {% assign featured_source = candidate %}
+      {% break %}
+    {% endif %}
+    {% if candidate.aliases %}
+      {% for alias in candidate.aliases %}
+        {% if alias == featured.source %}
+          {% assign featured_source = candidate %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    {% if featured_source %}{% break %}{% endif %}
+  {% endfor %}
+  <section class="feature-stage" id="coverage">
+    <article class="feature-story">
+      <div class="feature-story__image-wrap">
+        <img src="{{ featured.image }}" alt="{{ featured.title }}">
+      </div>
+      <div class="feature-story__body">
+        <p class="eyebrow">Главна сторија - {{ featured.category }}</p>
+        <h2><a href="{{ featured.url | relative_url }}">{{ featured.title }}</a></h2>
+        <p class="feature-story__excerpt">{{ featured.excerpt }}</p>
+        <div class="meta-row meta-row--wrap">
+          <span class="source-pill"{% if featured_source %} style="--source-color: {{ featured_source.color }}"{% endif %}>{{ featured.source }}</span>
+          {% if featured_source %}
+            <span class="chip">{{ featured_source.bias.ideology }}</span>
+            {% for geo in featured_source.bias.geopolitical limit:2 %}
+              <span class="chip chip--dark">{{ geo }}</span>
+            {% endfor %}
+            <span class="chip chip--score">доверба {{ featured_source.bias.trust_score }}</span>
+            <span class="chip chip--warn">сензационализам {{ featured_source.bias.sensationalism }}</span>
+          {% else %}
+            <span class="chip chip--unknown">непознат bias профил</span>
+          {% endif %}
+          <span class="timestamp">{{ featured.published_at | date: '%H:%M' }}</span>
+        </div>
+        <div class="feature-story__actions">
+          <a class="button button--primary" href="{{ featured.url | relative_url }}">Прочитај ја сторијата</a>
+        </div>
+      </div>
+    </article>
+
+    <aside class="story-lens">
+      <div class="panel panel--accent">
+        <div class="section-heading section-heading--tight">
+          <h3>Зошто овој распоред функционира</h3>
+        </div>
+        <ul class="feature-list">
+          <li>Главната тема добива јасна уредувачка хиерархија наместо бучен ѕид од линкови.</li>
+          <li>Изворот е елемент од прв ред, а не мала сива ознака покрај насловот.</li>
+          <li>Пристрасноста и довербата можат да се прочитаат за неколку секунди без да се наруши читливоста.</li>
+        </ul>
+      </div>
+    </aside>
+  </section>
+  {% endif %}
+
+  <section class="content-grid">
+    <div class="main-column">
+      <div class="section-heading">
+        <h3>Фид со покривање</h3>
+        <p>Модерна почетна страница каде што сториите се лесни за читање, а медиумскиот контекст е секогаш видлив.</p>
+      </div>
+
+      <div class="article-list">
+        {% for article in articles %}
+          {% assign source = nil %}
+          {% for candidate in sources %}
+            {% if candidate.name == article.source %}
+              {% assign source = candidate %}
+              {% break %}
+            {% endif %}
+            {% if candidate.aliases %}
+              {% for alias in candidate.aliases %}
+                {% if alias == article.source %}
+                  {% assign source = candidate %}
+                  {% break %}
+                {% endif %}
+              {% endfor %}
+            {% endif %}
+            {% if source %}{% break %}{% endif %}
+          {% endfor %}
+          <article class="news-card">
+            <a class="news-card__link" href="{{ article.url | relative_url }}" aria-label="{{ article.title }}">
+              <div class="news-card__image-wrap">
+                <img src="{{ article.image }}" alt="{{ article.title }}">
+              </div>
+              <div class="news-card__content">
+                <div class="news-card__topline">
+                  <span class="category-label">{{ article.category }}</span>
+                  <span class="timestamp">{{ article.published_at | date: '%H:%M' }}</span>
+                </div>
+                <h4>{{ article.title }}</h4>
+                <p>{{ article.excerpt }}</p>
+                <div class="meta-row meta-row--wrap">
+                  <span class="source-pill"{% if source %} style="--source-color: {{ source.color }}"{% endif %}>{{ article.source }}</span>
+                  {% if source %}
+                    <span class="chip">{{ source.bias.ideology }}</span>
+                    {% for geo in source.bias.geopolitical limit:2 %}
+                      <span class="chip chip--dark">{{ geo }}</span>
+                    {% endfor %}
+                    {% for party in source.bias.party_affinity limit:1 %}
+                      <span class="chip chip--outline">{{ party }}</span>
+                    {% endfor %}
+                    <span class="chip chip--score">доверба {{ source.bias.trust_score }}</span>
+                    <span class="chip chip--warn">сензационализам {{ source.bias.sensationalism }}</span>
+                  {% else %}
+                    <span class="chip chip--unknown">непознат bias профил</span>
+                  {% endif %}
+                </div>
+              </div>
+            </a>
+          </article>
+        {% endfor %}
+      </div>
+    </div>
+
+    <aside class="sidebar" id="sources">
+      <div class="panel panel--glow">
+        <div class="section-heading section-heading--tight">
+          <h3>Профил на извори</h3>
+          <p>Ова треба да биде срцето на продуктот: што објавува медиумот и од каква перспектива најчесто известува.</p>
+        </div>
+        <div class="insight-stack">
+          <div class="insight-card">
+            <span>Слој на доверливост</span>
+            <strong>Оцена на доверба + сензационализам</strong>
+            <p>Покажува каков е квалитетот на изворот и колку агресивно ја пакува содржината.</p>
+          </div>
+          <div class="insight-card">
+            <span>Слој на перспектива</span>
+            <strong>Идеологија + геополитичко врамување</strong>
+            <p>Дава брз контекст за тоа како истата тема вообичаено се рамкира низ различни медиуми.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="section-heading section-heading--tight">
+          <h3>Мапа на пристрасност</h3>
+          <p>Категоризација на медиумите со појасен и покорисен распоред на картичките.</p>
+        </div>
+        <div class="source-directory">
+          {% for source in sources %}
+          <div class="source-card">
+            <div class="source-card__head">
+              <span class="source-dot" style="background: {{ source.color }}"></span>
+              <strong>{{ source.name }}</strong>
+            </div>
+            <div class="source-card__chips">
+              <span class="chip">{{ source.bias.ideology }}</span>
+              {% for geo in source.bias.geopolitical %}
+                <span class="chip chip--dark">{{ geo }}</span>
+              {% endfor %}
+              {% for party in source.bias.party_affinity %}
+                <span class="chip chip--outline">{{ party }}</span>
+              {% endfor %}
+            </div>
+            <div class="source-card__meters">
+              <div>
+                <span>Доверба</span>
+                <strong>{{ source.bias.trust_score }}</strong>
+              </div>
+              <div>
+                <span>Сензационализам</span>
+                <strong>{{ source.bias.sensationalism }}</strong>
+              </div>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+
+      <div class="panel panel--muted" id="method">
+        <div class="section-heading section-heading--tight">
+          <h3>Следни дизајн чекори</h3>
+        </div>
+        <ul class="feature-list">
+          <li>Групирање на иста сторија од повеќе портали во еден споредбен преглед.</li>
+          <li>Филтри по идеологија, медиум, регион и праг на доверливост.</li>
+          <li>Профил страница за секој извор со историја, сопственост и методологија.</li>
+          <li>Прикажување на согласувања и несогласувања меѓу различни медиуми.</li>
+        </ul>
+      </div>
+    </aside>
+  </section>
+</div>

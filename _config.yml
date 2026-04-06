@@ -1,0 +1,15 @@
+title: Media Map
+description: Модерен медиумски фид со мапирање на пристрасност по извор и филтри по перспектива.
+baseurl: ""
+url: ""
+permalink: pretty
+markdown: kramdown
+plugins: []
+collections:
+  articles:
+    output: true
+    permalink: /articles/:name/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md

@@ -1,0 +1,77 @@
+---
+layout: default
+---
+{% assign source = nil %}
+{% for candidate in site.data.sources %}
+  {% if candidate.name == page.source %}
+    {% assign source = candidate %}
+    {% break %}
+  {% endif %}
+  {% if candidate.aliases %}
+    {% for alias in candidate.aliases %}
+      {% if alias == page.source %}
+        {% assign source = candidate %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  {% if source %}{% break %}{% endif %}
+{% endfor %}
+
+<div class="page-shell page-shell--article">
+  <header class="topbar">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand__mark">MM</span>
+      <span class="brand__text">
+        <strong>Media Map</strong>
+        <span>медиумска мапа за Северна Македонија</span>
+      </span>
+    </a>
+    <nav class="topbar__nav" aria-label="Primary">
+      <a href="{{ '/' | relative_url }}#coverage">Покривање</a>
+      <a href="{{ '/' | relative_url }}#sources">Извори</a>
+      <a href="{{ '/' | relative_url }}#method">Методологија</a>
+    </nav>
+  </header>
+
+  <article class="article-page">
+    <a class="article-page__back" href="{{ '/' | relative_url }}">Назад кон почетната</a>
+
+    <div class="article-page__hero">
+      <div class="article-page__image-wrap">
+        <img src="{{ page.image }}" alt="{{ page.title }}">
+      </div>
+
+      <div class="article-page__intro">
+        <div class="meta-row meta-row--wrap">
+          <span class="category-label">{{ page.category }}</span>
+          <span class="timestamp">{{ page.published_at | date: '%d.%m.%Y - %H:%M' }}</span>
+          <span class="source-pill"{% if source %} style="--source-color: {{ source.color }}"{% endif %}>{{ page.source }}</span>
+        </div>
+
+        <h1>{{ page.title }}</h1>
+        <p class="article-page__excerpt">{{ page.excerpt }}</p>
+
+        <div class="article-page__tags">
+          {% if source %}
+            <span class="chip">{{ source.bias.ideology }}</span>
+            {% for geo in source.bias.geopolitical %}
+              <span class="chip chip--dark">{{ geo }}</span>
+            {% endfor %}
+            {% for party in source.bias.party_affinity %}
+              <span class="chip chip--outline">{{ party }}</span>
+            {% endfor %}
+            <span class="chip chip--score">доверба {{ source.bias.trust_score }}</span>
+            <span class="chip chip--warn">сензационализам {{ source.bias.sensationalism }}</span>
+          {% else %}
+            <span class="chip chip--unknown">непознат bias профил</span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+
+    <div class="article-page__body">
+      {{ content }}
+    </div>
+  </article>
+</div>
