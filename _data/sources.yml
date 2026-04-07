@@ -195,3 +195,36 @@
     trust_score: 50
     sensationalism: 50
   color: "#6b7280"
+
+- id: deutsche-welle
+  name: "Deutsche Welle"
+  aliases: ["Deutsche Welle"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
+
+- id: проверено
+  name: "Проверено"
+  aliases: ["Проверено"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
+
+- id: press24
+  name: "Press24"
+  aliases: ["Press24"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
