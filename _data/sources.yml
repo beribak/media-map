@@ -240,6 +240,17 @@
     sensationalism: 50
   color: "#6b7280"
 
+- id: medium
+  name: "Medium"
+  aliases: ["Medium", "medium.com"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
+
 - id: либертас
   name: "Либертас"
   aliases: ["Либертас"]

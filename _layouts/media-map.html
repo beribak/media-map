@@ -42,24 +42,6 @@ layout: default
     </div>
 
     <aside class="hero__rail">
-      <div class="hero-card hero-card--spotlight">
-        <span class="hero-card__label">Денес на прв поглед</span>
-        <div class="hero-metrics">
-          <div>
-            <strong>{{ articles.size }}</strong>
-            <span>стории во фид</span>
-          </div>
-          <div>
-            <strong>{{ sources.size }}</strong>
-            <span>следени медиуми</span>
-          </div>
-          <div>
-            <strong>5 тагови</strong>
-            <span>димензии на пристрасност</span>
-          </div>
-        </div>
-      </div>
-
       <div class="hero-card hero-card--list">
         <span class="hero-card__label">Брз преглед</span>
         <ul class="mini-feed">
@@ -166,13 +148,15 @@ layout: default
           {% endfor %}
           <article class="news-card">
             <a class="news-card__link" href="{{ article_link }}" aria-label="{{ article.title }}">
-              <div class="news-card__image-wrap">
-                <div class="news-card__image" style="background-image: url('{{ article.image }}');" role="img" aria-label="{{ article.title }}"></div>
-              </div>
               <div class="news-card__content">
-                <div class="news-card__topline">
-                  <span class="category-label">{{ article.category }}</span>
-                  <span class="timestamp">{{ article.published_at | date: '%H:%M' }}</span>
+                <div class="news-card__header">
+                  <div class="news-card__image-wrap">
+                    <img class="news-card__image" src="{{ article.image }}" alt="{{ article.title }}" loading="lazy">
+                  </div>
+                  <div class="news-card__topline">
+                    <span class="category-label">{{ article.category }}</span>
+                    <span class="timestamp">{{ article.published_at | date: '%H:%M' }}</span>
+                  </div>
                 </div>
                 <h4>{{ article.title }}</h4>
                 <p>{{ article.excerpt }}</p>
