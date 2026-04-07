@@ -261,3 +261,25 @@
     trust_score: 50
     sensationalism: 50
   color: "#6b7280"
+
+- id: паноптикум
+  name: "Паноптикум"
+  aliases: ["Паноптикум"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
+
+- id: радио-моф
+  name: "Радио МОФ"
+  aliases: ["Радио МОФ"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
