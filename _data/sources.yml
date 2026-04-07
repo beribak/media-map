@@ -228,3 +228,14 @@
     trust_score: 50
     sensationalism: 50
   color: "#6b7280"
+
+- id: bloomberg-adria
+  name: "Bloomberg Adria"
+  aliases: ["Bloomberg Adria"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
