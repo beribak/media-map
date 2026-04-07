@@ -123,13 +123,79 @@ function parseStoredArticles(yaml) {
     .filter((article) => article.id && article.title);
 }
 
-async function loadStoredArticles() {
+function sortArticlesByPublishedAtDesc(left, right) {
+  const leftTime = new Date(left?.published_at || 0).getTime();
+  const rightTime = new Date(right?.published_at || 0).getTime();
+  return rightTime - leftTime;
+}
+
+function parseCollectionArticle(markdown, id) {
+  const match = String(markdown || '').match(/^---\n([\s\S]*?)\n---/);
+  if (!match) return null;
+
+  const frontMatter = match[1];
+  const article = {
+    id,
+    title: matchYamlValue(frontMatter, 'title'),
+    source: matchYamlValue(frontMatter, 'source'),
+    published_at: matchYamlValue(frontMatter, 'published_at'),
+    category: matchYamlValue(frontMatter, 'category'),
+    image: matchYamlValue(frontMatter, 'image'),
+    url: matchYamlValue(frontMatter, 'external_url') || matchYamlValue(frontMatter, 'url'),
+    excerpt: matchYamlValue(frontMatter, 'excerpt'),
+    featured: matchYamlValue(frontMatter, 'featured') === 'true',
+    pageUrl: BASE_URL
+  };
+
+  return article.id && article.title ? article : null;
+}
+
+async function loadCollectionArticles() {
+  let files = [];
   try {
-    const yaml = await fs.readFile(ARTICLES_YML, 'utf8');
-    return parseStoredArticles(yaml);
+    files = await fs.readdir(COLLECTION_DIR);
   } catch {
     return [];
   }
+
+  const articles = [];
+  for (const file of files) {
+    if (!file.startsWith(SCRAPED_PREFIX) || !file.endsWith('.md')) continue;
+
+    try {
+      const markdown = await fs.readFile(path.join(COLLECTION_DIR, file), 'utf8');
+      const article = parseCollectionArticle(markdown, file.replace(/\.md$/, ''));
+      if (article) articles.push(article);
+    } catch {
+      // Ignore malformed generated files and keep loading the rest.
+    }
+  }
+
+  return articles.sort(sortArticlesByPublishedAtDesc);
+}
+
+async function loadStoredArticles() {
+  let yamlArticles = [];
+  try {
+    const yaml = await fs.readFile(ARTICLES_YML, 'utf8');
+    yamlArticles = parseStoredArticles(yaml);
+  } catch {
+    yamlArticles = [];
+  }
+
+  const collectionArticles = await loadCollectionArticles();
+  const combined = [...collectionArticles, ...yamlArticles].sort(sortArticlesByPublishedAtDesc);
+  const seenIds = new Set();
+  const seenTitles = new Set();
+
+  return combined.filter((article) => {
+    const normalizedTitle = normalizeArticleTitle(article.title);
+    if (!article.id || !normalizedTitle) return false;
+    if (seenIds.has(article.id) || seenTitles.has(normalizedTitle)) return false;
+    seenIds.add(article.id);
+    seenTitles.add(normalizedTitle);
+    return true;
+  });
 }
 
 function createArticleId(article, takenIds) {
@@ -197,6 +263,7 @@ async function ensureSourcePlaceholder(article) {
 }
 
 function buildCollectionMarkdown(article, index) {
+  const pageUrl = article.pageUrl || BASE_URL;
   return [
     '---',
     'layout: article',
@@ -211,7 +278,7 @@ function buildCollectionMarkdown(article, index) {
     '---',
     `${article.excerpt}`,
     '',
-    `Оваа ставка е автоматски повлечена од ${article.pageUrl} преку GitHub Actions scraper.`,
+    `Оваа ставка е автоматски повлечена од ${pageUrl} преку GitHub Actions scraper.`,
     '',
     `Оригинален линк: ${article.url}`,
     ''
