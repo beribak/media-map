@@ -1,49 +1,49 @@
-- id: time-mk-20260407-спектакуларни-кадри-од-темната-страна-на-месечин
-  title: "📷СПЕКТАКУЛАРНИ КАДРИ ОД ТЕМНАТА СТРАНА НА МЕСЕЧИНАТА Астронаутите од „Артемис“ снимија како „заоѓа“ Земјата"
-  source: "+инфо"
-  published_at: "2026-04-07T19:31:16.938+02:00"
-  category: "Технологија"
-  image: "https://time.mk/images/thumb/52ebfb4a82.jpg"
-  url: "https://plusinfo.mk/spektakularni-kadri-od-temnata-strana-na-mesechinata-astronautite-od-artemis-snimi-a-kako-zao-a-zem-ata/"
-  excerpt: "Фотографиите од „Артемис II“ кои ги објави НАСА прикажуваат заоѓање на Земјата и долго затемнување на Сонцето зад Месечината. Астронаутите ги снимиле сцените додека 40-тина минути биле без комуникација на затемнетата страна на нашиот природен ..."
+- id: time-mk-20260407-мисајловски-на-првата-сесија-на-стратешкиот-дија
+  title: "Мисајловски на првата сесија на Стратешкиот дијалог со САД: Повеќе од три декади заеднички ги развиваме одбранбените капацитети, ..."
+  source: "Макфакс"
+  published_at: "2026-04-07T20:30:59.567+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/613c0d21e8.jpg"
+  url: "https://makfax.com.mk/makedonija/misajlovski-na-prvata-sesija-na-strateshkiot-dijalog-so-sad-poveke-od-tri-dekadi-zaednichki-gi-razvivame-odbranbenite-kapaciteti-prodolzhuvame-so-ista-posvetenost-i-vo-idnina/"
+  excerpt: "Во рамки на Стратешкиот дијалог со САД кој се реализира во Вашингтон, министерот за одбрана Владо Мисајловски ја предводеше првата сесија од разговорите посветена на одбранбените и безбедносни прашања при што укажа на долготрајното партнерство ..."
   featured: true
+
+- id: time-mk-20260407-заогање-на-земјата-и-затемнување-на-сонцето-наса
+  title: "„Заоѓање на Земјата“ и затемнување на Сонцето: НАСА ги објави првите фотографии од прелетот на „Орион“ покрај Месечината"
+  source: "360 степени"
+  published_at: "2026-04-07T20:29:59.567+02:00"
+  category: "Технологија"
+  image: "https://time.mk/images/thumb/d45478ada5.jpg"
+  url: "https://360stepeni.mk/zaogane-na-zemjata-i-zatemnuvane-na-sontseto-nasa-gi-objavi-prvite-fotografii-od-preletot-na-orion-pokraj-mesechinata/"
+  excerpt: "На првата фотографија се гледа е она што се нарекува „заоѓање на Земјата“, односно момент кога астронауите ја здогледуваат нашата планета зад лунарниот пејзаж со лузните од многубројните кратери Американската агенција за вселенскине истражувања – ..."
+  featured: false
+
+- id: time-mk-20260407-справете-се-со-себе-старче-иранските-амбасади-сп
+  title: "„Справете се со себе, старче“: Иранските амбасади споделуваат саркастични мемиња за заканата на Трамп"
+  source: "Слободен Печат"
+  published_at: "2026-04-07T20:28:59.567+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/3c53caa7a5.jpg"
+  url: "https://www.slobodenpecat.mk/spravete-se-so-sebe-starche-iranskite-ambasadi-spodeluvaat-sarkastichni-meminja-za-zakanata-na-tramp/"
+  excerpt: "Иранските амбасади од Лондон до Преторија и од Њу Делхи до Москва започнаа саркастична кампања на социјалните медиуми, напаѓајќи ја менталната острина на американскиот претседател Доналд Трамп, исмејувајќи го неговиот јазик и споделувајќи сатирични ..."
+  featured: false
 
 - id: time-mk-20260407-по-мицкоски-и-османи-им-пишал-на-мегународните-п
   title: "По Мицкоски, и Османи им пишал на меѓународните партнери за протестот на студентите Албанци"
   source: "Фокус"
-  published_at: "2026-04-07T19:30:16.938+02:00"
+  published_at: "2026-04-07T20:27:59.567+02:00"
   category: "Политика"
   image: "https://time.mk/images/thumb/319747250b.jpg"
   url: "https://fokus.mk/po-mitskoski-i-osmani-im-pishal-na-megunarodnite-partneri-za-protestot-na-studentite-albantsi/"
   excerpt: "„Денес ги информирав претставниците на меѓународната заедница за напорите на Владата да ја претстави на искривен начин природата на студентските протести, етикетирајќи ги како партиски мотивирани и создавајќи неточна перцепција за реалноста во ..."
   featured: false
 
-- id: time-mk-20260407-иран-одговори-на-заканата-на-трамп-дека-цивилиза
-  title: "Иран одговори на заканата на Трамп дека „цивилизацијата ќе изумре“"
-  source: "Скопје1"
-  published_at: "2026-04-07T19:29:16.938+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/1f77b33256.jpg"
-  url: "https://skopje1.mk/iran-odgovori-na-zakanata-na-tramp-deka-civilizacijata-kje-izumre"
-  excerpt: "Американскиот претседател Доналд Трамп денеска преку својата социјална мрежа Truth Social упати закана кон Иран, тврдејќи дека „целата една цивилизација вечерва ќе изумре и никогаш повеќе нема да се врати“."
-  featured: false
-
 - id: time-mk-20260407-светски-ден-на-здравјето-здравството-потфрла-во-
   title: "Светски ден на здравјето, здравството потфрла во превенцијата"
   source: "24 Вести"
-  published_at: "2026-04-07T19:28:16.938+02:00"
+  published_at: "2026-04-07T20:26:59.567+02:00"
   category: "Здравство"
   image: "https://time.mk/images/thumb/8db22c941c.jpg"
   url: "https://www.24.mk/details/svetski-den-na-zdravjeto-zdravstvoto-potfrla-vo-prevencijata"
   excerpt: "Здравството потфрла во превенцијата – ревизијата на државниот завод откри сериозни недостатоци во системот. Одвај пет проценти од жените се опфатени со скринингот на рак на дојка, додека кај ракот на грло на матка опфатот е од 10-15 проценти, што е ..."
-  featured: false
-
-- id: time-mk-20260407-сад-и-македонија-го-отворија-стратешкиот-дијалог
-  title: "САД и Македонија го отворија Стратешкиот дијалог: Потврдена силната соработка во рамки на НАТО"
-  source: "4NEWS"
-  published_at: "2026-04-07T19:27:16.938+02:00"
-  category: "Геополитика"
-  image: "https://time.mk/images/thumb/f1b28d67d7.jpg"
-  url: "https://4news.mk/sad-i-makedonija-go-otvorija-strateshkiot-dijalog-potvrdena-silnata-sorabotka-vo-ramki-na-nato/"
-  excerpt: "Денеска во Скопје беше отворен Стратешкиот дијалог меѓу САД и Македонија, на кој двете земји ја потврдија својата силна соработка и заедничка посветеност кон колективната одбрана во рамки на НАТО."
   featured: false
