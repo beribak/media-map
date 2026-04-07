@@ -129,3 +129,36 @@
     trust_score: 50
     sensationalism: 50
   color: "#6b7280"
+
+- id: трн
+  name: "Трн"
+  aliases: ["Трн"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
+
+- id: бизнис-вести
+  name: "Бизнис Вести"
+  aliases: ["Бизнис Вести"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
+
+- id: рацин
+  name: "Рацин"
+  aliases: ["Рацин"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
