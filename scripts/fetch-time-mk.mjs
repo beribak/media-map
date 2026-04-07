@@ -73,6 +73,10 @@ function classifyCategory(title, snippet) {
   return 'Општо';
 }
 
+function trimText(value) {
+  return String(value || '').replace(/\s+/g, ' ').trim();
+}
+
 function buildYamlArticle(article, index) {
   return [
     `- id: ${article.id}`,
@@ -287,23 +291,15 @@ async function main() {
 
   const html = await res.text();
   const $ = cheerio.load(html);
-  const clusters = $('.cluster').slice(0, SCRAPED_LIMIT);
-  if (!clusters.length) throw new Error('Could not find .cluster entries on page');
 
   const fetchedAt = new Date().toISOString();
   const basePublishedAt = new Date(fetchedAt).getTime();
   const articles = [];
 
-  clusters.each((index, element) => {
-    const cluster = $(element);
-    const titleAnchor = cluster.find('h1 a').first();
-    const sourceAnchor = cluster.find('a.source').first();
-    const whenText = cluster.find('.when').first().text().trim() || null;
-    const snippet = cluster.find('p.snippet').first().text().trim() || null;
-    const imageStyle = cluster.find('.article_image .image').first().attr('style') || '';
+  const addArticle = (index, { titleAnchor, sourceAnchor, whenText, snippet, imageStyle }) => {
     const imageUrl = extractBackgroundImage(imageStyle);
-    const title = titleAnchor.text().trim() || null;
-    const source = sourceAnchor.text().trim() || 'time.mk';
+    const title = trimText(titleAnchor.text()) || null;
+    const source = trimText(sourceAnchor.text()) || 'time.mk';
     if (!title) return;
 
     const articleDate = new Date(basePublishedAt - index * 60 * 1000).toISOString();
@@ -324,7 +320,52 @@ async function main() {
       excerpt: snippet || `Автоматски преземена статија од ${source}.`,
       slug: slugify(title)
     });
-  });
+  };
+
+  const clusters = $('.cluster').slice(0, SCRAPED_LIMIT);
+  if (clusters.length) {
+    clusters.each((index, element) => {
+      const cluster = $(element);
+      addArticle(index, {
+        titleAnchor: cluster.find('h1 a').first(),
+        sourceAnchor: cluster.find('a.source').first(),
+        whenText: trimText(cluster.find('.when').first().text()) || null,
+        snippet: trimText(cluster.find('p.snippet').first().text()) || null,
+        imageStyle: cluster.find('.article_image .image').first().attr('style') || ''
+      });
+    });
+  }
+
+  if (!articles.length) {
+    const headingAnchors = $('h1 a[href]')
+      .filter((_, element) => {
+        const href = $(element).attr('href') || '';
+        const title = trimText($(element).text());
+        if (!href || !title) return false;
+        if (href.startsWith('#')) return false;
+        if (href.toLowerCase().startsWith('javascript:')) return false;
+        return true;
+      })
+      .slice(0, SCRAPED_LIMIT * 3);
+
+    headingAnchors.each((_, element) => {
+      if (articles.length >= SCRAPED_LIMIT) return false;
+      const titleAnchor = $(element);
+      const cardRoot = titleAnchor.closest('div, article, section, li');
+      addArticle(articles.length, {
+        titleAnchor,
+        sourceAnchor: cardRoot.find('h2 a, a.source').first(),
+        whenText: trimText(cardRoot.find('.when, h2').first().text()) || null,
+        snippet: trimText(cardRoot.find('p').first().text()) || null,
+        imageStyle: cardRoot.find('.image,[style*="background-image"]').first().attr('style') || ''
+      });
+      return undefined;
+    });
+  }
+
+  if (!articles.length) {
+    throw new Error('Could not find parsable article entries on time.mk homepage');
+  }
 
   const result = await updateMediaMapFresh(articles);
   console.log(JSON.stringify({ scraped: articles.length, ...result, articles }, null, 2));
