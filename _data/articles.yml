@@ -1,49 +1,49 @@
-- id: time-mk-20260407-историски-моменти-во-вселената-помрчина-каква-шт
-  title: "Историски моменти во вселената: помрчина каква што никогаш не е видена"
-  source: "Скопје1"
-  published_at: "2026-04-07T07:45:36.576+02:00"
-  category: "Технологија"
-  image: "https://time.mk/images/thumb/b2b02a6dea.jpg"
-  url: "https://skopje1.mk/istoriski-momenti-vo-vselenata-pomrcina-kakva-sto-nikogas-ne-e-videna"
-  excerpt: "Главниот научник на NASA, д-р Никола Фокс, изјави дека прелетот покрај Месечината во рамки на мисијата Artemis II NASA mission бил „неверојатен и исклучително напорен ден“ за тимот во контролата на летот."
+- id: time-mk-20260407-можам-да-го-уништам-иран-во-една-нок-не-ми-е-гај
+  title: "МОЖАМ ДА ГО УНИШТАМ ИРАН ВО ЕДНА НОЌ, НЕ МИ Е ГАЈЛЕ ДАЛИ ПРАВАМ ВОЕНО ЗЛОСТОРСТВО, РЕЧЕ ТРАМП"
+  source: "Сакам да кажам"
+  published_at: "2026-04-07T08:44:11.515+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/2037734f86.jpg"
+  url: "https://sdk.mk/index.php/svet/mozham-da-go-unishtam-iran-vo-edna-nok-ne-mi-e-gajle-dali-pravam-voeno-zlostorstvo-reche-tramp/"
+  excerpt: "Иран продолжи да пркоси и одбива да го отвори Ормускиот Теснец и да склучи договор со САД, додека истекува крајниот рок поставен од Доналд Трамп, кој се закани дека ќе го уништи Иран во една ноќ ако не ги прифати неговите барања."
   featured: true
 
-- id: time-mk-20260407-сончево-и-топло-до-26-степени
-  title: "Сончево и топло до 26 степени"
-  source: "24 Вести"
-  published_at: "2026-04-07T07:44:36.576+02:00"
+- id: time-mk-20260407-астронаутите-на-артемис-2-одлетаа-досега-најдале
+  title: "Астронаутите на „Артемис 2“ одлетаа досега најдалеку во вселената и ја документираа далечната страна на Месечината"
+  source: "Мета"
+  published_at: "2026-04-07T08:43:11.515+02:00"
+  category: "Технологија"
+  image: "https://time.mk/images/thumb/ef3b968ac7.jpg"
+  url: "https://meta.mk/astronautite-na-artemis-2-odletaa-dosega-najdaleku-vo-vselenata-i-ja-dokumentiraa-dalechnata-strana-na-mesechinata/"
+  excerpt: "„Артемис 2“ генерираше богатство од нов материјал за проучување од страна на лунарните научници Четирите астронаути од мисијата „Артемис 2“ на НАСА летаа подлабоко во вселената од кој било човек пред нив."
+  featured: false
+
+- id: time-mk-20260407-шефицата-на-ммф-предупредува-војната-на-блискиот
+  title: "Шефицата на ММФ предупредува: Војната на Блискиот Исток води до повисоки цени и побавен раст"
+  source: "Бизнис Вести"
+  published_at: "2026-04-07T08:42:11.515+02:00"
+  category: "Економија"
+  image: "https://time.mk/images/thumb/52d59e5a16.jpg"
+  url: "https://biznisvesti.mk/shefitsata-na-mmf-predupreduva-vojnata-na-bliskiot-istok-vodi-do-povisoki-tseni-i-pobaven-rast/"
+  excerpt: "Војната на Блискиот Исток ќе доведе до повисока инфлација и побавен глобален раст, изјави вчера шефицата на Меѓународниот монетарен фонд (ММФ), Кристалина Георгиева, пред планираното објавување на прогнозата за светската економија."
+  featured: false
+
+- id: time-mk-20260407-времето-денеска-топло-и-сончево
+  title: "ВРЕМЕТО ДЕНЕСКА ТОПЛО И СОНЧЕВО."
+  source: "Тера"
+  published_at: "2026-04-07T08:41:11.515+02:00"
   category: "Општо"
-  image: "https://time.mk/images/thumb/f8037df7fc.jpg"
-  url: "https://www.24.mk/details/sonchevo-i-toplo-do-26-stepeni-4"
-  excerpt: "Сончево и топло се очекува да биде времето денеска, а синоптичарите најавија температура до 26 Целзиусови степени. Според најавите, температурата ќе се движи во интервал од 1 до 26 Целзиусови степени во текот на денот низ државата."
+  image: "https://time.mk/images/thumb/0bb3d90cd6.jpg"
+  url: "https://tera.mk/времето-денеска-топло-и-сончево/"
+  excerpt: "Сончево и топло со мала до умерена локална облачност. Ќе дува слаб до умерен ветер од западен и северозападен правец, информираат од УХМР."
   featured: false
 
 - id: time-mk-20260407-во-вашингтон-денеска-стратешки-дијалог-македониј
   title: "Во Вашингтон денеска Стратешки дијалог Македонија – САД"
   source: "Бизнис Вести"
-  published_at: "2026-04-07T07:43:36.576+02:00"
+  published_at: "2026-04-07T08:40:11.515+02:00"
   category: "Политика"
   image: "https://time.mk/images/thumb/25fba4a8bf.jpg"
   url: "https://biznisvesti.mk/vo-vashington-deneska-strateshki-dijalog-makedonija-sad/"
   excerpt: "По пауза од четири години, во Вашингтон денеска ќе се одржи втората сесија од Стратешкиот дијалог меѓу Северна Македонија и САД. Високата владина делегација ја предводена министерот за надворешни работи и надворешна трговија Тимчо Муцунски, а ќе ..."
-  featured: false
-
-- id: time-mk-20260407-видео-велигденски-концерт-или-политичка-промоциј
-  title: "(Видео) Велигденски концерт или политичка промоција? Деца пееле песна за Максим Димитриевски – СДСМ обвинува за злоупотреба, ЗНАМ демантира"
-  source: "Скопје1"
-  published_at: "2026-04-07T07:42:36.576+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/618abeddda.jpg"
-  url: "https://skopje1.mk/video-veligdenski-koncert-ili-politicka-promocija-deca-peele-pesna-za-maksim-dimitrievski-sdsm-obvinuva-za-zloupotreba-znam-demantira"
-  excerpt: "Настан во училишен двор во Куманово, најавен како „велигденски хуманитарен концерт“, отвори политичка полемика откако на снимки се гледа како стотици деца во еден глас пеат песна посветена на градоначалникот и лидер на ЗНАМ – За наша Македонија, ..."
-  featured: false
-
-- id: time-mk-20260407-ees-системот-почнува-на-10-април-се-очекуваат-по
-  title: "EES системот почнува на 10 април, се очекуваат подолги контроли на границите!"
-  source: "Бизнис Вести"
-  published_at: "2026-04-07T07:41:36.576+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/f26d5ac2d7.jpg"
-  url: "https://biznisvesti.mk/ees-sistemot-pochnuva-na-10-april-se-ochekuvaat-podolgi-kontroli-na-granitsite/"
-  excerpt: "Системот за влез и излез – EES (Entry/Exit System), кој го воведува Европската унија, претставува нов дигитален механизам за регистрација на патници што влегуваат и излегуваат од Шенген зоната."
   featured: false
