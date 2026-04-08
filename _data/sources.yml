@@ -305,3 +305,14 @@
     trust_score: 50
     sensationalism: 50
   color: "#6b7280"
+
+- id: емагазин
+  name: "еМагазин"
+  aliases: ["еМагазин"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
