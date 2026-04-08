@@ -1,3 +1,53 @@
+- id: time-mk-20260408-ново-рочиште-за-смртта-на-ивана-и-нејзината-керк
+  title: "Ново рочиште за смртта на Ивана и нејзината ќерка – презентирани видео снимки со расправии и физичко насилство"
+  source: "ТВ21"
+  published_at: "2026-04-08T16:45:29.373+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/7eb69c75c0.jpg"
+  url: "https://mk.tv21.tv/novo-rochishte-za-smrtta-na-ivana-i-nejzinata-kerka-prezentirani-video-snimki-so-raspravii-i-fizichko-nasilstvo/"
+  excerpt: "Видеоснимки со физичко насилство беа презентирани како доказ на денешното рочиште во Основниот кривичен суд – Скопје против Стојанче Јовановски, сопруг на починатата Ивана Јовановска. Обвинителството прикажа снимки од „Безбеден град“, кафе-бар ..."
+  featured: true
+
+- id: time-mk-20260408-цените-на-гасот-во-европа-нагло-паднаа-по-смирув
+  title: "Цените на гасот во Европа нагло паднаа по смирувањето на тензиите меѓу САД и Иран"
+  source: "Бизнис Вести"
+  published_at: "2026-04-08T16:44:29.373+02:00"
+  category: "Економија"
+  image: "https://time.mk/images/thumb/9ff33ffb31.jpg"
+  url: "https://biznisvesti.mk/tsenite-na-gasot-vo-evropa-naglo-padnaa-po-smiruvaneto-na-tenziite-megu-sad-i-iran/"
+  excerpt: "Цените на природниот гас во Европа бележат значителен пад од речиси 20%, откако беше постигнат прекин на огнот меѓу Соединетите Американски Држави и Иран , што донесе олеснување на глобалните енергетски пазари."
+  featured: false
+
+- id: time-mk-20260408-советот-на-јавни-обвинители-без-расправа-ја-утвр
+  title: "СОВЕТОТ НА ЈАВНИ ОБВИНИТЕЛИ БЕЗ РАСПРАВА ЈА УТВРДИ ОСТАВКАТА НА ЛЕНЧЕ РИСТОСКА НА КОЈА Ѝ СЕ ОДЗЕМЕНИ ПРЕДМЕТИТЕ ПРОТИВ ВМРО-ДПМНЕ ЗА ..."
+  source: "Сакам да кажам"
+  published_at: "2026-04-08T16:43:29.373+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/5c456de07d.jpg"
+  url: "https://sdk.mk/index.php/makedonija/sovetot-na-javni-obviniteli-bez-rasprava-ja-utvrdi-ostavkata-na-lenche-ristoska-na-koja-se-odzemeni-predmetite-protiv-vmro-dpmne-za-koruptsija/"
+  excerpt: "Советот на јавни обвинители без никаква расправа денеска ја констатираше оставката на Ленче Ристоска од функцијата јавен обвинител. Ристоска на 2 април, во Барање за престанок на функцијата јавен обвинител им напиша на членовите на Советот дека не ..."
+  featured: false
+
+- id: time-mk-20260408-објавена-заедничка-изјава-за-стратешкиот-дијалог
+  title: "Објавена заедничка изјава за Стратешкиот дијалог меѓу Северна Македонија и Соединетите Американски Држави"
+  source: "Макфакс"
+  published_at: "2026-04-08T16:42:29.373+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/107162d731.jpg"
+  url: "https://makfax.com.mk/makedonija/objavena-zaednichka-izjava-za-strateshkiot-dijalog-megu-severna-makedonija-i-soedinetite-amerikanski-drzhavi/"
+  excerpt: "Владите на Република Северна Македонија и Соединетите Американски Држави објавија Заедничка изјава по одржувањето на втората сесија на Стратешкиот дијалог во Вашингтон, предводена од министерот за надворешни работи и надворешна трговија, Тимчо ..."
+  featured: false
+
+- id: time-mk-20260408-сиљановска-давкова-на-средба-со-ромски-уметници-
+  title: "Сиљановска-Давкова на средба со ромски уметници: Потребна е видливост и рамноправност на уметниците Роми"
+  source: "Либертас"
+  published_at: "2026-04-08T16:41:29.373+02:00"
+  category: "Култура"
+  image: "https://time.mk/images/thumb/5b021b8aa3.jpg"
+  url: "https://libertas.mk/si-anovska-davkova-na-sredba-so-romski-umetnici-potrebna-e-vidlivost-i-ramnopravnost-na-umetnicite-romi/"
+  excerpt: "По повод Меѓународниот ден на Ромите, претседателката Гордана Сиљановска-Давкова прими истакнати ромски уметници и културни дејци, активни на македонската културно-уметничка сцена и пошироко."
+  featured: false
+
 - id: time-mk-20260408-плачот-на-ивана-и-на-катја-се-слушаше-во-судница
   title: "Плачот на Ивана и на Катја се слушаше во судница, десетици пријави, нула помош"
   source: "Вечер Прес"
@@ -6,7 +56,7 @@
   image: "https://time.mk/images/thumb/d5a467d1b0.jpg"
   url: "https://www.vecer.press/plachot-na-ivana-i-na-katja-se-slushashe-vo-sudnicza-deseticzi-prijavi-nula-pomosh/"
   excerpt: "Обвинителството пушташе аудио и видеодокази за семејното насилство од Карпош Од десетиците пријави до броевите за итни повици 112 и 192 за суровото семејно насилство што го трпела Ивана од сопругот Стојанче Јовановски, може да се заклучи дека ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260408-ацо-ристов-е-нов-претседател-на-регулаторна-собр
   title: "АЦО РИСТОВ Е НОВ ПРЕТСЕДАТЕЛ НА РЕГУЛАТОРНА Собранието го избра со 68 гласа"
@@ -446,54 +496,4 @@
   image: "https://time.mk/images/thumb/70744c55a7.jpg"
   url: "https://mk.tv21.tv/za-prv-pat-vo-istorijata-objavena-e-fotografija-od-drugata-strana-na-mesechinata/"
   excerpt: "Белата куќа ја објави првата фотографија направена од далечната страна на Месечината. Неверојатната слика на НАСА, направена од вселенското летало Орион, е направена додека Земјата исчезнувала под лунарниот хоризонт, се вели во неа."
-  featured: false
-
-- id: time-mk-20260408-владата-го-усвои-законот-за-правична-и-соодветна
-  title: "Владата го усвои законот за правична и соодветна застапеност кој треба да го замени „балансерот“"
-  source: "360 степени"
-  published_at: "2026-04-08T00:18:27.114+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/45e307dee8.jpg"
-  url: "https://360stepeni.mk/vladata-go-usvoi-zakonot-za-pravichna-i-soodvetna-zastapenost-shto-treba-da-go-zameni-balanserot/"
-  excerpt: "Со законот, според првиот вицепремиер и министер за европски прашања Беким Сали, особено внимание се посветува на подобрување на застапеноста на граѓаните кои припаѓаат на заедниците што се подзастапени во органите на државната власт и другите ..."
-  featured: false
-
-- id: time-mk-20260407-мисајловски-на-првата-сесија-на-стратешкиот-дија
-  title: "Мисајловски на првата сесија на Стратешкиот дијалог со САД: Повеќе од три декади заеднички ги развиваме одбранбените капацитети, ..."
-  source: "Макфакс"
-  published_at: "2026-04-07T20:30:59.567+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/613c0d21e8.jpg"
-  url: "https://makfax.com.mk/makedonija/misajlovski-na-prvata-sesija-na-strateshkiot-dijalog-so-sad-poveke-od-tri-dekadi-zaednichki-gi-razvivame-odbranbenite-kapaciteti-prodolzhuvame-so-ista-posvetenost-i-vo-idnina/"
-  excerpt: "Во рамки на Стратешкиот дијалог со САД кој се реализира во Вашингтон, министерот за одбрана Владо Мисајловски ја предводеше првата сесија од разговорите посветена на одбранбените и безбедносни прашања при што укажа на долготрајното партнерство ..."
-  featured: false
-
-- id: time-mk-20260407-заогање-на-земјата-и-затемнување-на-сонцето-наса
-  title: "„Заоѓање на Земјата“ и затемнување на Сонцето: НАСА ги објави првите фотографии од прелетот на „Орион“ покрај Месечината"
-  source: "360 степени"
-  published_at: "2026-04-07T20:29:59.567+02:00"
-  category: "Технологија"
-  image: "https://time.mk/images/thumb/d45478ada5.jpg"
-  url: "https://360stepeni.mk/zaogane-na-zemjata-i-zatemnuvane-na-sontseto-nasa-gi-objavi-prvite-fotografii-od-preletot-na-orion-pokraj-mesechinata/"
-  excerpt: "На првата фотографија се гледа е она што се нарекува „заоѓање на Земјата“, односно момент кога астронауите ја здогледуваат нашата планета зад лунарниот пејзаж со лузните од многубројните кратери Американската агенција за вселенскине истражувања – ..."
-  featured: false
-
-- id: time-mk-20260407-справете-се-со-себе-старче-иранските-амбасади-сп
-  title: "„Справете се со себе, старче“: Иранските амбасади споделуваат саркастични мемиња за заканата на Трамп"
-  source: "Слободен Печат"
-  published_at: "2026-04-07T20:28:59.567+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/3c53caa7a5.jpg"
-  url: "https://www.slobodenpecat.mk/spravete-se-so-sebe-starche-iranskite-ambasadi-spodeluvaat-sarkastichni-meminja-za-zakanata-na-tramp/"
-  excerpt: "Иранските амбасади од Лондон до Преторија и од Њу Делхи до Москва започнаа саркастична кампања на социјалните медиуми, напаѓајќи ја менталната острина на американскиот претседател Доналд Трамп, исмејувајќи го неговиот јазик и споделувајќи сатирични ..."
-  featured: false
-
-- id: time-mk-20260407-по-мицкоски-и-османи-им-пишал-на-мегународните-п
-  title: "По Мицкоски, и Османи им пишал на меѓународните партнери за протестот на студентите Албанци"
-  source: "Фокус"
-  published_at: "2026-04-07T20:27:59.567+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/319747250b.jpg"
-  url: "https://fokus.mk/po-mitskoski-i-osmani-im-pishal-na-megunarodnite-partneri-za-protestot-na-studentite-albantsi/"
-  excerpt: "„Денес ги информирав претставниците на меѓународната заедница за напорите на Владата да ја претстави на искривен начин природата на студентските протести, етикетирајќи ги како партиски мотивирани и создавајќи неточна перцепција за реалноста во ..."
   featured: false
