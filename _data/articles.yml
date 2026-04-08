@@ -1,3 +1,43 @@
+- id: time-mk-20260408-цените-на-нафтата-паднаа-а-акциите-скокнаа-откак
+  title: "Цените на нафтата паднаа, а акциите скокнаа откако САД и Иран се согласија за двонеделен прекин на огнот"
+  source: "360 степени"
+  published_at: "2026-04-08T13:30:16.627+02:00"
+  category: "Геополитика"
+  image: "https://time.mk/images/thumb/fc286e5e8f.jpg"
+  url: "https://360stepeni.mk/tsenite-na-naftata-padnaa-a-aktsiite-skoknaa-otkako-sad-i-iran-se-soglasija-za-dvonedelen-prekin-na-ognot/"
+  excerpt: "Суровата нафта „брент“ падна за 14,4 отсто на 93,48 долари за барел. Сепак, цените остануваат далеку над нивото од пред почетокот на војната, кога „брент“ се тргуваше под 73 долари за барел Цените на нафтата паднаа за речиси 15 отсто, а глобалните ..."
+  featured: true
+
+- id: time-mk-20260408-ке-ја-убие-мајка-ми-плаче-6-годишната-катја-доде
+  title: "„ЌЕ ЈА УБИЕ МАЈКА МИ“, ПЛАЧЕ 6-ГОДИШНАТА КАТЈА ДОДЕКА БАБА Ѝ ГО ПРИЈАВУВА ВО ПОЛИЦИЈА СИНА СИ СТОЈАНЧЕ ЗА ОБИД ЗА УБИСТВО, СЕ СЛУШНА НА ..."
+  source: "Сакам да кажам"
+  published_at: "2026-04-08T13:29:16.627+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/8d62cedf01.jpg"
+  url: "https://sdk.mk/index.php/makedonija/ke-ja-ubie-majka-mi-plache-6-godishnata-katja-dodeka-baba-go-prijavuva-vo-politsija-sina-si-stojanche-za-obid-za-ubistvo-dodeka-toj-ja-tepa-soprugata-se-slushna-na-audiosnimkite-od-112/"
+  excerpt: "Со изведување на материјални докази од насилствата што ги вршел обвинетиот Стојанче Јовановски, чија сопруга Ивана Стојаноска по повеќегодишно семејно насилство на 2 март се самоуби со 6-годишната ќерка Катја скокајќи од заедничкиот стан во ..."
+  featured: false
+
+- id: time-mk-20260408-отфрлена-последната-жалба-универзал-балкан-до-де
+  title: "Отфрлена последната жалба, „Универзал Балкан“ до декември 2027 година треба да ја изгради новата Универзална сала"
+  source: "Слободен Печат"
+  published_at: "2026-04-08T13:28:16.627+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/0547816164.jpg"
+  url: "https://www.slobodenpecat.mk/otfrlena-poslednata-zhalba-univerzal-balkan-do-dekemvri-2027-godina-treba-da-ja-izgradi-novata-univerzalna-sala/"
+  excerpt: "Од Министерството за култура соопштија дека со отфрлањето на жалбата за последниот тендер, која била отфрлена како неоснована, се потврдила Одлуката за избор на најповолен понудувач – компанијата „Универзал Балкан“."
+  featured: false
+
+- id: time-mk-20260408-не-е-ден-само-за-зборови-мицкоски-најави-мерки-з
+  title: "„НЕ Е ДЕН САМО ЗА ЗБОРОВИ“ Мицкоски најави мерки за интеграција на Ромите по повод 8 Април"
+  source: "+инфо"
+  published_at: "2026-04-08T13:26:16.627+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/a2ae500485.jpg"
+  url: "https://plusinfo.mk/ne-e-den-samo-za-zborovi-mickoski-na-avi-merki-za-integraci-a-na-romite-po-povod-8-april/"
+  excerpt: "Премиерот порача дека визијата за вистинска инклузија започнува со образование достапно за секое ромско дете и конкретни политики за еднаквост. Образованието достапно за секое ромско дете е основа на визијата за вистинска еднаквост, порача премиерот ..."
+  featured: false
+
 - id: time-mk-20260408-доларот-падна-избришана-добивката-што-ја-оствари
   title: "Доларот падна – избришана добивката што ја оствари од почетокот на конфликтот"
   source: "Вечер Прес"
@@ -6,7 +46,7 @@
   image: "https://time.mk/images/thumb/b0525544e3.jpg"
   url: "https://www.vecer.press/dolarot-padna-izbrishana-dobivkata-shto-ja-ostvari-od-pochetokot-na-konfliktot/"
   excerpt: "Американскиот долар ослабе во однос на сите главни валути денес откако САД и Иран постигнаа двонеделен прекин на огнот, намалувајќи ја побарувачката за безбедни засолништа и намалувајќи ги цените на нафтата."
-  featured: true
+  featured: false
 
 - id: time-mk-20260408-почнува-реконструкцијата-на-универзална-сала-се-
   title: "Почнува реконструкцијата на Универзална сала, се очекува да биде завршена во 2027 година"
@@ -456,44 +496,4 @@
   image: "https://time.mk/images/thumb/afedbbea47.jpg"
   url: "https://makfax.com.mk/makedonija/andonovski-od-strateshkiot-dijalog-so-sad-prodlabochuvanje-na-sorabotkata-vo-sajber-bezbednosta-i-digitalnata-infrastruktura/"
   excerpt: "Министерот за дигитална трансформација е дел од Владината делегација на Стратешкиот дијалог помеѓу Македонија и Соединетите Американски Држави во Вашингтон. Според Андоновски, ова претставува значаен чекор во унапредување на билатералната соработка, ..."
-  featured: false
-
-- id: time-mk-20260407-пратеничка-од-албанската-опозиција-во-пр-налет-п
-  title: "Пратеничка од албанската опозиција во ПР налет, присутните активисти укажаа „насилството не познава јазици“"
-  source: "Вечер Прес"
-  published_at: "2026-04-07T18:28:48.426+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/898a72a008.jpg"
-  url: "https://www.vecer.press/pratenichka-od-albanskata-opoziczija-vo-pr-nalet-prisutnite-aktivisti-ukazhaa-nasilstvoto-ne-poznava-jaziczi/"
-  excerpt: "Повеќе шелтер засолништа, обука на полицајците и социјалните работници, финасиска подршка на жртвата и по разделување од насилникот се дел од препораките кои женските здруженија ги кажаа на јавната расправа во Собранието по повод Националната ..."
-  featured: false
-
-- id: time-mk-20260407-артемида-ii-човештвото-од-другата-страна-на-месе
-  title: "Артемида II: Човештвото од другата страна на Месечината – Слики што го одземаат здивот"
-  source: "4NEWS"
-  published_at: "2026-04-07T17:40:29.998+02:00"
-  category: "Технологија"
-  image: "https://time.mk/images/thumb/91ec7b68c8.jpg"
-  url: "https://4news.mk/artemida-ii-choveshtvoto-od-drugata-strana-na-mesechinata-sliki-shto-go-odzemaat-zdivot/"
-  excerpt: "Екипажот на „Артемис II“ го сруши рекордот за најдалечно растојание што екипажот го поминал од Земјата, а објавените слики се неверојатни. Додека орбитирале околу Месечината, астронаутите патувале 252.756 милји од нашата планета, повеќе од 4.100 ..."
-  featured: false
-
-- id: time-mk-20260407-венс-од-будимпешта-војната-со-иран-ке-заврши-мно
-  title: "Венс од Будимпешта: Војната со Иран ќе заврши многу брзо"
-  source: "Макфакс"
-  published_at: "2026-04-07T17:39:29.998+02:00"
-  category: "Геополитика"
-  image: "https://time.mk/images/thumb/2ccc1db968.jpg"
-  url: "https://makfax.com.mk/svet/vens-od-budimpeshta-vojnata-so-iran-ke-zavrshi-mnogu-brzo/"
-  excerpt: "Американскиот потпретседател Џеј ди Венс изјави дека војната со Иран ќе заврши многу брзо, јавува „Аанадолија“. „Многу брзо оваа војна со Иран ќе заврши“, рече Венс, додавајќи дека САД во голема мера ги оствариле своите воени цели."
-  featured: false
-
-- id: time-mk-20260407-кавга-за-албанскиот-јазик-и-во-собранието-пратен
-  title: "Кавга за албанскиот јазик и во Собранието! – Пратеничката Илире Даути ја блокираше седницата!"
-  source: "ТВ21"
-  published_at: "2026-04-07T17:36:29.998+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/6300ba1844.jpg"
-  url: "https://mk.tv21.tv/kavga-za-albanskiot-jazik-i-vo-sobranieto-pratenichkata-ilire-dauti-ja-blokirashe-sednitsata/"
-  excerpt: "„…Почитувана потпретседателке на комисијата, ве молам многу коректно, овде има правилник како функционира, овде не можете да правите по ваша желба, затоа што во овој случај правото е кај мене."
   featured: false
