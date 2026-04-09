@@ -88,13 +88,13 @@
 
 - id: тв21
   name: "ТВ21"
-  aliases: ["ТВ21"]
+  aliases: ["ТВ21", "TV 21", "TV21"]
   bias:
-    ideology: "неозначено"
+    ideology: "албански политички центар"
     geopolitical: ["неозначено"]
-    party_affinity: ["неозначено"]
-    trust_score: 50
-    sensationalism: 50
+    party_affinity: ["поблиску до DUI отколку до VMRO-DPMNE/SDSM", "не е чисто вклопливо во VMRO-SDSM рамка"]
+    trust_score: 58
+    sensationalism: 42
   color: "#6b7280"
 
 - id: 360-степени
@@ -176,13 +176,13 @@
 
 - id: мета
   name: "Мета"
-  aliases: ["Мета"]
+  aliases: ["Мета", "Meta.mk", "Metamorphosis"]
   bias:
-    ideology: "неозначено"
-    geopolitical: ["неозначено"]
-    party_affinity: ["неозначено"]
-    trust_score: 50
-    sensationalism: 50
+    ideology: "граѓански / факт-чекерски"
+    geopolitical: ["про-ЕУ", "про-Запад", "анти-дезинформации"]
+    party_affinity: ["независен граѓански watchdog", "не треба да се кодира како СДСМ"]
+    trust_score: 78
+    sensationalism: 18
   color: "#6b7280"
 
 - id: тера
@@ -222,11 +222,11 @@
   name: "Press24"
   aliases: ["Press24"]
   bias:
-    ideology: "неозначено"
+    ideology: "десен центар"
     geopolitical: ["неозначено"]
-    party_affinity: ["неозначено"]
-    trust_score: 50
-    sensationalism: 50
+    party_affinity: ["историски наклонет кон ВМРО-ДПМНЕ", "подоцна поумерено"]
+    trust_score: 57
+    sensationalism: 60
   color: "#6b7280"
 
 - id: bloomberg-adria
@@ -264,13 +264,13 @@
 
 - id: civilmedia
   name: "CivilMedia"
-  aliases: ["CivilMedia"]
+  aliases: ["CivilMedia", "CIVIL"]
   bias:
-    ideology: "неозначено"
-    geopolitical: ["неозначено"]
-    party_affinity: ["неозначено"]
-    trust_score: 50
-    sensationalism: 50
+    ideology: "граѓански / watchdog"
+    geopolitical: ["про-демократски", "анти-дезинформации"]
+    party_affinity: ["независен граѓански watchdog", "не е доказ за СДСМ-усогласеност"]
+    trust_score: 72
+    sensationalism: 24
   color: "#6b7280"
 
 - id: паноптикум
@@ -370,4 +370,114 @@
     party_affinity: ["неозначено"]
     trust_score: 50
     sensationalism: 50
+  color: "#6b7280"
+
+- id: alfa-tv
+  name: "Alfa TV"
+  aliases: ["Alfa TV", "Алфа ТВ", "Alfa"]
+  bias:
+    ideology: "десница"
+    geopolitical: ["неозначено"]
+    party_affinity: ["про-ВМРО-ДПМНЕ", "ВМРО-блиску"]
+    trust_score: 44
+    sensationalism: 72
+  color: "#1d4ed8"
+
+- id: republika-mk
+  name: "Republika.mk"
+  aliases: ["Republika.mk", "Република", "Republika"]
+  bias:
+    ideology: "десница"
+    geopolitical: ["неозначено"]
+    party_affinity: ["про-ВМРО-ДПМНЕ", "дел од партиска пропагандна мрежа"]
+    trust_score: 38
+    sensationalism: 84
+  color: "#1d4ed8"
+
+- id: sitel-tv
+  name: "Sitel TV"
+  aliases: ["Sitel TV", "Сител", "Сител ТВ"]
+  bias:
+    ideology: "десен центар"
+    geopolitical: ["неозначено"]
+    party_affinity: ["историски про-ВМРО-ДПМНЕ", "релативно понеутрално по 2017"]
+    trust_score: 55
+    sensationalism: 58
+  color: "#1d4ed8"
+
+- id: kanal-5-tv
+  name: "Kanal 5 TV"
+  aliases: ["Kanal 5 TV", "Канал 5", "Канал 5 ТВ"]
+  bias:
+    ideology: "десен центар"
+    geopolitical: ["неозначено"]
+    party_affinity: ["историски про-ВМРО-ДПМНЕ", "нема јасна отворена партиска линија подоцна"]
+    trust_score: 58
+    sensationalism: 50
+  color: "#1d4ed8"
+
+- id: mrt1
+  name: "MRT1"
+  aliases: ["MRT1", "МРТ1"]
+  bias:
+    ideology: "институционален центар"
+    geopolitical: ["неозначено"]
+    party_affinity: ["зависи од партијата на власт", "не е фиксно врзан за една партија"]
+    trust_score: 52
+    sensationalism: 30
+  color: "#6b7280"
+
+- id: mrt2
+  name: "MRT2"
+  aliases: ["MRT2", "МРТ2"]
+  bias:
+    ideology: "институционален центар"
+    geopolitical: ["неозначено"]
+    party_affinity: ["зависи од партијата на власт", "не е фиксно врзан за една партија"]
+    trust_score: 52
+    sensationalism: 30
+  color: "#6b7280"
+
+- id: telma
+  name: "Telma"
+  aliases: ["Telma", "Телма"]
+  bias:
+    ideology: "центар"
+    geopolitical: ["неозначено"]
+    party_affinity: ["нејасно", "не е безбедно класифицирано како ВМРО или СДСМ"]
+    trust_score: 64
+    sensationalism: 28
+  color: "#6b7280"
+
+- id: tv-24
+  name: "TV 24"
+  aliases: ["TV 24", "ТВ 24", "24 TV"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["нејасно", "не е безбедно класифицирано како про-ВМРО или про-СДСМ"]
+    trust_score: 56
+    sensationalism: 34
+  color: "#6b7280"
+
+- id: alsat-m
+  name: "Alsat-M"
+  aliases: ["Alsat-M", "Alsat", "Алсат", "Алсат-М"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["не е главно класифицирано преку VMRO/SDSM поделба"]
+    trust_score: 60
+    sensationalism: 32
+  color: "#6b7280"
+
+- id: faktor
+  name: "Faktor"
+  aliases: ["Faktor", "Фактор"]
+  bias:
+    ideology: "центар"
+    geopolitical: ["неозначено"]
+    party_affinity: ["нејасно", "елитно-бизнис влијание повеќе отколку чиста партиска линија"]
+    trust_score: 59
+    sensationalism: 36
   color: "#6b7280"
