@@ -481,3 +481,14 @@
     trust_score: 59
     sensationalism: 36
   color: "#6b7280"
+
+- id: 24инфо
+  name: "24Инфо"
+  aliases: ["24Инфо"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
