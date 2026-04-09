@@ -3,6 +3,20 @@ layout: default
 ---
 <main class="simple-page">
   <div class="simple-page__inner">
+    <header class="subpage-topbar">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <span class="brand__mark">MM</span>
+        <span class="brand__text">
+          <strong>Media Map</strong>
+          <span>медиумска мапа за Северна Македонија</span>
+        </span>
+      </a>
+      <nav class="topbar__nav" aria-label="Primary">
+        <a href="{{ '/' | relative_url }}">Почетна</a>
+        <a href="{{ '/methodology/' | relative_url }}">Методологија</a>
+        <a href="{{ '/political-map/' | relative_url }}">Политичка мапа</a>
+      </nav>
+    </header>
     <a class="back-link" href="{{ '/' | relative_url }}">← Назад кон почетна</a>
     <h1>{{ page.title }}</h1>
     <div class="page-content">
