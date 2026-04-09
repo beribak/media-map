@@ -20,7 +20,8 @@ layout: default
     <nav class="topbar__nav" aria-label="Primary">
       <a href="#coverage">Покривање</a>
       <a href="#sources">Извори</a>
-      <a href="#method">Методологија</a>
+      <a href="{{ '/methodology/' | relative_url }}">Методологија</a>
+      <a href="{{ '/political-map/' | relative_url }}">Политичка мапа</a>
     </nav>
   </header>
 
@@ -241,14 +242,13 @@ layout: default
 
       <div class="panel panel--muted" id="method">
         <div class="section-heading section-heading--tight">
-          <h3>Следни дизајн чекори</h3>
+          <h3>Како ја градиме мапата</h3>
+          <p>Прочитај како ги собираме изворите, како кодираме пристрасност и кога оставаме нешто како неозначено.</p>
         </div>
-        <ul class="feature-list">
-          <li>Групирање на иста сторија од повеќе портали во еден споредбен преглед.</li>
-          <li>Филтри по идеологија, медиум, регион и праг на доверливост.</li>
-          <li>Профил страница за секој извор со историја, сопственост и методологија.</li>
-          <li>Прикажување на согласувања и несогласувања меѓу различни медиуми.</li>
-        </ul>
+        <div class="feature-story__actions" style="display:flex; gap:12px; flex-wrap:wrap;">
+          <a class="button button--ghost" href="{{ '/methodology/' | relative_url }}">Отвори методологија</a>
+          <a class="button button--ghost" href="{{ '/political-map/' | relative_url }}">Отвори политичка мапа</a>
+        </div>
       </div>
     </aside>
   </section>
