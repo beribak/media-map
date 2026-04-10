@@ -1,3 +1,13 @@
+- id: time-mk-20260410-омо-илинден-пирин-бугарија-ја-прекршила-слободат
+  title: "ОМО „Илинден“ – Пирин: Бугарија ја прекршила слободата на здружување со одбивањето да регистрира организација на Македонци, утврди ОН"
+  source: "Нова Македонија"
+  published_at: "2026-04-10T23:18:38.596+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/a6d8cd81f4.jpg"
+  url: "https://novamakedonija.com.mk/makedonija/omo-ilinden-pirin-bugarija-ja-prekrshila-slobodata-na-zdruzhuvanje-so-odbivanjeto-da-registrira-organizacija-na-makedonci-utvrdi-on/"
+  excerpt: "Комитетот за човекови права на Обединетите нации оцени дека Бугарија ја прекршила слободата на здружување со одбивањето да регистрира организација на етничките Македонци за заштита на нивните права, објави на социјалните мрежи ОМО „Илинден“ – Пирин."
+  featured: true
+
 - id: time-mk-20260410-мисајловски-од-вашингтон-инвестирањето-во-одбран
   title: "Мисајловски од Вашингтон: Инвестирањето во одбранбените капацитети останува наш врвен приоритет"
   source: "360 степени"
@@ -6,7 +16,7 @@
   image: "https://time.mk/images/thumb/401a8df3d2.jpg"
   url: "https://360stepeni.mk/misajlovski-od-vashington-investiraneto-vo-odbranbenite-kapatsiteti-ostanuva-nash-vrven-prioritet/"
   excerpt: "„Соработката со нашиот стратешки партнер САД продолжува со засилено темпо, со јасна заедничка определба за понатамошен развој и унапредување на одбранбениот сектор“, пишува Мисалјовски Министерот за одбрана, Владо Мисајловски, во рамки на работната ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260410-екипажот-на-artemis-ii-се-подготвува-за-вракање-
   title: "Екипажот на Artemis II се подготвува за враќање на Земјата по десетдневната мисија"
@@ -486,14 +496,4 @@
   image: "https://time.mk/images/thumb/eac22a931d.jpg"
   url: "https://skopje1.mk/najladno-utrovo-na-popova-sapka-so-5-stepeni-sneg-od-38-santimetri"
   excerpt: "Утрово најниската температура во земјава е измерена на Попова Шапка, каде термометрите се спуштија до -5 степени Целзиусови. Под нулата било и во повеќе планински и повисоки места, меѓу кои Маврови Анови, Крива Паланка, Берово и Крушево со -2 ..."
-  featured: false
-
-- id: time-mk-20260410-македонската-православна-црква-го-одбележува-вел
-  title: "Македонската православна црква го одбележува Велики петок – ден на Христовите страдања"
-  source: "Бизнис Вести"
-  published_at: "2026-04-10T07:08:15.162+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/4149dbf2cf.jpg"
-  url: "https://biznisvesti.mk/makedonskata-pravoslavna-tsrkva-go-odbelezhuva-veliki-petok-den-na-hristovite-stradana/"
-  excerpt: "Македонска православна црква денес го одбележува Велик петок – најтажниот ден во христијанството, посветен на страдањата, распнувањето и смртта на Исус Христос. На овој ден верниците се потсетуваат на жртвата што Христос ја направил за спасение на ..."
   featured: false
