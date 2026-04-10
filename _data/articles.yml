@@ -1,3 +1,33 @@
+- id: time-mk-20260410-македонската-православна-црква-го-одбележува-вел
+  title: "Македонската православна црква го одбележува Велики петок – ден на Христовите страдања"
+  source: "Бизнис Вести"
+  published_at: "2026-04-10T07:08:15.162+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/4149dbf2cf.jpg"
+  url: "https://biznisvesti.mk/makedonskata-pravoslavna-tsrkva-go-odbelezhuva-veliki-petok-den-na-hristovite-stradana/"
+  excerpt: "Македонска православна црква денес го одбележува Велик петок – најтажниот ден во христијанството, посветен на страдањата, распнувањето и смртта на Исус Христос. На овој ден верниците се потсетуваат на жртвата што Христос ја направил за спасение на ..."
+  featured: true
+
+- id: time-mk-20260410-анализа-на-сообракајниот-бран-со-тешки-последици
+  title: "Анализа на сообраќајниот бран со тешки последици кај младите во Македонија"
+  source: "Time.ai"
+  published_at: "2026-04-10T07:07:15.162+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/71ccdaa1eb.jpg"
+  url: "https://time.mk/ai/30c9351420/mk/"
+  excerpt: "Серијата тешки сообраќајни несреќи во Скопје, Охрид и Гостивар открива загрижувачки тренд на ранливост кај младите учесници во сообраќајот. Инволвираноста на мотоциклисти и малолетници укажува на потреба од поголема безбедност на патиштата и засилени контроли во урбаните средини за време на пролетните месеци."
+  featured: false
+
+- id: time-mk-20260410-hoви-пpoгнoзи-зa-цeнaтa-нa-нaфтaтa-oд-гoлдмaн-ca
+  title: "Hoви пpoгнoзи зa цeнaтa нa нaфтaтa oд „Гoлдмaн Caĸc“ – пo пpимиpjeтo мeѓy Иpaн и CAД"
+  source: "Проверено"
+  published_at: "2026-04-10T07:06:15.162+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/f588db9e95.jpg"
+  url: "https://provereno.mk/2026/04/10/hoви-пpoгнoзи-зa-цeнaтa-нa-нaфтaтa-oд-гoлдмaн-cakc-пo-пp/"
+  excerpt: "Aнaлитичapитe нa „Гoлдмaн Caĸc“ ги нaмaлиja нeoдaмнa згoлeмeнитe пpoгнoзи зa цeнитe нa глaвнитe видoви cypoвa нaфтa зa втopиoт ĸвapтaл oд 2026 гoдинa, oтĸaĸo CAД и Иpaн ce coглacиja нa двoнeдeлeн пpeĸин нa oгнoт (зa ĸoj ce oчeĸyвa дa дoвeдe дo ..."
+  featured: false
+
 - id: time-mk-20260409-рамо-до-рамо-чекориме-со-кандидатите-за-еу-неког
   title: "РАМО ДО РАМО ЧЕКОРИМЕ СО КАНДИДАТИТЕ ЗА ЕУ Некогаш има поместувања и кога не се пред очите на јавноста"
   source: "+инфо"
@@ -6,7 +36,7 @@
   image: "https://time.mk/images/thumb/53c431e734.jpg"
   url: "https://plusinfo.mk/ramo-do-ramo-chekorime-so-kandidatite-za-eu-nekogash-ima-pomestuva-a-i-koga-ne-se-pred-ochite-na-avnosta/"
   excerpt: "Претседателката порача дека Македонија активно работи на евроинтеграциите, иако тоа не е секогаш јавно видливо. Според Сиљановска-Давкова државата чекори рамо до рамо, некогаш и пред водечките кандидати за ЕУ и напредокот треба да се мери со факти, ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260409-видео-реми-во-порто-вила-победи-во-болоња-селта-
   title: "(Видео) Реми во Порто, Вила победи во Болоња, Селта немоќна во Фрајбург"
@@ -466,34 +496,4 @@
   image: "https://time.mk/images/thumb/d4549a1f12.jpg"
   url: "https://mk.bloombergadria.com/politika/politika/101500/rute-razbiram-zosto-tramp-e-razocaran-nekoi-clenki-na-nato-potfrlija/news"
   excerpt: "Претседателот Доналд Трамп остро го критикуваше НАТО по средбата со генералниот секретар Марк Руте, нагласувајќи дека незадоволството на администрацијата од улогата на Алијансата во конфликтот со Иран останува сериозно."
-  featured: false
-
-- id: time-mk-20260409-сад-најавија-техничка-и-финансиска-помош-од-5-ми
-  title: "САД најавија техничка и финансиска помош од 5 милиони долари за јакнење на кибербезбедноста и дигиталната инфраструктура"
-  source: "360 степени"
-  published_at: "2026-04-09T10:40:58.910+02:00"
-  category: "Економија"
-  image: "https://time.mk/images/thumb/386bd5b0ac.jpg"
-  url: "https://360stepeni.mk/sad-najavija-tehnichka-i-finansiska-pomosh-od-5-milioni-dolari-za-jaknene-na-kiberbezbednosta-i-digitalnata-infrastruktura/"
-  excerpt: "Техничката поддршка ќе биде наменета за зајакнување на дигиталната инфраструктура на институциите во земјава, а финансиската ќе биде насочена кон развој на киберкапацитети и унапредување на заштитата на одбранбената инфраструктура Во рамки на ..."
-  featured: false
-
-- id: time-mk-20260409-снемува-и-терапија-за-дијабетес-во-македонија
-  title: "Снемува и терапија за дијабетес во Македонија"
-  source: "Слободен Печат"
-  published_at: "2026-04-09T10:39:58.910+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/d266844d2e.jpg"
-  url: "https://www.slobodenpecat.mk/snemuva-i-terapija-za-dijabetes-vo-makedonija/"
-  excerpt: "Поради неодговорно планирање и доцнење со тендерите, во Македонија недостига терапија против дијабетес a недостигаат инсулински помагала и сензори за контрола на шеќерот, изјави во интервју за „4ТВ“ Димче Велев претседател на Сојуз на здруженија на ..."
-  featured: false
-
-- id: time-mk-20260409-берзански-преглед-цената-на-нафтата-расте-акциит
-  title: "Берзански преглед: Цената на нафтата расте, акциите паѓаат"
-  source: "Bloomberg Adria"
-  published_at: "2026-04-09T09:44:13.654+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/2671f77f10.jpg"
-  url: "https://mk.bloombergadria.com/pazari/berzi/101492/berzanski-pregled-cenata-na-naftata-raste-akciite-pagjaat/news"
-  excerpt: "Акциите паднаа, а цената на нафтата порасна бидејќи оптимизмот околу примирјето меѓу САД и Иран избледи откако Техеран соопшти дека неколку услови од договорот биле прекршени. Азиските акции паднаа за 0,9 отсто откако претседателот на иранскиот ..."
   featured: false
