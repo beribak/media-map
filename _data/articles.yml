@@ -1,3 +1,33 @@
+- id: time-mk-20260410-екипажот-на-artemis-ii-се-врака-дома-астронаутит
+  title: "Екипажот на Artemis II се враќа дома, астронаутите се соочуваат со најризичниот дел од мисијата"
+  source: "Иновативност"
+  published_at: "2026-04-10T14:30:28.253+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/428d2e7022.jpg"
+  url: "https://inovativnost.mk/2026/04/10/ekipazhot-na-artemis-ii-se-vraka-doma-astronautite-se-soochuvaat-so-najrizichniot-del-od-misijata/"
+  excerpt: "Екипажот на Artemis II се враќа дома на Земјата по историската лунарна мисија, првата мисија со екипаж на Месечината по повеќе од 50 години. Најважните и најризичните моменти од 10-дневната мисија ги чекаат додека се подготвуваат да слетаат во ..."
+  featured: true
+
+- id: time-mk-20260410-починат-маж-пронајден-кај-лифт-во-објект-на-бит-
+  title: "Починат маж пронајден кај лифт во објект на Бит Пазар"
+  source: "Скопје1"
+  published_at: "2026-04-10T14:28:28.253+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/2cb828f4dd.jpg"
+  url: "https://skopje1.mk/pocinat-maz-pronajden-kaj-lift-vo-objekt-na-bit-pazar"
+  excerpt: "65-годишен маж од Скопје е пронајден починат во продажен објект на подрачјето на Бит Пазар, соопшти Министерството за внатрешни работи. „На 09.04.2026 во 13:25 часот во СВР Скопје е пријавено дека во продажен објект на приватна фирма на подрачјето ..."
+  featured: false
+
+- id: time-mk-20260410-во-нов-дојран-пронајдена-неексплодирана-граната-
+  title: "Во Нов Дојран пронајдена неексплодирана граната од Првата светска војна"
+  source: "Независен"
+  published_at: "2026-04-10T14:27:28.253+02:00"
+  category: "Геополитика"
+  image: "https://time.mk/images/thumb/44f2406360.jpg"
+  url: "https://nezavisen.mk/vo-nov-dojran-pronajdena-neeksplodirana-granata-od-prvata-svetska-vojna/"
+  excerpt: "Во Нов Дојран пронајдена е неексплодирана граната од Првата светска војна. -Во Полициското одделение Нов Дојран вчера Д.А.(78) од Нов Дојран пријавил дека во нива во атар на Нов Дојран пронашол граната."
+  featured: false
+
 - id: time-mk-20260410-ees-системот-го-блокираше-влезот-во-хрватска-пат
   title: "EES системот го блокираше влезот во Хрватска, патниците чекаат со часови"
   source: "Трн"
@@ -6,7 +36,7 @@
   image: "https://time.mk/images/thumb/096c4d173d.jpg"
   url: "https://trn.mk/ees-sistemot-go-blokirashe-vlezot-vo-hrvatska-patnicite-chekaat-so-chasovi/"
   excerpt: "Целосната примена на новиот европски систем за влез и излез донесе долги колони и повеќечасовни чекања на граничните премини кон Хрватска. Новиот европски систем за влез и излез, EES, кој денеска целосно стапи во сила на надворешните шенгенски ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260410-42-пријави-за-две-недели-расте-ли-семејното-наси
   title: "42 пријави за две недели: Расте ли семејното насилство или гласот на жртвите конечно се слуша?"
@@ -466,34 +496,4 @@
   image: "https://time.mk/images/thumb/3c4f946a61.jpg"
   url: "https://racin.mk/vesti/miczkoski-vo-struga-zboruva-za-gradne-a-czel-grad-e-dupka-do-dupka/"
   excerpt: "Премиерот Христијан Мицкоски денеска од Струга порача дека градот „се гради и развива“ и дека ќе биде меѓу главните приоритети на Владата во годините што следат. Настапот доаѓа во период кога Владата и локалната власт како еден од клучните ..."
-  featured: false
-
-- id: time-mk-20260409-резултатите-од-токсиколошките-анализи-на-починат
-  title: "Резултатите од токсиколошките анализи на починатите во „Пулс“ ќе бидат јавно презентирани во судница"
-  source: "24 Вести"
-  published_at: "2026-04-09T14:38:25.044+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/ab434b8ab8.jpg"
-  url: "https://www.24.mk/details/rezultatite-od-toksikoloshkite-analizi-na-pochinatite-vo-puls-kje-bidat-javno-prezentirani-vo-sudnica"
-  excerpt: "Резултатите од токсиколошките анализи на починатите деца во пожарот во дискотеката „Пулс“ во Кочани ќе бидат јавно презентирани во судница од страна на вештаци од судска медицина. Ова е одговорот кој дел од родителите на починатите деца го добија од ..."
-  featured: false
-
-- id: time-mk-20260409-апелација-на-11-мај-ке-суди-за-жалбите-на-палевс
-  title: "АПЕЛАЦИЈА НА 11 МАЈ ЌЕ СУДИ ЗА ЖАЛБИТЕ НА ПАЛЕВСКИ, МАНЕВ, ВИДЕВСКИ, КЕШИШЕВ, ОСУДЕНИ НА ДОЖИВОТЕН ЗАТВОР ЗА УБИСТВАТА НА ВАЊА ЃОРЧЕВСКА И ..."
-  source: "Сакам да кажам"
-  published_at: "2026-04-09T14:37:25.044+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/8787cc2d0e.jpg"
-  url: "https://sdk.mk/index.php/makedonija/apelatsija-na-11-maj-ke-sudi-za-zhalbite-na-palevski-manev-videvski-keshishev-osudeni-na-dozhivoten-zatvor-za-ubistvata-na-vana-gorchevska-i-panche-zhezhovski/"
-  excerpt: "Осудените со првостепена казна доживотен затвор Љупчо Палевски, Боре Видевски, Велибор Манев и Влатко Кешишев за грабнување и свирепи убиства на 14-годишната Вања Ѓорчевска од Скопје и на Панче Жежовски (74) од Велес во ноември 2023, денеска не беа ..."
-  featured: false
-
-- id: time-mk-20260409-судење-за-пулс-инспекторка-утврдила-нова-фирма-н
-  title: "Судење за „Пулс“: Инспекторка утврдила нова фирма, но не направила нова контрола поради „немање влијание врз животната средина“"
-  source: "Независен"
-  published_at: "2026-04-09T14:36:25.044+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/03f5323baf.jpg"
-  url: "https://nezavisen.mk/sudenje-za-puls-inspektorka-utvrdila-nova-firma-no-ne-napravila-nova-kontrola-poradi-nemanje-vlijanie-vrz-zhivotnata-sredina/"
-  excerpt: "На денешното судско рочиште за пожарот во дискотеката „Пулс“ во Кочани сведочеше инспекторка за животна средина во Општина Кочани, која истакна дека во 2022 година утврдила оти објектот работи под друго правно лице, но не извршила повторен надзор ..."
   featured: false
