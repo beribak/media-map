@@ -1,3 +1,33 @@
+- id: time-mk-20260411-artemis-ii-се-врати-на-земјата-историската-мисиј
+  title: "Artemis II се врати на Земјата: историската мисија заврши со ноќно спуштање во Пацификот"
+  source: "Паноптикум"
+  published_at: "2026-04-11T14:23:54.418+02:00"
+  category: "Технологија"
+  image: "https://time.mk/images/thumb/47ee0fcec3.jpg"
+  url: "https://panoptikum.mk/artemis-ii-se-vrati-na-zemjata-istoriskata-misija-zavrshi-so-nokjno-spushtanje-vo-pacifikot/"
+  excerpt: "Artemis II ноќеска успешно се врати на Земјата и ја затвори една од најважните вселенски приказни на оваа деценија. Капсулата Orion со екипажот безбедно се спушти во Тихиот Океан, крај брегот на Сан Диего, на 10 април 2026 година во 20:07 часот по ..."
+  featured: true
+
+- id: time-mk-20260411-дипломатска-драма-во-исламабад-иран-и-сад-на-одд
+  title: "ДИПЛОМАТСКА ДРАМА ВО ИСЛАМАБАД Иран и САД на одделни средби со премиерот Шариф пред мировните преговори"
+  source: "+инфо"
+  published_at: "2026-04-11T14:21:54.418+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/c63cc23b73.jpg"
+  url: "https://plusinfo.mk/diplomatska-drama-vo-islamabad-iran-i-sad-na-oddelni-sredbi-so-premierot-sharif-pred-mirovnite-pregovori/"
+  excerpt: "Американски и ирански делегации одржаа одделни средби со пакистанскиот премиер Шехбаз Шариф во Исламабад, во обид да се отвори пат кон мировни преговори и можен напредок во регионалните тензии."
+  featured: false
+
+- id: time-mk-20260411-бугарија-го-прекршила-правото-на-слобода-на-здру
+  title: "Бугарија го прекршила правото на слобода на здружување на етнички Македонец, заклучи надлежниот комитет на ООН"
+  source: "Слободен Печат"
+  published_at: "2026-04-11T14:20:54.418+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/da57be655a.jpg"
+  url: "https://www.slobodenpecat.mk/bugarija-go-prekrshila-pravoto-na-sloboda-na-zdruzhuvanje-na-etnichki-makedonec-zakluchi-nadlezhniot-komitet-na-oon/"
+  excerpt: "Бугарија го прекршила правото на слобода на здружување на етнички Македонец, коосновач на непрофитна организација за човекови права, кога домашните судови го отфрлиле неговото барање за регистрација на здружението без да обезбедат валидно правно ..."
+  featured: false
+
 - id: time-mk-20260411-астронаутите-од-мисијата-артемис-ii-безбедно-се-
   title: "Астронаутите од мисијата „Артемис II“ безбедно се вратија на Земјата по летот околу Месечината"
   source: "ТВ21"
@@ -6,7 +36,7 @@
   image: "https://time.mk/images/thumb/139244f19c.jpg"
   url: "https://mk.tv21.tv/astronautite-od-misijata-artemis-ii-bezbedno-se-vratija-na-zemjata-po-letot-okolu-mesechinata/"
   excerpt: "Четири астронаути од мисијата „Артемис II“ се вратија безбедно на Земјата по 10-дневен лет околу Месечината, со што заврши првата мисија на САД со екипаж во близина на Месечината по повеќе од половина век."
-  featured: true
+  featured: false
 
 - id: time-mk-20260411-видео-бензинот-поевтинува-за-1-5-денар-дизелот-з
   title: "(Видео) Бензинот поевтинува за 1,5 денар, дизелот за 2,5 денари, кажа Мицкоски и се извини што се обраќа во предвечерието на Велигден"
@@ -466,34 +496,4 @@
   image: "https://time.mk/images/thumb/9d28ef8690.jpg"
   url: "https://360stepeni.mk/nad-16-iljadi-makedonski-gragani-od-vchera-do-deneska-na-pladne-ja-napushtile-drzhavata-preku-bogoroditsa-i-tabanovtse/"
   excerpt: "Од МВР информираат и дека поради почетокот на целосната имплементација на новиот систем за влез во Европската Унија, можно е и зголемување на времето на задржување на граничните премини при влез во ЕУ."
-  featured: false
-
-- id: time-mk-20260410-растат-цените-на-горивото-авиокомпаниите-веке-ги
-  title: "Растат цените на горивото, авиокомпаниите веќе ги намалуваат летовите"
-  source: "Скопје1"
-  published_at: "2026-04-10T18:27:01.417+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/30e26c6fb4.jpg"
-  url: "https://skopje1.mk/rastat-cenite-na-gorivoto-aviokompaniite-vekje-gi-namaluvaat-letovit"
-  excerpt: "Европските аеродроми би можеле да се соочат со системски недостиг на млазно гориво ако во следните три недели не се стабилизира и целосно не се отвори сообраќајот низ Ормускиот теснец, предупреди европската авијациска индустрија."
-  featured: false
-
-- id: time-mk-20260410-илир-мета-му-се-заблагодари-на-александар-николо
-  title: "Илир Мета му се заблагодари на Александар Николоски за “ставот околу неговото насилно апсење и политичките обвинувања против него“"
-  source: "Независен"
-  published_at: "2026-04-10T18:26:01.417+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/8722ff0e5b.jpg"
-  url: "https://nezavisen.mk/ilir-meta-mu-se-zablagodari-na-aleksandar-nikoloski-za-stavot-okolu-negovoto-nasilno-apsenje-i-politichkite-obvinuvanja-protiv-nego/"
-  excerpt: "Поранешниот албански претседател и актуелен лидер на Партијата на слободата, Илир Мета, кој е во затворски притвор, во интервју за Syri.net, искажува голема благодарност до македонскиот вицепремиер и министер за транспорт, Александар Николовски за ..."
-  featured: false
-
-- id: time-mk-20260410-астронаутите-од-артемис-2-се-вракаат-дома-од-пат
-  title: "Астронаутите од „Артемис 2“ се враќаат дома од патувањето на Месечината"
-  source: "Мета"
-  published_at: "2026-04-10T17:27:48.706+02:00"
-  category: "Технологија"
-  image: "https://time.mk/images/thumb/ab18b002fd.jpg"
-  url: "https://meta.mk/astronautite-od-artemis-2-se-vrakjaat-doma-od-patuvanjeto-na-mesechinata/"
-  excerpt: "Доколку сè оди добро, американските астронаути Рид Вајзман, Виктор Гловер и Кристина Кох, заедно со канадскиот астронаут Џереми Хансен, ќе завршат безбедно во Тихиот океан Четирите астронаути од „Артемис 2“, на првото патување на Месечината по ..."
   featured: false
