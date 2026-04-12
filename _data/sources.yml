@@ -646,3 +646,14 @@
     trust_score: 50
     sensationalism: 50
   color: "#6b7280"
+
+- id: журнал
+  name: "Журнал"
+  aliases: ["Журнал"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
