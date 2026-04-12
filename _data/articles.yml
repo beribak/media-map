@@ -1,3 +1,33 @@
+- id: time-mk-20260412-фото-горгиевски-на-свечената-велигденска-литурги
+  title: "(Фото) Ѓорѓиевски на свечената Велигденска литургија во Соборниот храм: Без молитва, без пост и без искрено покајание, човекот тешко може ..."
+  source: "Макфакс"
+  published_at: "2026-04-12T13:21:38.008+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/45777c0d73.jpg"
+  url: "https://makfax.com.mk/makedonija/foto-gorgievski-na-svechenata-veligdenska-liturgija-vo-soborniot-hram-bez-molitva-bez-post-i-bez-iskreno-pokajanie-chovekot-teshko-mozhe-da-go-pronajde-vistinskiot-mir/"
+  excerpt: "Градоначалникот на Град Скопје, Орце Ѓорѓиевски извести дека утрово на покана на поглаварот на Македонската православна црква – Охридска Архиепископија, г.г. Стефан, присуствувал на свечената Велигденска литургија во Соборниот храм во Скопје, каде ..."
+  featured: true
+
+- id: time-mk-20260412-голема-излезност-на-изборите-во-унгарија-орбан-т
+  title: "Голема излезност на изборите во Унгарија – Орбан: Тоа значи само едно"
+  source: "Слободен Печат"
+  published_at: "2026-04-12T13:20:38.008+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/bac3334497.jpg"
+  url: "https://www.slobodenpecat.mk/golema-izleznost-na-izborite-vo-ungarija-orban-toa-znachi-samo-edno/"
+  excerpt: "До 11 часот, 37,98 проценти од гласачите излегле да гласаат на изборите во Унгарија, значително повеќе отколку во 2022 година, кога излезноста во исто време била 25,77 проценти. Излезноста на гласачите постојано се зголемува од утрото – во 7 часот ..."
+  featured: false
+
+- id: time-mk-20260412-бујар-османи-за-велигден-дежурам-за-колегите-да-
+  title: "Бујар Османи: За Велигден дежурам за колегите да празнуваат со своите семејства"
+  source: "Press24"
+  published_at: "2026-04-12T13:18:38.008+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/99df781c9a.jpg"
+  url: "https://press24.mk/bujar-osmani-za-veligden-dezhuram-za-kolegite-da-praznuvaat-so-svoite-semejstva/"
+  excerpt: "Една традиција што продолжува… речиси секоја година. И овој православен Велигден сум на дежурство. Така било отсекогаш, за моите колеги кои го слават празникот да можат да бидат дома, околу трпезата, со своите семејства, таму каде што припаѓа овој ..."
+  featured: false
+
 - id: time-mk-20260412-велигденски-честитки-од-државниот-врв-и-од-парти
   title: "Велигденски честитки од државниот врв и од партиите: Здравје, мир и благосостојба во секој дом"
   source: "Нова Македонија"
@@ -6,7 +36,7 @@
   image: "https://time.mk/images/thumb/7e30ae07df.jpg"
   url: "https://novamakedonija.com.mk/makedonija/veligdenski-chestitki-od-drzhavniot-vrv-i-od-partiite-zdravje-mir-i-blagosostojba-vo-sekoj-dom/"
   excerpt: "Мирот, љубовта, здравјето и Божјиот дух да бидат дел од сечиј дом, е главната порака која денеска, по повод најголемиот христијански празник Велигден, ја упати државниот врв во Македонија и лидерите на политичките партии."
-  featured: true
+  featured: false
 
 - id: time-mk-20260412-унгарците-гласаат-дали-да-го-прекинат-16-годишно
   title: "Унгарците гласаат дали да го прекинат 16-годишното владеење на Орбан"
@@ -466,34 +496,4 @@
   image: "https://time.mk/images/thumb/6b9e798a37.jpg"
   url: "https://www.24.mk/details/den-d-za-svetot-pregovori-za-vojnata-na-bliskiot-istok-me-u-sad-i-iran"
   excerpt: "Почнаа клучните преговори меѓу САД и Иран чиј исход ќе ја одреди иднината на Блискиот Исток. Двете страни денот го почнаа со средба со Пакистенскиот премиер, Шехбаз Шариф, а потоа на ред дојдоа и директните преговори меѓу американската и иранската ..."
-  featured: false
-
-- id: time-mk-20260411-комитет-за-човекови-права-на-оон-бугарија-го-пре
-  title: "Комитет за човекови права на ООН: Бугарија го прекршила правото на слобода на здружување на етнички Македонец"
-  source: "24 Вести"
-  published_at: "2026-04-11T17:16:43.843+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/913e198869.jpg"
-  url: "https://www.24.mk/details/komitet-za-chovekovi-prava-na-oon-bugarija-go-prekrshila-pravoto-na-sloboda-na-zdruzhuvanje-na-etnichki-makedonec"
-  excerpt: "Прекршување на повелбата за здружување на македонците во Бугарија изрече Комитетот за човекови права на ООН со што во наредните 6 месеци ќе бара одифицјална Софија да превземе мерки за исправка на состојбата откако бугарските судови не дале ..."
-  featured: false
-
-- id: time-mk-20260411-силјановска-давкова-вапцањето-јајца-е-повеке-од-
-  title: "Силјановска-Давкова: Вапцањето јајца е повеќе од традиција – тоа е семејна блискост"
-  source: "4NEWS"
-  published_at: "2026-04-11T17:15:43.843+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/a3fa07b484.jpg"
-  url: "https://4news.mk/siljanovska-davkova-vaptsaneto-jajtsa-e-poveke-od-traditsija-toa-e-semejna-bliskost/"
-  excerpt: "Претседателката Гордана Силјановска-Давкова упати порака до граѓаните по повод Велигден, нагласувајќи ја симболиката на традиционалните обичаи и нивното значење за заедништвото и духовноста."
-  featured: false
-
-- id: time-mk-20260411-летот-до-месечината-го-менува-телото-што-им-се-с
-  title: "Летот до Месечината го менува телото: што им се случува на астронаутите во вселената"
-  source: "Репортер"
-  published_at: "2026-04-11T16:22:04.418+02:00"
-  category: "Технологија"
-  image: "https://time.mk/images/thumb/dbafdbeb9a.jpg"
-  url: "https://reporter.mk/seshto/letot-do-mesechinata-go-menuva-teloto-shto-im-se-sluchuva-na-astronautite-vo-vselenata/"
-  excerpt: "Летот до Месечината не е само технолошки предизвик, туку и сериозен тест за човечкото тело, кое во вселената се соочува со драстични промени што можат да остават долгорочни последици. Научните анализи покажуваат дека најголемиот проблем е намалената ..."
   featured: false
