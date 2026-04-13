@@ -657,3 +657,14 @@
     trust_score: 50
     sensationalism: 50
   color: "#6b7280"
+
+- id: вечер
+  name: "Вечер"
+  aliases: ["Вечер"]
+  bias:
+    ideology: "неозначено"
+    geopolitical: ["неозначено"]
+    party_affinity: ["неозначено"]
+    trust_score: 50
+    sensationalism: 50
+  color: "#6b7280"
