@@ -1,3 +1,23 @@
+- id: time-mk-20260413-иран-дали-некогаш-вреди-да-си-го-отсечеш-носот-з
+  title: "Иран: Дали некогаш вреди да си го отсечеш носот за да му наштетиш на друг?"
+  source: "4NEWS"
+  published_at: "2026-04-13T23:25:00.005+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/62a72c1cb5.jpg"
+  url: "https://4news.mk/iran-dali-nekogash-vredi-da-si-go-otsechesh-nosot-za-da-mu-nashtetish-na-drug/"
+  excerpt: "Портпаролот на иранското Министерство за надворешни работи го нарече конфликтот меѓу САД и Иран „нелегална војна по избор“. Есмаил Бакаеи, во објава на социјалната мрежа X, се прашуваше дали таков конфликт може да се добие преку „одмазда против ..."
+  featured: true
+
+- id: time-mk-20260413-вракањето-од-продолжениот-викенд-создаде-поголем
+  title: "Враќањето од продолжениот викенд создаде поголеми колони на јужната граница"
+  source: "360 степени"
+  published_at: "2026-04-13T23:24:00.005+02:00"
+  category: "Геополитика"
+  image: "https://time.mk/images/thumb/649263348b.jpg"
+  url: "https://360stepeni.mk/vrakaneto-od-prodolzheniot-vikend-sozdade-pogolemi-koloni-na-juzhnata-granitsa/"
+  excerpt: "Како што објави МИА, причина за застојот е официјалното стапување во сила на новиот систем – ЕЕС (entry/exit system) кој од 10 април целосно се применува на надворешните граници на Европската Унија (ЕУ), а кој предвидува дигитално регистрирање при ..."
+  featured: false
+
 - id: time-mk-20260413-брзите-реакции-на-надлежните-се-клучни-за-спречу
   title: "Брзите реакции на надлежните се клучни за спречување идни инциденти врз еврејската заедница, вели израелската амбасадорка"
   source: "360 степени"
@@ -6,7 +26,7 @@
   image: "https://time.mk/images/thumb/9a72b0b31c.jpg"
   url: "https://360stepeni.mk/brzite-reaktsii-na-nadlezhnite-se-kluchni-za-sprechuvane-idni-intsidenti-vrz-evrejskata-zaednitsa-veli-izraelskata-ambasadorka/"
   excerpt: "Амбасадорката во објава на социјалната платформа Икс, ја сподели пораката во која министерот за надворешни работи и надворешна трговија го осуди случајот и во која наведе дека станува збор за инцидент кој е крајно неприфатлив Амбасадорката на Израел ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260413-трамп-нe-повикаа-вистински-луге-од-иран-кои-сака
   title: "Трамп: Нè повикаа вистински луѓе од Иран кои сакаат да склучат договор"
@@ -476,24 +496,4 @@
   image: "https://time.mk/images/thumb/143f074712.jpg"
   url: "https://www.vecer.press/svetskite-mediumi-za-porazot-na-viktor-orban-na-parlamentarnite-izbori-vo-ungarija-kraj-na-edna-era-i-udar-vrz-populistichkata-desnicza/"
   excerpt: "Светските медиуми, како што се „Њујорк тајмс“ и „Си-Ен-Ен“, оценуваат дека изборниот пораз на Виктор Орбан претставува пресвртница не само за Унгарија, туку и за поширок бран десничарски популизам, нагласувајќи дека победата на лидерот на ..."
-  featured: false
-
-- id: time-mk-20260413-фото-мвр-го-потврди-обидот-за-опожарување-на-обј
-  title: "(Фото) МВР го потврди обидот за опожарување на објект на Еврејската заедница и на синагогата во Скопје"
-  source: "еМагазин"
-  published_at: "2026-04-13T07:14:54.405+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/e56266660f.jpg"
-  url: "https://emagazin.mk/foto-mvr-go-potvrdi-obidot-za-opozharuvane-na-objekt-na-evrejskata-zaednica-i-na-sinagogata-vo-skopje/"
-  excerpt: "Министерството за внатрешни работи (МВР) синоќа го потврди обидот за опожарување на објект на Еврејската заедница и на синагогата во Скопје. Од таму за велат дека полицијата по пријавата излегла на терен и дека се преземаат мерки за расчистување на ..."
-  featured: false
-
-- id: time-mk-20260413-изборниот-модел-што-орбан-го-создаде-за-да-побед
-  title: "Изборниот модел што Орбан го создаде за да победува, го донесе до тежок пораз"
-  source: "360 степени"
-  published_at: "2026-04-13T07:13:54.405+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/3e66ace7cd.jpg"
-  url: "https://360stepeni.mk/izborniot-model-shto-orban-go-sozdade-za-da-pobeduva-go-donese-do-tezhok-poraz/"
-  excerpt: "Фидес на досегашниот премиер Виктор Орбан победи во едвај 13 од 106 изборни единици чии граници се цртани со примена на т.н. џеримандеринг за да и одговараат на владејачката партија Пребројувањето на гласовите од парламентарните избори во Унгарија ..."
   featured: false
