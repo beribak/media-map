@@ -1,3 +1,43 @@
+- id: time-mk-20260415-мицкоски-важна-инвестиција-нов-почеток-100-нови-
+  title: "Мицкоски: Важна инвестиција, нов почеток - 100 нови возила за Пошта"
+  source: "24 Вести"
+  published_at: "2026-04-15T11:43:29.205+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/aabe0cdd91.jpg"
+  url: "https://www.24.mk/details/mickoski-vazhna-investicija-nov-pochetok-100-novi-vozila-za-poshta"
+  excerpt: "Денес зборуваме за една важна инвестиција што не значи само нови возила, туку значи нов почеток, нова енергија и нова функционалност за еден систем што со години беше оставен да се справува сам со предизвиците."
+  featured: true
+
+- id: time-mk-20260415-мицкоски-очекувам-сдсм-да-го-повика-васко-коваче
+  title: "Мицкоски: Очекувам СДСМ да го повика Васко Ковачевски да се врати и да се соочи со правдата"
+  source: "Скопје1"
+  published_at: "2026-04-15T11:42:29.205+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/48f9e58d22.jpg"
+  url: "https://skopje1.mk/mickoski-ocekuvam-sdsm-da-go-povika-vasko-kovacevski-da-se-vrati-i-da-se-sooci-so-pravdata"
+  excerpt: "Претседателот на Владата на Република Македонија, Христијан Мицкоски денеска одговарајќи на новинарско прашање во однос на тоа дека СДСМ продолжува со тоа дека Груевски треба да одговара и пораката до опозицијата, изјави: „Па јас поврзано со таа ..."
+  featured: false
+
+- id: time-mk-20260415-обвинителството-пушти-снимки-од-зад-судот-со-пол
+  title: "ОБВИНИТЕЛСТВОТО ПУШТИ СНИМКИ ОД ЗАД СУДОТ, СО ПОЛИЦАЈЦИТЕ ВИКНАТИ ОД ИВАНА, КОИ ЗА ЌОТЕКОТ ОД СТОЈАНЧЕ Ѝ ВЕЛАТ: „РЕШЕТЕ СИ ГО ПРОБЛЕМОТ”"
+  source: "Сакам да кажам"
+  published_at: "2026-04-15T11:41:29.205+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/aed8772752.jpg"
+  url: "https://sdk.mk/index.php/makedonija/obvinitelstvoto-pushti-snimki-od-zad-sudot-so-politsajtsite-viknati-od-ivana-koi-za-kotekot-od-stojanche-velat-reshete-si-go-problemot/"
+  excerpt: "Обвинителката Адела Бојчевиќ од ОЈО Скопје, денеска во Кривичниот суд Скопје продолжи со изведување материјални докази од видеокамери зад овој суд на 2 март, неколку часа пред да се самоубие Ивана Стојаноска со својата ќерка Катја, поради ..."
+  featured: false
+
+- id: time-mk-20260415-support-kocani-со-нова-акција-и-донација-за-повр
+  title: "„Support Kocani“ со нова акција и донација за повредените од Кочани"
+  source: "Трн"
+  published_at: "2026-04-15T11:40:29.205+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/0a9b2367af.jpg"
+  url: "https://trn.mk/support-kocani-donacija-povredeni/"
+  excerpt: "„Support Kocani“ спроведе нова акција и обезбеди медицински препарати за повредените од пожарот, со донациски средства вредни над еден милион денари. Граѓанската иницијатива „Support Kocani“ обезбеди медицински креми и препарати за нега на лицата ..."
+  featured: false
+
 - id: time-mk-20260415-пошта-доби-100-возила-може-сега-пратките-и-ке-ги
   title: "„Пошта“ доби 100 возила, може сега пратките и ќе ги доставуваат навремено"
   source: "Независен"
@@ -6,7 +46,7 @@
   image: "https://time.mk/images/thumb/58426a4863.jpg"
   url: "https://nezavisen.mk/poshta-dobi-100-vozila-mozhe-sega-pratkite-i-kje-gi-dostavuvaat-navremeno/"
   excerpt: "Поради немање соодветни возила „Македонска пошта“ не можела да ја врши својата дејност, а со набавката на 100 нови возила, одсега ќе може да се очекува навремена достава на пратките. „За потребите на „Пошта“ добивме 100 возила, 90 автомобили пикап и ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260415-support-kocani-обезбеди-медицински-креми-за-наст
   title: "„Support Kocani“ обезбеди медицински креми за настраданите во пожарот во „Пулс“"
@@ -456,44 +496,4 @@
   image: "https://time.mk/images/thumb/53dd5720d2.jpg"
   url: "https://www.vecer.press/lesnata-peshadiska-bataljonska-grupa-so-1-500-vojniczi-na-borben-test-za-ispolnuvane-nato-standardite-krivolak-ke-grmi-pochnuva-najgolemata-armiska-vezhba-blesok-26/"
   excerpt: "По оваа вежба, очекуваме нашата Лесна пешадиска баталјонска група да стане „mission capable“, односно „способна за мисија“ и за извршување широк спектар на копнени операции предводени од НАТО."
-  featured: false
-
-- id: time-mk-20260414-филипче-по-падот-на-орбан-регионот-припага-на-ев
-  title: "Филипче по падот на Орбан: Регионот припаѓа на Европа, не на Русија"
-  source: "Рацин"
-  published_at: "2026-04-14T15:41:03.058+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/d0d21b1183.jpg"
-  url: "https://racin.mk/vesti/filipche-po-padot-na-orban-regionot-pripaga-na-evropa-ne-na-rusija/"
-  excerpt: "Претседателот на СДСМ, Венко Филипче, на денешната прес-конференција оцени дека политичките промени во Унгарија испраќаат силна порака и до Македонија и до целиот регион, порачувајќи дека Балканот треба да остане на европскиот курс."
-  featured: false
-
-- id: time-mk-20260414-мицкоски-ке-го-испрати-груевски-во-затвор-ако-би
-  title: "Мицкоски ќе го испрати Груевски во затвор ако биде вратен"
-  source: "Независен"
-  published_at: "2026-04-14T14:37:06.833+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/0a785f319e.jpg"
-  url: "https://nezavisen.mk/mickoski-kje-go-isprati-gruevski-vo-zatvor-ako-bide-vraten/"
-  excerpt: "Премиерот вели дека неговата влада го почитува законот, а за неговиот претходник има правосилна пресуда и ќе биде испратен право во затвор Премиерот Христијан Мицкоски денеска му испрати посредна порака на неговиот претходник на чело на ВМРО-ДПМНЕ, ..."
-  featured: false
-
-- id: time-mk-20260414-вежбата-блесок-26-ке-се-изведува-на-повеке-локац
-  title: "Вежбата „Блесок 26“ ќе се изведува на повеќе локации во државата"
-  source: "Макфакс"
-  published_at: "2026-04-14T14:36:06.833+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/7ee886d70a.jpg"
-  url: "https://makfax.com.mk/makedonija/vezhbata-blesok-26-ke-se-izveduva-na-poveke-lokacii-vo-drzhavata/"
-  excerpt: "По повод отпочнувањето на активностите за вежбата „БЛЕСОК 26“ (Б-26), која ќе се изведува на повеќе локации во државата во периодот од 19 до 27 април 2026 година, денес во Генералштабот на Армијата се одржа брифинг за претставниците на медиумите."
-  featured: false
-
-- id: time-mk-20260414-орбан-падна-мицкоски-молчи-вмро-дпмне-во-паника
-  title: "Орбан падна, Мицкоски молчи, ВМРО-ДПМНЕ во паника"
-  source: "CivilMedia"
-  published_at: "2026-04-14T14:35:06.833+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/3bd7c6459d.jpg"
-  url: "https://civilmedia.mk/orban-padna-mitskoski-molchi-vmro-dpmne-vo-panika/"
-  excerpt: "Креирано со помош на ВИ Додека премиерот Мицкоски – кој меѓу последните имаше средба со сега веќе поранешниот унгарски премиер Виктор Орбан, пред да падне од власта по 16 години диктаторско управување со Унгарија – се крие и избегнува да ја честита ..."
   featured: false
