@@ -1,3 +1,33 @@
+- id: time-mk-20260415-ујп-со-порака-до-граганите-нема-нов-данок-за-при
+  title: "УЈП со порака до граѓаните: Нема нов данок за приходи од странство, се активира постоечката обврска"
+  source: "Трн"
+  published_at: "2026-04-15T19:34:39.021+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/e00ec6fab0.jpg"
+  url: "https://trn.mk/ujp-so-poraka-do-gragjanite-nema-nov-danok-za-prihodi-od-stranstvo-se-aktivira-postoechkata-obvrska/"
+  excerpt: "УЈП појаснува дека оданочувањето на приходите од странство не е нова мерка, туку законска обврска што постои со години. Објавени и податоци за контроли и доброволно пријавување. Управата за јавни приходи (УЈП) ги расчисти дилемите околу ..."
+  featured: true
+
+- id: time-mk-20260415-втор-масакр-во-училиште-во-турција-осмодделенец-
+  title: "Втор масакр во училиште во Турција: Осмодделенец уби 9 лица, од кои 8 се ученици, објавени деталите"
+  source: "Вечер Прес"
+  published_at: "2026-04-15T19:33:39.021+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/2ec1eb8441.jpg"
+  url: "https://www.vecer.press/vtor-masakr-vo-uchilishte-vo-turczija-osmoddelenecz-ubi-9-licza-od-koi-8-se-ucheniczi-objaveni-detalite/"
+  excerpt: "Најмалку девет лица, меѓу кои осум ученици и еден наставник, беа убиени во пукотница во средно училиште во турската покраина Кахраманмараш, изјави министерот за внатрешни работи, Мустафа Чифчи."
+  featured: false
+
+- id: time-mk-20260415-прево-еден-од-главните-услови-за-успех-на-процес
+  title: "Прево: Еден од главните услови за успех на процесот на проширување е самата ЕУ да си закаже состанок за да го ревидира својот процес на ..."
+  source: "Либертас"
+  published_at: "2026-04-15T19:32:39.021+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/3cb9a7ff52.jpg"
+  url: "https://libertas.mk/prevo-eden-od-glavnite-uslovi-za-uspeh-na-procesot-na-proshiruva-e-e-samata-eu-da-si-zakazhe-sostanok-za-da-go-revidira-svo-ot-proces-na-odluchuva-e/"
+  excerpt: "Еден од главните услови за успех на процесот на пристапување и проширување е самата Европска Унија да си закаже состанок за да го ревидира својот процес на одлучување, изјави белгискиот министер за надворешни работи, европски прашања и развојна ..."
+  featured: false
+
 - id: time-mk-20260415-осмооделенец-уби-осум-деца-и-еден-наставник-во-у
   title: "Осмооделенец уби осум деца и еден наставник во училиште во Турција"
   source: "Макфакс"
@@ -6,7 +36,7 @@
   image: "https://time.mk/images/thumb/b8752a6a21.jpg"
   url: "https://makfax.com.mk/svet/osmoodelenec-ubi-osum-deca-i-eden-nastavnik-vo-uchilishte-vo-turcija/"
   excerpt: "Девет лица, меѓу кои осум деца, беа убиени денес во пукотница во средно училиште во југоисточна Турција, изјави турскиот министер за внатрешни работи Мустафа Чифчи, додавајќи дека 13 лица се ранети, а шест се во критична состојба."
-  featured: true
+  featured: false
 
 - id: time-mk-20260415-вмро-дпмне-нема-да-плаче-по-орбан-владите-се-мен
   title: "ВМРО-ДПМНЕ нема да плаче по Орбан: Владите се менливи, порача Муцунски"
@@ -466,34 +496,4 @@
   image: "https://time.mk/images/thumb/e4f10ffea4.jpg"
   url: "https://biznisvesti.mk/bez-struja-del-od-korisnitsite-od-kuchkovo/"
   excerpt: "Без струја денеска ќе останат дел од корисниците на село Кучково, соопшти РЦУК. -Од ЕВН Македонија АД добивме известување дека на ден 15.04.2026 година (среда) без електрична енергија ќе останат: во периодот од 09.00 до 16.00 часот, дел од ..."
-  featured: false
-
-- id: time-mk-20260415-неуспехот-на-орбан-гледајте-ја-унгарија-мислете-
-  title: "Неуспехот на Орбан: гледајте ја Унгарија, мислете на Бугарија"
-  source: "CivilMedia"
-  published_at: "2026-04-15T07:52:16.547+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/3b42adb923.jpg"
-  url: "https://civilmedia.mk/neuspehot-na-orban-gledajte-ja-ungarija-mislete-na-bugarija/"
-  excerpt: "Народно собрание на Бугарија (фото: Nikolai Karaneschev, CC BY 3.0) Пишува: Изборите во Унгарија беа следени од медиумите низ целиот свет, бидејќи тие се показател за општите процеси на Запад."
-  featured: false
-
-- id: time-mk-20260415-промоција-на-нов-возен-парк-на-македонска-пошта-
-  title: "Промоција на нов возен парк на Македонска пошта во Скопје"
-  source: "Бизнис Вести"
-  published_at: "2026-04-15T07:51:16.547+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/9ed7b34716.jpg"
-  url: "https://biznisvesti.mk/promotsija-na-nov-vozen-park-na-makedonska-poshta-vo-skopje/"
-  excerpt: "Премиерот Христијан Мицкоски, вицепремиерот и министер за транспорт Александар Николоски и директорот на АД Македонска пошта, Орхан Куртиши, денеска ќе присуствуваат на промоција на новиот возен парк за потребите на АД Македонска пошта."
-  featured: false
-
-- id: time-mk-20260415-кој-со-орбан-тикви-садел
-  title: "Кој со Орбан тикви садел…"
-  source: "CivilMedia"
-  published_at: "2026-04-15T07:50:16.547+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/7e80839004.jpg"
-  url: "https://civilmedia.mk/koj-so-orban-tikvi-sadel/"
-  excerpt: "Пишува: Се сеќавате ли на она заедничко јадење бурек во Суботица меѓу домаќинот и ? Делуваше дека се работи за сладок оброк, а и скопските пријатели на обајцата лидери секако индиректно уживале во таа глетка. Ќе има некоја трошка за нас."
   featured: false
