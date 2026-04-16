@@ -1,3 +1,23 @@
+- id: time-mk-20260416-премиерот-новиот-закон-за-високо-образование-ке-
+  title: "Премиерот: Новиот Закон за високо образование ќе одговори на предизвиците"
+  source: "Press24"
+  published_at: "2026-04-16T10:44:16.382+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/3539c13e0b.jpg"
+  url: "https://press24.mk/premierot-noviot-zakon-za-visoko-obrazovanie-kje-odgovori-na-predizvicite/"
+  excerpt: "Образованието е најмоќното оружје кое можете да го искористите за да го промените светот. Долго време во нашата држава се правеа експерименти со нешто кое не смее да биде предмет на импровизација – со образованието."
+  featured: true
+
+- id: time-mk-20260416-сдс-и-филипче-слават-изборна-победа-во-друга-држ
+  title: "„СДС и Филипче слават изборна победа во друга држава каде сестринската партија им освојува само 1% од гласовите“, велат од ВМРО-ДПМНЕ"
+  source: "Макфакс"
+  published_at: "2026-04-16T10:42:16.382+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/e7902a2b90.jpg"
+  url: "https://makfax.com.mk/makedonija/sds-i-filipche-slavat-izborna-pobeda-vo-druga-drzhava-kade-sestrinskata-partija-im-osvojuva-samo-1-od-glasovite-velat-od-vmro-dpmne/"
+  excerpt: "„Пет дена СДС и Венко Филипче слават и се радуваат на победата на Маѓар во Унгарија. Гледајќи ја еуфоријата која владее на Бихаќка, човек би помислил дека СДС победиле и Филипче само што не станал премиер."
+  featured: false
+
 - id: time-mk-20260416-над-19-000-евра-казни-пред-велигден-уништени-272
   title: "Над 19.000 евра казни пред Велигден: уништени 272 килограми небезбедна храна и 40 тони јајца"
   source: "Макфакс"
@@ -6,7 +26,7 @@
   image: "https://time.mk/images/thumb/4f80801730.jpg"
   url: "https://makfax.com.mk/makedonija/nad-19-000-evra-kazni-pred-veligden-unishteni-272-kilogrami-nebezbedna-hrana-i-40-toni-jajca/"
   excerpt: "Парични казни од над 19 илјади евра во денарска противвредност изрекоа инспекциските служби на Агенцијата за храна и ветеринарство (АХВ) на оператори со храна во рамки на спроведените 1221 вонредни контроли кои беа спроведени пред Велигденските ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260416-фото-муцунски-и-прево-на-утринско-трчање-низ-ско
   title: "ФОТО | Муцунски и Прево на утринско трчање низ Скопје"
@@ -476,24 +496,4 @@
   image: "https://time.mk/images/thumb/5272e40730.jpg"
   url: "https://360stepeni.mk/foto-poshta-dobi-100-novi-vozila-se-zabrzuva-isporakata-na-pratkite/"
   excerpt: "Малите возила се со носивост од 750 килограми, додека големите се со носивост од 1 800 килограми, кои ќе помогнат во забрзувањето на доставувањето на пратките, што е основната дејност на „Пошта“ „Пошта на Република Северна Македонија“ доби 100 нови ..."
-  featured: false
-
-- id: time-mk-20260415-сдсм-имаме-чувство-дека-стравот-му-влезе-длабоко
-  title: "СДСМ: Имаме чувство дека стравот му влезе длабоко во коските на Мицкоски!"
-  source: "Скопје1"
-  published_at: "2026-04-15T12:36:10.418+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/4acb24524b.jpg"
-  url: "https://skopje1.mk/sdsm-imame-cuvstvo-deka-stravot-mu-vleze-dlaboko-vo-koskite-na-mickoski"
-  excerpt: "Од СДСМ реагираат на изјавата на Христијан Мицкоски во која, како што наведуваат, повторно изнесува „чувство“ за можни идни процеси против функционери на партијата. Од партијата посочуваат дека ваквите изјави претставуваат обид за политичка ..."
-  featured: false
-
-- id: time-mk-20260415-видео-петрушевски-сдс-и-филипче-наместо-да-бидат
-  title: "(Видео) Петрушевски: СДС и Филипче наместо да бидат кредибилна опозиција и коректив на власта, се занимаваат со избори на кои сестринските ..."
-  source: "Макфакс"
-  published_at: "2026-04-15T12:35:10.418+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/e944719bbb.jpg"
-  url: "https://makfax.com.mk/makedonija/video-petrushevski-sds-i-filipche-namesto-da-bidat-kredibilna-opozicija-i-korektiv-na-vlasta-se-zanimavaat-so-izbori-na-koi-sestrinskite-partii-im-osvojuvaat-eden-procent-od-glasovite/"
-  excerpt: "СДС и Филипче наместо да бидат кредибилна опозиција и коректив на власта, се занимаваат со избори во друга држава на кои сестринските партии им освојуваат 1% од гласовите. Наместо реформи, аргументирани критики и издржани предлози, од СДС и Филипче ..."
   featured: false
