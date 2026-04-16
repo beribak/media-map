@@ -1,3 +1,43 @@
+- id: time-mk-20260416-законот-за-високо-образование-реформа-или-илузиј
+  title: "Законот за високо образование: реформа или илузија за квалитет?"
+  source: "Трн"
+  published_at: "2026-04-16T18:43:29.307+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/ae94224c69.jpg"
+  url: "https://trn.mk/zakonot-za-visoko-obrazovanie-reforma-ili-iluzija-za-kvalitet/"
+  excerpt: "Владата најавува меритократија и задржување на младите, но студентите учат во факултети без парно, а универзитетите велат дека автономијата им е загрозена. На 16 април 2026 година, премиерот Христијан Мицкоски и министерката за образование Весна ..."
+  featured: true
+
+- id: time-mk-20260416-нови-програми-за-специјализации-и-супспецијализа
+  title: "Нови програми за специјализации и супспецијализации: Општа хирургија и интерна медицина ќе траат по пет години"
+  source: "360 степени"
+  published_at: "2026-04-16T18:42:29.307+02:00"
+  category: "Здравство"
+  image: "https://time.mk/images/thumb/680f182388.jpg"
+  url: "https://360stepeni.mk/novi-programi-za-spetsijalizatsii-i-supspetsijalizatsii-opshta-hirurgija-i-interna-meditsina-ke-traat-po-pet-godini/"
+  excerpt: "Новиот модел предвидува и транзициски период од три години, во кој специјализантите ќе можат да преминат од старите во новите програми. За веќе специјализираните лекари се предвидени едногодишни програми за усогласување, како и двегодишни програми ..."
+  featured: false
+
+- id: time-mk-20260416-ниту-еден-сведок-не-дојде-на-денешното-рочиште-з
+  title: "Ниту еден сведок не дојде на денешното рочиште за трагедијата во Кочани"
+  source: "ТВ21"
+  published_at: "2026-04-16T18:41:29.307+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/7d52c63e90.jpg"
+  url: "https://mk.tv21.tv/nitu-eden-svedok-ne-dojde-na-deneshnoto-rochishte-za-tragedijata-vo-kochani/"
+  excerpt: "Денеска во судницата во Идризово продолжи судењето за трагедијата во Кочани, кога во дискотеката „Пулс“ загинаа 63 лица, а повеќе од 200 беа повредени. Но, ниту еден од петмината сведоци кои требаше да сведочат за моментите од трагедијата на 16 март ..."
+  featured: false
+
+- id: time-mk-20260416-граганските-иницијативи-со-повеке-гласови-од-зна
+  title: "Граѓанските иницијативи со повеќе гласови од „ЗНАМ“ и Левица, но без место во Изборниот законик"
+  source: "4NEWS"
+  published_at: "2026-04-16T18:40:29.307+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/3ccff2a82e.jpg"
+  url: "https://4news.mk/graganskite-initsijativi-so-poveke-glasovi-od-znam-i-levitsa-no-bez-mesto-vo-izborniot-zakonik/"
+  excerpt: "Десет независни граѓански иницијативи упатија барање до министерот за правда Игор Филков да бидат вклучени во работната група што го изработува новиот Изборен законик, реагирајќи дека досегашниот процес се одвива без нивно учество."
+  featured: false
+
 - id: time-mk-20260416-празна-судница-во-идризово-ниту-еден-од-најавени
   title: "Празна судница во Идризово: Ниту еден од најавените сведоци за трагедијата во „Пулс“не се појави пред судот"
   source: "Press24"
@@ -6,7 +46,7 @@
   image: "https://time.mk/images/thumb/4e1d752455.jpg"
   url: "https://press24.mk/prazna-sudnica-vo-idrizovo-nitu-eden-od-najavenite-svedoci-za-tragedijata-vo-pulsne-se-pojavi-pred-sudot/"
   excerpt: "Судењето за една од најголемите трагедии во поновата македонска историја – пожарот во кочанската дискотека „Пулс“ каде згаснаа 63 животи – денеска во Идризово остана без клучните сведочења."
-  featured: true
+  featured: false
 
 - id: time-mk-20260416-сиљановска-давкова-оствари-средба-со-турскиот-пр
   title: "Сиљановска-Давкова оствари средба со турскиот претседател Ердоган"
@@ -456,44 +496,4 @@
   image: "https://time.mk/images/thumb/4da0431bf5.jpg"
   url: "https://www.slobodenpecat.mk/voznemiruvachko-video-devetmina-mrtvi-vo-turskoto-uchilishte-decata-panichno-begaat-od-pukachot/"
   excerpt: "Деветмина мртви и 13 повредени е досегашниот биланс во најкрвавиот напад со огнено оружје во турско училиште досега 14-годишно дете вооружено со пет пиштоли денеска отвори оган во училиште во Турција и уби најмалку осуммина ученици и наставник."
-  featured: false
-
-- id: time-mk-20260415-ујп-со-порака-до-граганите-нема-нов-данок-за-при
-  title: "УЈП со порака до граѓаните: Нема нов данок за приходи од странство, се активира постоечката обврска"
-  source: "Трн"
-  published_at: "2026-04-15T19:34:39.021+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/e00ec6fab0.jpg"
-  url: "https://trn.mk/ujp-so-poraka-do-gragjanite-nema-nov-danok-za-prihodi-od-stranstvo-se-aktivira-postoechkata-obvrska/"
-  excerpt: "УЈП појаснува дека оданочувањето на приходите од странство не е нова мерка, туку законска обврска што постои со години. Објавени и податоци за контроли и доброволно пријавување. Управата за јавни приходи (УЈП) ги расчисти дилемите околу ..."
-  featured: false
-
-- id: time-mk-20260415-втор-масакр-во-училиште-во-турција-осмодделенец-
-  title: "Втор масакр во училиште во Турција: Осмодделенец уби 9 лица, од кои 8 се ученици, објавени деталите"
-  source: "Вечер Прес"
-  published_at: "2026-04-15T19:33:39.021+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/2ec1eb8441.jpg"
-  url: "https://www.vecer.press/vtor-masakr-vo-uchilishte-vo-turczija-osmoddelenecz-ubi-9-licza-od-koi-8-se-ucheniczi-objaveni-detalite/"
-  excerpt: "Најмалку девет лица, меѓу кои осум ученици и еден наставник, беа убиени во пукотница во средно училиште во турската покраина Кахраманмараш, изјави министерот за внатрешни работи, Мустафа Чифчи."
-  featured: false
-
-- id: time-mk-20260415-прево-еден-од-главните-услови-за-успех-на-процес
-  title: "Прево: Еден од главните услови за успех на процесот на проширување е самата ЕУ да си закаже состанок за да го ревидира својот процес на ..."
-  source: "Либертас"
-  published_at: "2026-04-15T19:32:39.021+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/3cb9a7ff52.jpg"
-  url: "https://libertas.mk/prevo-eden-od-glavnite-uslovi-za-uspeh-na-procesot-na-proshiruva-e-e-samata-eu-da-si-zakazhe-sostanok-za-da-go-revidira-svo-ot-proces-na-odluchuva-e/"
-  excerpt: "Еден од главните услови за успех на процесот на пристапување и проширување е самата Европска Унија да си закаже состанок за да го ревидира својот процес на одлучување, изјави белгискиот министер за надворешни работи, европски прашања и развојна ..."
-  featured: false
-
-- id: time-mk-20260415-осмооделенец-уби-осум-деца-и-еден-наставник-во-у
-  title: "Осмооделенец уби осум деца и еден наставник во училиште во Турција"
-  source: "Макфакс"
-  published_at: "2026-04-15T18:33:30.289+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/b8752a6a21.jpg"
-  url: "https://makfax.com.mk/svet/osmoodelenec-ubi-osum-deca-i-eden-nastavnik-vo-uchilishte-vo-turcija/"
-  excerpt: "Девет лица, меѓу кои осум деца, беа убиени денес во пукотница во средно училиште во југоисточна Турција, изјави турскиот министер за внатрешни работи Мустафа Чифчи, додавајќи дека 13 лица се ранети, а шест се во критична состојба."
   featured: false
