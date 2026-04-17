@@ -1,3 +1,13 @@
+- id: time-mk-20260417-во-анализите-кај-стојанче-пронајдени-кокаин-и-ди
+  title: "Во анализите кај Стојанче пронајдени кокаин и дијазепам, на лицето кај Ивана имало и стари модрини!"
+  source: "Вечер Прес"
+  published_at: "2026-04-17T16:35:53.681+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/6c51abac5c.jpg"
+  url: "https://www.vecer.press/vo-analizite-kaj-stojanche-pronajdeni-kokain-i-dijazepam-na-liczeto-kaj-ivana-imalo-i-stari-modrini/"
+  excerpt: "Обвинетиот за трагедијата во Тафталиџе со своја верзија во која за тепањето ниту збор При анализа на крвта кај покојната Ивана, не биле констатирани никакви наоди на присуство на алкохол, лекови или психоактивни супстанции."
+  featured: true
+
 - id: time-mk-20260417-филипче-со-писмо-до-еу-мицкоски-вели-моите-чувст
   title: "Филипче со писмо до ЕУ, Мицкоски вели: Моите чувства дека ќе одговараат се сѐ посилни"
   source: "ТВ21"
@@ -6,7 +16,7 @@
   image: "https://time.mk/images/thumb/19a2d85547.jpg"
   url: "https://mk.tv21.tv/filipche-so-pismo-do-eu-mitskoski-veli-moite-chuvstva-deka-ke-odgovaraat-se-s-posilni/"
   excerpt: "СДСМ испрати писма до Европската Унија и поднесе кривична пријава за премиерот Христијан Мицкоски до Обвинителството. Реакцијата следува по изјавата на премиерот дека има чувство, дека набргу, високи функционери од претходната влада на СДСМ ќе бидат ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260417-стојанче-сведочеше-во-судот-ивана-ми-призна-со-м
   title: "Стојанче сведочеше во судот: Ивана ми призна, со Мартин Саздов ми ја подметнале дрогата!"
@@ -486,14 +496,4 @@
   image: "https://time.mk/images/thumb/7a9c25a671.jpg"
   url: "https://www.24.mk/details/khodza-za-tv-24-nemam-dogovor-so-akhmeti-da-go-nasledam-na-liderskata-pozicija-vo-dui-nikoj-vo-mala-rechica-ne-se-plashi-od-grubi"
   excerpt: "Истрагата за Артан Груби е преседан , не може да одговара за колектвина одлука на Влада, вели за 24 Анализа потпретседаелот на ДУИ Аријанит Хоџа. Хоџа тврди дека нема „дил“ за враќањето на Груби и дека не го прашал Ахемти дали има договор."
-  featured: false
-
-- id: time-mk-20260416-се-наметна-наратив-дека-имаме-огромни-плати-култ
-  title: "Се наметна наратив дека имаме огромни плати – културните работници на протест побараа почитување на Колективниот договор"
-  source: "360 степени"
-  published_at: "2026-04-16T22:24:49.837+02:00"
-  category: "Култура"
-  image: "https://time.mk/images/thumb/b49c351353.jpg"
-  url: "https://360stepeni.mk/se-nametna-narativ-deka-imame-ogromni-plati-kulturnite-rabotnitsi-na-protest-pobaraa-pochituvane-na-kolektivniot-dogovor/"
-  excerpt: "Протестот, како што наведоа културните работници, е насочен против одлуката на Уставниот суд за поведување постапка за оценување на уставноста и законитоста на Колективниот договор за култура, како и поради, според синдикатот, прекршување на ..."
   featured: false
