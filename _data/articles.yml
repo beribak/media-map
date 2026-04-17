@@ -1,3 +1,43 @@
+- id: time-mk-20260417-моите-чувства-се-сe-посилни-вели-мицкоски-по-пис
+  title: "Моите чувства се сè посилни, вели Мицкоски по писмата од Филипче до ЕУ и амбасадорите за најавен прогон на поранешни функционери"
+  source: "Макфакс"
+  published_at: "2026-04-17T11:42:26.656+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/15a0d9a89d.jpg"
+  url: "https://makfax.com.mk/top/moite-chuvstva-se-se-posilni-veli-mickoski-po-pismata-od-filipche-do-eu-i-ambasadorite-za-najaven-progon-na-poraneshni-funkcioneri/"
+  excerpt: "По писмата што ги испрати лидерот на опозицијата, Венко Филипче, до Европската Унија и амбасадорите за сериозно нарушување на уставниот поредок по изјавата на премиерот дека „има чувство“ дека набргу високи функционери на СДСМ ќе бидат опфатени со ..."
+  featured: true
+
+- id: time-mk-20260417-адвокатот-на-гаволот-замина-во-шутка-на-издржува
+  title: "Адвокатот на Ѓаволот замина во Шутка на издржување на затворската казна – објавено е колку пари барал и колку зел"
+  source: "Слободен Печат"
+  published_at: "2026-04-17T11:41:26.656+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/26eb07072c.jpg"
+  url: "https://www.slobodenpecat.mk/advokatot-na-gjavolot-zamina-vo-shutka-na-izdrzhuvanje-na-zatvorskata-kazna-objaveno-kolku-pari-baral-i-kolku-zel/"
+  excerpt: "Кривичниот суд ја прифатил спогодбата што ја склучиле поранешниот државен правобранител Фехми Стафа и јавното обвинителство и тој е веќе спроведен во затворот во Шутка за да ja издржува затворската казна од една година и три месеци затоа што зел ..."
+  featured: false
+
+- id: time-mk-20260417-мицкоски-македонија-е-енергетски-стабилна-имаме-
+  title: "Мицкоски: Македонија е енергетски стабилна, имаме најевтини горива и доволни резерви за граѓаните и бизнисот"
+  source: "Press24"
+  published_at: "2026-04-17T11:40:26.656+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/9a94f6f9df.jpg"
+  url: "https://press24.mk/mickoski-makedonija-e-energetski-stabilna-imame-najevtini-goriva-i-dovolni-rezervi-za-gragjanite-i-biznisot/"
+  excerpt: "Премиерот Христијан Мицкоски порача дека државата е целосно подготвена да одговори на сите енергетски предизвици и дека во овој моменти нема никакви пречки во снабдувањето со нафта и нафтени деривати."
+  featured: false
+
+- id: time-mk-20260417-професорите-не-сакаат-да-работат-но-сакаат-висок
+  title: "Професорите не сакаат да работат, но сакаат високи плати – смета премиерот Мицкоски"
+  source: "Мета"
+  published_at: "2026-04-17T11:39:26.656+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/4bf1794817.jpg"
+  url: "https://meta.mk/profesorite-ne-sakaat-da-rabotat-no-sakaat-visoki-plati-smeta-premierot-mickoski/"
+  excerpt: "Премиерот Христијан Мицкоски изјави дека Законот за високо образование има поддршка од сите ректори на универзитетите, додека критиките, според него, доаѓаат од дел од академскиот кадар кој избегнува да работа, а очекува високи плати."
+  featured: false
+
 - id: time-mk-20260417-фехми-стафа-призна-вина-и-склучи-спогодба-осуден
   title: "Фехми Стафа призна вина и склучи спогодба – осуден на 1 година и 3 месеци затвор"
   source: "ТВ21"
@@ -6,7 +46,7 @@
   image: "https://time.mk/images/thumb/436fd00fe7.jpg"
   url: "https://mk.tv21.tv/fehmi-stafa-prizna-vina-i-skluchi-spogodba-osuden-na-1-godina-i-3-mesetsi-zatvor/"
   excerpt: "Поранешниот државен правобранител Фехми Стафа е осуден на казна затвор од една година и три месеци, откако синоќа склучил спогодба со Обвинителството за случајот со примање награда за противзаконито влијание."
-  featured: true
+  featured: false
 
 - id: time-mk-20260417-нафтата-под-100-долари-но-неизвесноста-останува-
   title: "НАФТАТА ПОД 100 ДОЛАРИ, НО НЕИЗВЕСНОСТА ОСТАНУВА: Пазарите реагираат на дипломатските сигнали"
@@ -456,44 +496,4 @@
   image: "https://time.mk/images/thumb/8de8891364.jpg"
   url: "https://emagazin.mk/nitu-eden-svedok-na-obvinitelstvoto-deneska-ne-se-pojavi-na-rochishteto-za-pozharot-vo-puls/"
   excerpt: "На денешното рочиште за пожарот во т.н. дискотека “Пулс“ во Кочани не се појави ниту еден сведок на Основното јавно обвинителство. Основниот кривичен суд Скопје го прифати предлогот на Обвинителството на сведоците и , вешто лице од областа на ..."
-  featured: false
-
-- id: time-mk-20260416-пет-години-специјализација-за-хирургија-и-повеке
-  title: "Пет години специјализација за хирургија и повеќе практика за интернистите"
-  source: "Вечер Прес"
-  published_at: "2026-04-16T15:43:24.594+02:00"
-  category: "Здравство"
-  image: "https://time.mk/images/thumb/1c14565c03.jpg"
-  url: "https://www.vecer.press/pet-godini-speczijalizaczija-za-hirurgija-i-poveke-praktika-za-internistite/"
-  excerpt: "Нов систем за обука на лекарите, за да се намалат гужвите и чекањето на пациентите Од новата академска година се менуваат специјализациите по интерна медицина и по општа хирургија на медицинските факултети во Скопје, Тетово и Штип."
-  featured: false
-
-- id: time-mk-20260416-продолжува-притисокот-на-сдсм-врз-тв-алфа-партиј
-  title: "ПРОДОЛЖУВА ПРИТИСОКОТ НА СДСМ ВРЗ ТВ АЛФА Партијата поднесе кривична пријава"
-  source: "+инфо"
-  published_at: "2026-04-16T15:42:24.594+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/c742f49273.jpg"
-  url: "https://plusinfo.mk/prodolzhuva-pritisokot-na-sdsm-vrz-tv-alfa-parti-ata-podnese-krivichna-pri-ava/"
-  excerpt: "СДСМ продолжува со притисок врз ТВ Алфа откако денеска генералниот секретар на партијата Александар Саша Димитријевиќ соопшти дека поднел кривична пријава против сопствениците на телевизијата."
-  featured: false
-
-- id: time-mk-20260416-со-новиот-закон-за-високо-образование-премиерот-
-  title: "Со новиот Закон за високо образование премиерот ќе ги задржува младите дома, студентите со критики"
-  source: "Мета"
-  published_at: "2026-04-16T14:38:24.734+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/ce767ed2bc.jpg"
-  url: "https://meta.mk/so-noviot-zakon-za-visoko-obrazovanie-premierot-kje-gi-zadrzhuva-mladite-doma-studentite-so-kritiki/"
-  excerpt: "„Во однос на функционалноста на Координативното тело во високото образование, претседателот на Владата напомена дека ќе направи сè за да се задржат младите, јас тоа навистина го почитувам, но на овој состанок само јас сум претставник на младите, а ..."
-  featured: false
-
-- id: time-mk-20260416-одбраната-не-дозволува-повлекување-на-трауматизи
-  title: "Одбраната не дозволува повлекување на трауматизирани сведоци, следуваат психијатриски вештачења"
-  source: "Вечер Прес"
-  published_at: "2026-04-16T14:37:24.734+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/7cd69446bd.jpg"
-  url: "https://www.vecer.press/odbranata-ne-dozvoluva-povlekuvane-na-traumatizirani-svedoczi-sleduvaat-psihijatriski-veshtachena/"
-  excerpt: "Не дојдоа сведоците повикани на судењето за „Пулс“ Ниту еден од шестемина предложени сведоци на Јавното обвинителство не се појави на рочиштето за пожарот во дискотеката „Пулс“ во Кочани, во кој загинаа 63 лица, а над 220 беа повредени."
   featured: false
