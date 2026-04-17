@@ -1,3 +1,53 @@
+- id: time-mk-20260417-на-15-месеци-затвор-осуден-ексдржавниот-правобра
+  title: "НА 15 МЕСЕЦИ ЗАТВОР ОСУДЕН ЕКСДРЖАВНИОТ ПРАВОБРАНИТЕЛ ФЕХМИ СТАФА, ФАТЕН КАКО ПРИМА МИТО ОД 50.000 ЕВРА ОД СЕСТРАТА НА ОБВИНЕТИОТ ЉУПЧО ..."
+  source: "Сакам да кажам"
+  published_at: "2026-04-17T09:45:11.387+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/893455b74a.jpg"
+  url: "https://sdk.mk/index.php/makedonija/na-15-mesetsi-zatvor-osuden-eksdrzhavniot-pravobranitel-fehmi-stafa-faten-kako-prima-mito-od-50-000-evra-od-sestrata-na-obvinetiot-lupcho-petsov-gavolot-za-da-vlijae-vo-apelatsija/"
+  excerpt: "Поранешниот Правобранител на Македонија Фехми Стафа кој беше фатен во живо како прима поткуп од 50.000 евра од сестрата на обвинетиот Љупчо Пецов викан Ѓаволот за да влијае во Апелациониот суд, осуден е на една година и три месеци затвор, откако ..."
+  featured: true
+
+- id: time-mk-20260417-азиските-берзи-растат-нафтата-под-100-долари
+  title: "Азиските берзи растат, нафтата под 100 долари"
+  source: "ТВ21"
+  published_at: "2026-04-17T09:44:11.387+02:00"
+  category: "Економија"
+  image: "https://time.mk/images/thumb/078f4067d3.jpg"
+  url: "https://mk.tv21.tv/aziskite-berzi-rastat-naftata-pod-100-dolari/"
+  excerpt: "Цените на нафтата бележат пад во раното тргување во петокот, продолжувајќи го негативниот тренд под влијание на зголемениот оптимизам за можно смирување на тензиите на Блискиот Исток. Пазарите реагираат на 10-дневното примирје меѓу Израел и Либан, ..."
+  featured: false
+
+- id: time-mk-20260417-можеби-две-години-опоравување-мегународната-аген
+  title: "„Можеби две години опоравување“: Меѓународната агенција за енергија алармира за последиците од кризата на Блискиот Исток"
+  source: "Скопје1"
+  published_at: "2026-04-17T09:43:11.387+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/d2f8be83f9.jpg"
+  url: "https://skopje1.mk/mozebi-dve-godini-oporavuvanje-megjunarodnata-agencija-za-energija-alarmira-za-posledicite-od-krizata-na-bliskiot-istok"
+  excerpt: "Светот мора да се подготви за значително повисоки цени на енергијата доколку не се обезбеди непречен проток низ Ормутскиот теснец, предупреди извршниот директор на Меѓународната агенција за енергија, Фатих Бирол."
+  featured: false
+
+- id: time-mk-20260417-наместо-да-се-реформираат-сдс-и-филипче-по-насок
+  title: "„Наместо да се реформираат, СДС и Филипче по насока на пропаднатиот ПР тим и преку фалименто соопштенијата, се фокусираат на избори и ..."
+  source: "Макфакс"
+  published_at: "2026-04-17T09:42:11.387+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/5aff0d5495.jpg"
+  url: "https://makfax.com.mk/makedonija/namesto-da-se-reformiraat-sds-i-filipche-po-nasoka-na-propadnatiot-pr-tim-i-preku-falimento-soopshtenijata-se-fokusiraat-na-izbori-i-sostojbi-vo-drugi-drzhavi-velat-od-vmro-dpmne/"
+  excerpt: "„СДС со ова партиско раководство предводено од Венко Филипче, нема реална политика, нема реформи, нема ни идеи, ниту пак програма. Единствено што има е гола пропаганда преку фалименто соопштенија што немаат врска ниту со реалноста, ниту со ..."
+  featured: false
+
+- id: time-mk-20260417-сдсм-ги-спреми-ли-владата-на-мицкоски-документит
+  title: "СДСМ: Ги спреми ли владата на Мицкоски документите за екстрадиција на Груевски"
+  source: "Скопје1"
+  published_at: "2026-04-17T09:41:11.387+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/3b5ce11c95.jpg"
+  url: "https://skopje1.mk/sdsm-gi-spremi-li-vladata-na-mickoski-dokumentite-za-ekstradicija-na-gruevski"
+  excerpt: "СДСМ упати прашања до Владата и Министерството за правда во врска со постапката за екстрадиција на поранешниот премиер Никола Груевски, барајќи информации до каде е процесот и дали е поднесено официјално барање."
+  featured: false
+
 - id: time-mk-20260417-цените-на-нафтата-пагаат-по-примирјето-мегу-изра
   title: "Цените на нафтата паѓаат по примирјето меѓу Израел и Либан и најавата на Трамп за можен крај на војната во Иран"
   source: "24 Вести"
@@ -6,7 +56,7 @@
   image: "https://time.mk/images/thumb/6abccd9cf0.jpg"
   url: "https://www.24.mk/details/cenite-na-naftata-pa-aat-po-primirjeto-me-u-izrael-i-liban-i-najavata-na-tramp-za-mozhen-kraj-na-vojnata-vo-iran"
   excerpt: "Цените на нафтата паднаа откако стапи во сила прекинот на огнот меѓу Израел и Либан и по објавата на американскиот претседател Доналд Трамп дека војната во Иран би можела наскоро да заврши бидејќи Техеран се согласил да се откаже од збогатување ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260417-примирје-мегу-израел-и-либан-чекор-кон-мир-или-к
   title: "Примирје меѓу Израел и Либан: Чекор кон мир или кратка пауза пред нова ескалација?"
@@ -446,54 +496,4 @@
   image: "https://time.mk/images/thumb/a0aa350222.jpg"
   url: "https://fokus.mk/video-dimitrievik-sdsm-podnese-krivichna-prijava-protiv-sopstvenitsite-na-alfa-tv-od-ungarija/"
   excerpt: "„СДСМ поднесе кривична пријава до Јавното обвинителство поради постоење на сериозни сомнежи за организирана шема на перење пари, даночно затајување и фалсификување деловни книги. Пријавата е поднесена против повеќе физички и правни лица, меѓу кои и ..."
-  featured: false
-
-- id: time-mk-20260416-мицкоски-новиот-закон-за-високо-образование-созд
-  title: "Мицкоски: Новиот закон за високо образование создава услови младите да останат дома"
-  source: "360 степени"
-  published_at: "2026-04-16T12:39:39.633+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/ad64704db9.jpg"
-  url: "https://360stepeni.mk/mitskoski-noviot-zakon-za-visoko-obrazovanie-sozdava-uslovi-mladite-da-ostanat-doma/"
-  excerpt: "Премиерот верува дека новиот предлог-закон за високо образование ќе даде резултати бидејќи, како што рече, не е изготвен зад затворени врати, туку со широка дебата со универзитетите, експертите и студентите Министерката за образование и наука Весна ..."
-  featured: false
-
-- id: time-mk-20260416-петрушевски-пр-от-на-заев-ги-насочи-сдс-и-филипч
-  title: "Петрушевски: ПР-от на Заев, ги насочи СДС и Филипче да се фокусираат на избори во друга држава, наместо да прават реформи во партијата"
-  source: "Скопје1"
-  published_at: "2026-04-16T12:38:39.633+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/af372564d1.jpg"
-  url: "https://skopje1.mk/petrusevski-pr-ot-na-zaev-gi-nasoci-sds-i-filipce-da-se-fokusiraat-na-izbori-vo-druga-drzava-namesto-da-pravat-reformi-vo-partijata"
-  excerpt: "ВМРО-ДПМНЕ преку изјава на пратеникот Петрушевски обвини дека, како што велат, ПР-тимот поврзан со Зоран Заев го насочува СДСМ и Венко Филипче кон теми поврзани со избори во други држави, наместо кон внатрешни партиски реформи."
-  featured: false
-
-- id: time-mk-20260416-адвокатите-на-обвинетите-во-пулс-инсистираат-да-
-  title: "Адвокатите на обвинетите во „Пулс“ инсистираат да сведочат повредени од пожарот и покрај нивните трауми"
-  source: "Фокус"
-  published_at: "2026-04-16T12:37:39.633+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/c7c1915965.jpg"
-  url: "https://fokus.mk/advokatite-na-obvinetite-vo-puls-insistiraat-da-svedochat-povredeni-od-pozharot-i-pokraj-nivnite-traumi/"
-  excerpt: "На денешното рочиште за пожарот во кочанската дискотека „Пулс“, во кој животот го загубија 63 лица, а над 200 беа повредени, одбраната на обвинетите предизвика бурни реакции со инсистирањето да сведочат повредени кои се наоѓаат во тешка психофизичка ..."
-  featured: false
-
-- id: time-mk-20260416-хоџа-до-граганските-организации-да-работиме-заед
-  title: "Хоџа до граѓанските организации: Да работиме заедно за вистински зелен пресврт"
-  source: "Макфакс"
-  published_at: "2026-04-16T12:36:39.633+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/9ecbd47e65.jpg"
-  url: "https://makfax.com.mk/makedonija/hodha-do-graganskite-organizacii-da-rabotime-zaedno-za-vistinski-zelen-presvrt/"
-  excerpt: "Министерот за животна средина и просторно планирање, Муамет Хоџа, се обрати на денешната Национална конференција за природа, каде истакна дека заедничкиот системски одговор е единствениот пат кон долгорочно зачувување на природните ресурси."
-  featured: false
-
-- id: time-mk-20260416-мицкоски-со-новиот-закон-за-високо-образование-с
-  title: "Мицкоски: Со новиот Закон за високо образование се создаваат услови младите да останат тука"
-  source: "Фокус"
-  published_at: "2026-04-16T11:43:10.672+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/0fbee1f300.jpg"
-  url: "https://fokus.mk/mitskoski-so-noviot-zakon-za-visoko-obrazovanie-se-sozdavaat-uslovi-mladite-da-ostanat-tuka/"
-  excerpt: "Премиерот Христијан Мицкоски, на денешната расправа за Законот на високо образование, истакна дека: „Образованието е најмоќното оружје кое можете да го искористите за да го промените светот."
   featured: false
