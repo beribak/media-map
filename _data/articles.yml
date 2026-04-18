@@ -1,3 +1,33 @@
+- id: time-mk-20260418-џафери-го-запечати-исклучувањето-на-албанскиот-ј
+  title: "Џафери го запечати исклучувањето на албанскиот јазик од правосудниот испит, обвинија од ВЛЕН"
+  source: "Фокус"
+  published_at: "2026-04-18T17:22:34.202+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/0d4d520d71.jpg"
+  url: "https://fokus.mk/dhaferi-go-zapechati-iskluchuvaneto-na-albanskiot-jazik-od-pravosudniot-ispit-obvinija-od-vlen/"
+  excerpt: "„Документот од 27 август 2019 година, потпишан од Талат Џафери, е јасен доказ дека проблемот околу полагањето на правосудниот испит не е случајност, туку последица на негрижа и политичкo предавство."
+  featured: true
+
+- id: time-mk-20260418-сериозен-недостиг-од-медицински-сестри
+  title: "Сериозен недостиг од медицински сестри"
+  source: "24 Вести"
+  published_at: "2026-04-18T17:21:34.202+02:00"
+  category: "Здравство"
+  image: "https://time.mk/images/thumb/cb494c85d2.jpg"
+  url: "https://www.24.mk/details/seriozen-nedostig-od-medicinski-sestri"
+  excerpt: "Болничките одделенија – каде се води најтешката битка за живот на пациентите се соочуваат со сериозен недостиг од медицински сестри. Токму во одделите за интензивна нега и реанимација каде секоја секунда – живот значи, се помалку кадар останува, а ..."
+  featured: false
+
+- id: time-mk-20260418-органодарителството-е-чин-на-врвна-солидарност-и
+  title: "Органодарителството е чин на врвна солидарност и хуманост"
+  source: "24 Вести"
+  published_at: "2026-04-18T17:20:34.202+02:00"
+  category: "Здравство"
+  image: "https://time.mk/images/thumb/c0ae66ad72.jpg"
+  url: "https://www.24.mk/details/organodaritelstvoto-e-chin-na-vrvna-solidarnost-i-khumanost"
+  excerpt: "Органодарителството во Македонија претставува чин на врвна солидарност и хуманост кој спасува животи. Една одлука за дарување може да спаси повеќе животи и да обезбеди иднина за многу пациенти кои чекаат на трансплантација."
+  featured: false
+
 - id: time-mk-20260418-мерката-за-намалување-на-акцизите-на-нафтените-д
   title: "Мерката за намалување на акцизите на нафтените деривати продолжува, владата очекува малопродажните цени да се намалат"
   source: "Бизнис Вести"
@@ -6,7 +36,7 @@
   image: "https://time.mk/images/thumb/0c0857049a.jpg"
   url: "https://biznisvesti.mk/merkata-za-namaluvane-na-aktsizite-na-naftenite-derivati-prodolzhuva-vladata-ochekuva-maloprodazhnite-tseni-da-se-namalat/"
   excerpt: "На денешната седница, владата, разгледувајќи ја тековната економска ситуација и последиците од глобалните ценовни потреси врз домашниот пазар, донесе одлука за продолжување на мерката за намалување на акцизите на горивата, која ќе биде во сила до 4 ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260418-интерпелацијата-за-мене-е-нелегитимна-како-што-с
   title: "Интерпелацијата за мене е нелегитимна, како што си ти во СДСМ – му порача Трупуновски на Николовски"
@@ -466,34 +496,4 @@
   image: "https://time.mk/images/thumb/5cb640acdb.jpg"
   url: "https://www.24.mk/details/sdsm-podnese-krivichna-prijava-za-mickoski-za-rushenje-na-ustavot-i-krshenje-na-zakonite"
   excerpt: "СДСМ поднесе кривична пријава до ОЈО против премиерот Христијан Мицкоски откако во неколку наврати јавно даде изјава дека имал чувство дека многу наскоро поранешни функционери од СДСМ па и членови на нивните семејства ќе бидат изнесени пред лицето ..."
-  featured: false
-
-- id: time-mk-20260417-вртоглав-пад-на-цената-на-нафтата-откако-иран-со
-  title: "Вртоглав пад на цената на нафтата откако Иран соопшти дека го отвора Ормутскиот теснец"
-  source: "ТВ21"
-  published_at: "2026-04-17T17:30:56.938+02:00"
-  category: "Економија"
-  image: "https://time.mk/images/thumb/8422085338.jpg"
-  url: "https://mk.tv21.tv/vrtoglav-pad-na-tsenata-na-naftata-otkako-iran-soopshti-deka-go-otvora-ormutskiot-tesnets/"
-  excerpt: "Светските енергетски пазари денеска доживеаја вистински потрес откако цената на суровата нафта од типот „Брент“ за само неколку часа се урна под 90 долари, бележејќи остар пад од речиси 12%."
-  featured: false
-
-- id: time-mk-20260417-премиерот-категоричен-дека-нема-ново-попуштање-в
-  title: "ПРЕМИЕРОТ КАТЕГОРИЧЕН ДЕКА НЕМА НОВО ПОПУШТАЊЕ ВО ОДНОС НА НОВИОТ ЗАКОН ЗА ВИСОКОТО ОБРАЗОВАНИЕ: Ќе нема професорски плати од 150.000 ..."
-  source: "Вечер Прес"
-  published_at: "2026-04-17T17:29:56.938+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/7e841afc14.jpg"
-  url: "https://www.vecer.press/premierot-kategorichen-deka-nema-novo-popushtane-vo-odnos-na-noviot-zakon-za-visokoto-obrazovanie-ke-nema-profesorski-plati-od-150-000-denari-bez-nauchni-trudovi/"
-  excerpt: "– Оние што се плашат од новите критериуми сакаат да работат еден ден во неделата, да земаат плата од 120.000 денари, а да не напишат еден труд во годината. Што им е тогаш работата?! Тоа е исто како јас, премиер на Владата, да доаѓам само еден ден во ..."
-  featured: false
-
-- id: time-mk-20260417-во-анализите-кај-стојанче-пронајдени-кокаин-и-ди
-  title: "Во анализите кај Стојанче пронајдени кокаин и дијазепам, на лицето кај Ивана имало и стари модрини!"
-  source: "Вечер Прес"
-  published_at: "2026-04-17T16:35:53.681+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/6c51abac5c.jpg"
-  url: "https://www.vecer.press/vo-analizite-kaj-stojanche-pronajdeni-kokain-i-dijazepam-na-liczeto-kaj-ivana-imalo-i-stari-modrini/"
-  excerpt: "Обвинетиот за трагедијата во Тафталиџе со своја верзија во која за тепањето ниту збор При анализа на крвта кај покојната Ивана, не биле констатирани никакви наоди на присуство на алкохол, лекови или психоактивни супстанции."
   featured: false
