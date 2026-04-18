@@ -1,3 +1,23 @@
+- id: time-mk-20260418-марш-на-ангелите-во-штип-ова-не-е-само-марш-на-т
+  title: "Марш на ангелите во Штип: Ова не е само марш на тага и барање -правда, ова е марш на љубов, достоинство и непокорна истрајност"
+  source: "Слободен Печат"
+  published_at: "2026-04-18T19:22:19.960+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/7abf7bd36f.jpg"
+  url: "https://www.slobodenpecat.mk/marsh-na-angelite-vo-shtip-ova-ne-e-samo-marsh-na-taga-i-baranje-pravda-ova-e-marsh-na-ljubov-dostoinstvo-i-nepokorna-istrajnost/"
+  excerpt: "Денес јавно прашуваме: Зошто се одолговлекувало? Кој дозволил да се чека? Кој премолчел? Кој не постапил? Требаше ли ова да заврши со 63 човечки жртви и стотици повредени за институциите конечно да се разбудат? Денес во Штип чекорат семејствата и ..."
+  featured: true
+
+- id: time-mk-20260418-стојанов-вмро-дпмне-ке-ја-попречи-европската-инт
+  title: "Стојанов: ВМРО-ДПМНЕ ќе ја попречи европската интеграција на Македонија и ќе ги одржи тензиите со соседите"
+  source: "Фокус"
+  published_at: "2026-04-18T19:18:19.960+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/53c8319151.jpg"
+  url: "https://fokus.mk/stojanov-vmro-dpmne-ke-ja-poprechi-evropskata-integratsija-na-makedonija-i-ke-gi-odrzhi-tenziite-so-sosedite/"
+  excerpt: "Контроверзниот бугарски државјанин Виктор Стојанов, претседател на фондацијата „Македонија“, оцени дека евентуалните политички промени во Унгарија нема значително да влијаат врз односите меѓу Северна Македонија и Бугарија."
+  featured: false
+
 - id: time-mk-20260418-сдсм-го-обвинува-трипуновски-за-корупција-и-скан
   title: "СДСМ го обвинува Трипуновски за „корупција и скандали“, тој вели дека е „нелигитимна“ интерпелацијата"
   source: "Мета"
@@ -6,7 +26,7 @@
   image: "https://time.mk/images/thumb/4ccbe9172c.jpg"
   url: "https://meta.mk/sdsm-go-obvinuva-tripunovski-za-korupcija-i-skandali-toj-veli-deka-e-neligitimna/"
   excerpt: "СДСМ поднесе интерпелација против министерот за земјоделство Цветан Трипуновски, обвинувајќи го за корупција и лоши политики, додека тој возврати со критики кон својот претходник Љупчо Николовски и ја оцени иницијативата како „нелегитимна“ Денес на ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260418-најкритичните-болнички-оддели-остануваат-без-мед
   title: "Најкритичните болнички оддели остануваат без медицински сестри"
@@ -476,24 +496,4 @@
   image: "https://time.mk/images/thumb/8d9144c004.jpg"
   url: "https://press24.mk/video-janevska-zakonot-za-visoko-obrazovanie-ne-ja-unishtuva-avtonomijata-na-fakultetite-prifativme-del-od-zabeleshkite/"
   excerpt: "Министерката за образование и наука Весна Јаневска вечерва изјави дека е задоволна од законското решение за високо образование, кое, како што потенцира, не ја нарушува автономијата на универзитетите."
-  featured: false
-
-- id: time-mk-20260417-изгореа-автомобили-на-стариот-полигон-во-скопје-
-  title: "ИЗГОРЕА АВТОМОБИЛИ НА СТАРИОТ ПОЛИГОН ВО СКОПЈЕ, ВОЈНИК СПРЕЧИ ПОЖАРОТ ДА СЕ ПРОШИРИ"
-  source: "Сакам да кажам"
-  published_at: "2026-04-17T20:29:03.372+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/60ae30ca20.jpg"
-  url: "https://sdk.mk/index.php/makedonija/izgorea-avtomobili-na-stariot-poligon-vo-skopje-vojnik-sprechi-pozharot-da-se-proshiri/"
-  excerpt: "Професионалниот војник Христијан Божиновски денеска спречи ширење на пожар и заштити имот на граѓаните на просторот на поранешниот полигон за обука за моторни возила, кој се наоѓа наспроти Националната Арена „Тодор Проески“, соопшти Армијата."
-  featured: false
-
-- id: time-mk-20260417-драстичен-пад-на-цените-на-нафтата-по-отворањето
-  title: "Драстичен пад на цените на нафтата по отворањето на Ормутскиот теснец"
-  source: "Press24"
-  published_at: "2026-04-17T20:28:03.372+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/ea546ade42.jpg"
-  url: "https://press24.mk/drastichen-pad-na-cenite-na-naftata-po-otvoranjeto-na-ormutskiot-tesnec/"
-  excerpt: "Цените на нафтата паднаа за повеќе од 13 проценти денес, а американските акции пораснаа откако Иран објави дека Ормутскиот теснец е повторно отворен за премин на танкери што носат нафта од Персискиот Залив до корисниците ширум светот."
   featured: false
