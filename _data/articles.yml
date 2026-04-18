@@ -1,3 +1,23 @@
+- id: time-mk-20260418-сдсм-поднесе-интерпелација-за-министерот-за-земј
+  title: "СДСМ поднесе интерпелација за министерот за земјоделство, Трипуновски"
+  source: "360 степени"
+  published_at: "2026-04-18T14:25:27.198+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/8bad0f3ce6.jpg"
+  url: "https://360stepeni.mk/sdsm-podnese-interpelatsija-za-ministerot-za-zemjodelstvo-tripunovski/"
+  excerpt: "„Интерпелацијата ја поднесуваме поради сериозни, континуирани и веќе процесуирани случаи на системска корупција невидена досега, злоупотреба на службената положба, кршење на законите и обврските на министерот дефинирани во законите, како и сериозно ..."
+  featured: true
+
+- id: time-mk-20260418-настан-женско-лидерство-европската-интеграција-н
+  title: "Настан „Женско лидерство: Европската интеграција на Западен Балкан во услови на безбедносни и технолошки предизвици во Европа“"
+  source: "Бизнис Вести"
+  published_at: "2026-04-18T14:22:27.198+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/97dae7c236.jpg"
+  url: "https://biznisvesti.mk/nastan-zhensko-liderstvo-evropskata-integratsija-na-zapaden-balkan-vo-uslovi-na-bezbednosni-i-tehnoloshki-predizvitsi-vo-evropa/"
+  excerpt: "Настан од меѓународен карактер, посветен на темата „Женско лидерство – Европската интеграција на Западен Балкан во услови на безбедносни и технолошки предизвици во Европа“, денес ќе се одржи во Скопје."
+  featured: false
+
 - id: time-mk-20260418-петрушевски-сдсм-и-филипче-живеат-во-паралелна-р
   title: "Петрушевски: СДСМ и Филипче живеат во паралелна реалност"
   source: "Скопје1"
@@ -6,7 +26,7 @@
   image: "https://time.mk/images/thumb/06959be1f8.jpg"
   url: "https://skopje1.mk/petrusevski-sdsm-i-filipce-ziveat-vo-paralelna-realnost"
   excerpt: "Пратеникот на ВМРО-ДПМНЕ, Бране Петрушевски, упати остри критики кон СДСМ и лидерот Венко Филипче, обвинувајќи ги дека, како што вели, функционираат во „паралелен свет на лаги и политичка заблуда“."
-  featured: true
+  featured: false
 
 - id: time-mk-20260418-поради-блокадата-на-сад-иран-повторно-го-затвора
   title: "Поради блокадата на САД: Иран повторно го затвора Ормускиот Теснец"
@@ -476,24 +496,4 @@
   image: "https://time.mk/images/thumb/a1204c56d5.jpg"
   url: "https://nezavisen.mk/mickoski-greshi-poraneshniot-polski-minister-ziobro-dobi-politichki-azil-vo-ungarija-na-12-januari-2026/"
   excerpt: "Не само поранешниот полски министер за правда, туку и неговиот заменик, Марчин Романовски, доби политички азил во Унгарија – во декември 2024 Премиерот и лидер на ВМРО-ДПМНЕ, Христијан Мицкоски, како да се повлекува од својата претходна изјава дека ..."
-  featured: false
-
-- id: time-mk-20260417-сиљановска-давкова-во-анталија-потребна-е-длабок
-  title: "Сиљановска-Давкова во Анталија: Потребна е длабока реформа на ОН и на Европската Унија"
-  source: "Макфакс"
-  published_at: "2026-04-17T15:40:02.037+02:00"
-  category: "Геополитика"
-  image: "https://time.mk/images/thumb/9ed6b36317.jpg"
-  url: "https://makfax.com.mk/makedonija/siljanovska-davkova-vo-antalija-potrebna-e-dlaboka-reforma-na-on-i-na-evropskata-unija/"
-  excerpt: "Во рамки на учеството на петтото издание на Дипломатскиот форум во Анталија, претседателката Гордана Сиљановска-Давкова се обрати на „Панелот на лидери“ на тема: „Мапирање на иднината, управување со неизвесностите“."
-  featured: false
-
-- id: time-mk-20260417-мицкоски-заработи-кривична-пријава-од-сдсм-порад
-  title: "Мицкоски „заработи“ кривична пријава од СДСМ поради „чувствата“"
-  source: "Слободен Печат"
-  published_at: "2026-04-17T14:35:23.783+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/190c072643.jpg"
-  url: "https://www.slobodenpecat.mk/mickoski-zaraboti-krivichna-prijava-od-sdsm-za-zloupotreba-na-sluzhbenata-dolzhnost/"
-  excerpt: "Генералниот секретар на СДСМ Александар Димитријевиќ го повика Јавното обвинителство да го повика премиерот на распит и да ги испита неговите чувства за да докаже дека не работи само по нарачки од Мицкоски."
   featured: false
