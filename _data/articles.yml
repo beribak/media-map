@@ -1,3 +1,33 @@
+- id: time-mk-20260419-според-владата-горивата-утре-треба-да-поевтинaт-
+  title: "Според Владата, горивата утре треба да поевтинaт по 1,5 денар – Мицкоски: Македонија е трета во Европа по применети мерки"
+  source: "ТВ21"
+  published_at: "2026-04-19T16:23:45.082+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/bb46dc5e73.jpg"
+  url: "https://mk.tv21.tv/spored-vladata-gorivata-utre-treba-da-poevtinat-po-1-5-denar-mitskoski-makedonija-e-treta-vo-evropa-po-primeneti-merki/"
+  excerpt: "Намалување на цените на бензините и на дизел горивото за по 1,5 денар по литар, очекува Владата со утрешната одлука на Регулаторната комисија за енергетика. Премиерот Христијан Мицкоски нагласи дека на сила останува и договорената мерка со ОКТА до ..."
+  featured: true
+
+- id: time-mk-20260419-приказни-за-животните-музички-хепенинг-скопје-го
+  title: "Приказни за животните, музички хепенинг… Скопје годинава одбележува сто години од Зоолошката градина"
+  source: "Независен"
+  published_at: "2026-04-19T16:22:45.082+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/38100fdc62.jpg"
+  url: "https://nezavisen.mk/prikazni-za-zhivotnite-muzichki-hepening-skopje-godinava-odbelezhuva-sto-godini-od-zooloshkata-gradina/"
+  excerpt: "Со приказни за животните, музички хепенинг и забава за најмладите денеска започна одбележувањето на стогодишнината од основањето на Зоолошката градина во Скопје, која е најстара на Балканот."
+  featured: false
+
+- id: time-mk-20260419-мицкоски-за-кривичната-пријава-од-сдсм-фокусиран
+  title: "Мицкоски за кривичната пријава од СДСМ: Фокусиран сум на развојот на државата, партиите кои живеат во сопствените лаги ги разочаруваат ..."
+  source: "24 Вести"
+  published_at: "2026-04-19T16:19:45.082+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/25b9bc9af3.jpg"
+  url: "https://www.24.mk/details/mickoski-za-krivichnata-prijava-od-sdsm-fokusiran-sum-na-razvojot-na-drzhavata-partiite-koi-zhiveat-vo-sopstvenite-lagi-gi-razocharuvaat-gra-anite"
+  excerpt: "Премиерот Христијан Мицкоски денеска на прес-конференција во Владата рече дека не сака да ја коментира кривичната пријава од опозициската СДСМ и оти остава надлежните органи да одлучат по неа, нагласувајќи дека тој е фокусиран кон развојот на ..."
+  featured: false
+
 - id: time-mk-20260419-една-замисла-среде-градскиот-парк-стана-место-шт
   title: "Една замисла среде Градскиот парк стана место што го памети секое детство"
   source: "Вечер Прес"
@@ -6,7 +36,7 @@
   image: "https://time.mk/images/thumb/4017965f02.jpg"
   url: "https://www.vecer.press/edna-zamisla-srede-gradskiot-park-stana-mesto-shto-go-pameti-sekoe-detstvo/"
   excerpt: "ПОЧНАА АКТИВНОСТИТЕ ЗА ОДБЕЛЕЖУВАЊЕ ЕДЕН ВЕК ПОСТОЕЊЕ НА СКОПСКАТА ЗООЛОШКА ГРАДИНА Почетокот на одбележувањето на стогодишнината од Зоолошката градина во Скопје ја отвора приказната за еден век исполнет со историја, промени и раст."
-  featured: true
+  featured: false
 
 - id: time-mk-20260419-вракањето-на-ддв-за-дизел-горивата-на-18-процент
   title: "Враќањето на ДДВ за дизел-горивата на 18 проценти дополнително ќе ги погоди граѓаните, вели Филипче"
@@ -466,34 +496,4 @@
   image: "https://time.mk/images/thumb/0907550c16.jpg"
   url: "https://360stepeni.mk/dui-vlen-padna-na-ispitot-za-dostoinstvo-namesto-da-gi-branat-studentite-gi-opravduvaat-tie-shto-sakaat-da-go-potchinat-albanskiot-jazik/"
   excerpt: "Во реакцијата на ДУИ се наведува дека ВЛЕН се обидуваат вината за проблемот со правосудниот испит да ја префрлат во минатото, само за да го сокријат сопственото „предавање“ во сегашноста, откако, како што велат, студентите по право ги разобличиле на ..."
-  featured: false
-
-- id: time-mk-20260418-тав-македонија-и-мвр-покажаa-взаемна-подготвенос
-  title: "ТАВ Македонија и МВР покажаa взаемна подготвеност на денешната симулациска вежба на охридскиот аеродром за справување со сложени ..."
-  source: "Бизнис Вести"
-  published_at: "2026-04-18T18:18:19.829+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/ecb8f697f4.jpg"
-  url: "https://biznisvesti.mk/tav-makedonija-i-mvr-pokazhaa-vzaemna-podgotvenost-na-deneshnata-simulatsiska-vezhba-na-ohridskiot-aerodrom-za-spravuvane-so-slozheni-bezbednosni-zakani/"
-  excerpt: "ТАВ Македонија, подружница на ТАВ Аеродроми, членка на АДП Групацијата и Министреството за внатрешни работи, успешно реализираа симулациска вежба за справување со сложени безбедносни закани, овој пат на Аеродромот Св. Апостол Павле Охрид."
-  featured: false
-
-- id: time-mk-20260418-џафери-го-запечати-исклучувањето-на-албанскиот-ј
-  title: "Џафери го запечати исклучувањето на албанскиот јазик од правосудниот испит, обвинија од ВЛЕН"
-  source: "Фокус"
-  published_at: "2026-04-18T17:22:34.202+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/0d4d520d71.jpg"
-  url: "https://fokus.mk/dhaferi-go-zapechati-iskluchuvaneto-na-albanskiot-jazik-od-pravosudniot-ispit-obvinija-od-vlen/"
-  excerpt: "„Документот од 27 август 2019 година, потпишан од Талат Џафери, е јасен доказ дека проблемот околу полагањето на правосудниот испит не е случајност, туку последица на негрижа и политичкo предавство."
-  featured: false
-
-- id: time-mk-20260418-сериозен-недостиг-од-медицински-сестри
-  title: "Сериозен недостиг од медицински сестри"
-  source: "24 Вести"
-  published_at: "2026-04-18T17:21:34.202+02:00"
-  category: "Здравство"
-  image: "https://time.mk/images/thumb/cb494c85d2.jpg"
-  url: "https://www.24.mk/details/seriozen-nedostig-od-medicinski-sestri"
-  excerpt: "Болничките одделенија – каде се води најтешката битка за живот на пациентите се соочуваат со сериозен недостиг од медицински сестри. Токму во одделите за интензивна нега и реанимација каде секоја секунда – живот значи, се помалку кадар останува, а ..."
   featured: false
