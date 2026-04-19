@@ -1,3 +1,53 @@
+- id: time-mk-20260419-парламентарни-избори-во-бугарија-поранешниот-пре
+  title: "Парламентарни избори во Бугарија, поранешниот претседател Радев води во анкетите"
+  source: "Мета"
+  published_at: "2026-04-19T10:30:50.198+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/a33d7d5804.jpg"
+  url: "https://meta.mk/parlamentarni-izbori-vo-bugarija-poraneshniot-pretsedatel-radev-vodi-vo-anketite/"
+  excerpt: "Радев се повлече од претседателската функција во јануари за да се кандидира на осмите парламентарни избори за пет години Бугарите денска гласаат на осмите парламентарни избори за пет години, а јасниот фаворит, прорускиот поранешен претседател Румен ..."
+  featured: true
+
+- id: time-mk-20260419-вмро-дпмне-во-очајна-потрага-по-добра-вест-филип
+  title: "ВМРО-ДПМНЕ: Во очајна потрага по добра вест Филипче слави победа на сестринска партија на ВМРО-ДПМНЕ, во СДС крах систем"
+  source: "Либертас"
+  published_at: "2026-04-19T10:29:50.198+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/43f66f9e47.jpg"
+  url: "https://libertas.mk/vmro-dpmne-vo-ocha-na-potraga-po-dobra-vest-filipche-slavi-pobeda-na-sestrinska-parti-a-na-vmro-dpmne-vo-sds-krah-sistem/"
+  excerpt: "На последните парламентарни избори во 2024 година, СДС освои 18 пратеници што е најнизок резултат во историјата на партијата. На локалните избори минатата година, партијата се сведе на 130 илјади гласови."
+  featured: false
+
+- id: time-mk-20260419-бугарија-денеска-излегува-на-осмите-парламентарн
+  title: "Бугарија денеска излегува на осмите парламентарни избори во последните пет години"
+  source: "ТВ21"
+  published_at: "2026-04-19T10:28:50.198+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/6d418a379c.jpg"
+  url: "https://mk.tv21.tv/bugarija-deneska-izleguva-na-osmite-parlamentarni-izbori-vo-poslednite-pet-godini/"
+  excerpt: "Во Бугарија денеска се одржуваат парламентарни избори за состав на 52-рото Народно собрание. Избирачките места беа отворени во 7 часот, а изборниот процес ќе трае до 20 часот. Вчера гласаше дијаспората во странство."
+  featured: false
+
+- id: time-mk-20260419-влен-на-кој-јазик-синот-на-талат-џафери-го-полож
+  title: "ВЛЕН: На кој јазик синот на Талат Џафери го положи правосудниот испит?!"
+  source: "24Инфо"
+  published_at: "2026-04-19T10:27:50.198+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/c46ab0988e.jpg"
+  url: "https://24info.mk/vlen-na-koj-jazik-sinot-na-talat-dhaferi-go-polozhi-pravosudniot-ispit/"
+  excerpt: "Со својот глас и потпис, Талат Џафери и ДУИ го изоставија албанскиот јазик од правосудниот испит. Значи, не само што не го заштитија албанскиот јазик, туку свесно го исклучија, на штета на многу студенти Албанци."
+  featured: false
+
+- id: time-mk-20260419-сдсм-бара-широка-јавна-дебата-и-референдум-за-от
+  title: "СДСМ бара широка јавна дебата и референдум за отворање рудник со антимон во кривопаланечко Луке"
+  source: "Слободен Печат"
+  published_at: "2026-04-19T10:26:50.198+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/8926a22c13.jpg"
+  url: "https://www.slobodenpecat.mk/sdsm-bara-shiroka-javna-debata-i-referendum-za-otvoranje-rudnik-so-antimon-vo-krivopalanechko-luke/"
+  excerpt: "За најавата на Мицкоски за отворање рудник со антимон во кривопаланечко Луке мора да има поширока јавна дебата и секако да се прашаат граѓаните, тие да одлучат, соопштуваат од СДСМ, додавајќи дека станува збор за сериозно прашање за тоа како оваа ..."
+  featured: false
+
 - id: time-mk-20260419-ден-на-одлука-отворени-се-гласачките-места-во-бу
   title: "Ден на одлука: Отворени се гласачките места во Бугарија – милиони граѓани одлучуваат за судбината на земјата"
   source: "Вечер Прес"
@@ -6,7 +56,7 @@
   image: "https://time.mk/images/thumb/5be3fd50bc.jpg"
   url: "https://www.vecer.press/den-na-odluka-otvoreni-se-glasachkite-mesta-vo-bugarija-milioni-gragani-odluchuvaat-za-sudbinata-na-zemjata/"
   excerpt: "Бугарите денес излегуваат на гласачките места на осмите парламентарни избори за пет години, а се очекува коалицијата на поранешниот претседател Румен Радев да победи со ветување за борба против корупцијата."
-  featured: true
+  featured: false
 
 - id: time-mk-20260419-бугарија-избира-нови-240-пратеници-за-52-то-наро
   title: "Бугарија избира нови 240 пратеници за 52-то Народно собрание"
@@ -446,54 +496,4 @@
   image: "https://time.mk/images/thumb/14f28bfa0a.jpg"
   url: "https://sdk.mk/index.php/svet/iran-ja-vraka-voenata-kontrola-vrz-ormuskiot-tesnets-go-obvini-vashington-za-pomorski-grabezh/"
   excerpt: "Иранската војска најави дека повторно ја презема контролата врз Ормускиот Теснец, објавија иранските државни медиуми. Иранската револуционерна гарда во соопштение наведе дека теснецот ќе се врати во претходната состојба и дека со подрачјето ќе ..."
-  featured: false
-
-- id: time-mk-20260418-струмичките-институции-не-се-пашалак-на-заев-суд
-  title: "СТРУМИЧКИТЕ ИНСТИТУЦИИ НЕ СЕ ПАШАЛАК НА ЗАЕВ Судот во Струмица му ја одби тужбата против Петрушевски"
-  source: "+инфо"
-  published_at: "2026-04-18T11:25:44.046+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/c352ada778.jpg"
-  url: "https://plusinfo.mk/strumichkite-institucii-ne-se-pashalak-na-zaev-sudot-vo-strumica-mu-a-odbi-tuzhbata-protiv-petrushevski/"
-  excerpt: "Не помина обидот на Зоран Заев за замолчување и да не се зборува вистината за неговите криминали, соопшти ВМРО-ДПМНЕ. Не помина обидот на Зоран Заев за замолчување и да не се зборува вистината за неговите криминали, судот во Струмица се прогласи ..."
-  featured: false
-
-- id: time-mk-20260418-евн-и-македонското-еколошко-друштво-ке-ги-заштит
-  title: "ЕВН И МАКЕДОНСКОТО ЕКОЛОШКО ДРУШТВО ЌЕ ГИ ЗАШТИТУВААТ ЦАРСКИОТ ОРЕЛ И ЕГИПЕТСКИОТ МРШОЈАДЕЦ ОД СТРУЕН УДАР"
-  source: "Сакам да кажам"
-  published_at: "2026-04-18T11:23:44.046+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/2e7996f470.jpg"
-  url: "https://sdk.mk/index.php/makedonija/evn-i-makedonskoto-ekoloshko-drushtvo-ke-gi-zashtituvaat-tsarskiot-orel-i-egipetskiot-mrshojadets-od-struen-udar/"
-  excerpt: "ЕВН Македонија и Македонското еколошко друштво (МЕД) денеска во Скопје го означија почетокот на меѓународниот проект „Безбедни жици за загрозени птици“, чија цел е заштита на царскиот орел и египетскиот мршојадец."
-  featured: false
-
-- id: time-mk-20260418-вмро-дпмне-со-жестоки-критики-сдс-ке-се-сведе-на
-  title: "ВМРО-ДПМНЕ со жестоки критики: „СДС ќе се сведе на уште помалку гласови“"
-  source: "Скопје1"
-  published_at: "2026-04-18T10:24:28.192+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/20240728c5.jpg"
-  url: "https://skopje1.mk/vmro-dpmne-so-zestoki-kritiki-sds-kje-se-svede-na-uste-pomalku-glasovi"
-  excerpt: "ВМРО-ДПМНЕ упати серија остри критики кон претседателот на СДСМ, Венко Филипче, обвинувајќи го дека ја води партијата во погрешна насока и дека се однесува, како што велат, „целосно оттурнат од реалноста“."
-  featured: false
-
-- id: time-mk-20260418-сдсм-мицкоски-ангажирал-израелска-приватна-разуз
-  title: "СДСМ: Мицкоски ангажирал израелска приватна разузнавачка агенција да го следи Филипче"
-  source: "360 степени"
-  published_at: "2026-04-18T10:23:28.192+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/5911d8b381.jpg"
-  url: "https://360stepeni.mk/sdsm-mitskoski-angazhiral-izraelska-privatna-razuznavachka-agentsija-da-go-sledi-filipche/"
-  excerpt: "Од партијата наведуваат дека оваа компанија во минатото била поврзувана со активности во други земји, вклучително и во Унгарија и Словенија, каде, според нив, била користена за политички цели Тим на „Блек кјуб“, според опозицијата, неодамна ..."
-  featured: false
-
-- id: time-mk-20260418-мамографот-во-штип-во-дефект-пациентките-ке-се-с
-  title: "Мамографот во Штип во дефект: Пациентките ќе се снимаат во Кочани, резултатите ќе ги чита штипскиот тим"
-  source: "Макфакс"
-  published_at: "2026-04-18T10:22:28.192+02:00"
-  category: "Здравство"
-  image: "https://time.mk/images/thumb/5604ed1c98.jpg"
-  url: "https://makfax.com.mk/makedonija/mamografot-vo-shtip-vo-defekt-pacientkite-ke-se-snimaat-vo-kochani-rezultatite-ke-gi-chita-shtipskiot-tim/"
-  excerpt: "Министерството за здравство ја информира јавноста дека, поради дефект на мамографскиот апарат во Клиничка болница Штип е воспоставена координирана организација со цел непречено обезбедување на мамографски прегледи за жените од источниот регион."
   featured: false
