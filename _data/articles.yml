@@ -1,3 +1,53 @@
+- id: time-mk-20260422-почна-процесот-на-укинување-на-пржинската-влада-
+  title: "Почна процесот на укинување на Пржинската влада – опозицијата против и бара консензус, власта вели тоа е надминато решение"
+  source: "ТВ21"
+  published_at: "2026-04-22T14:36:34.503+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/ef84f1e9a1.jpg"
+  url: "https://mk.tv21.tv/pochna-protsesot-na-ukinuvane-na-przhinskata-vlada-opozitsijata-protiv-i-bara-konsenzus-vlasta-veli-toa-e-nadminato-reshenie/"
+  excerpt: "Со 67 гласа за и 13 против сите од опозицијата Собранието ја утврди потребата од донесување на измени на законот за Влада со што се предлага укинување на Пржинската односно техничката влада."
+  featured: true
+
+- id: time-mk-20260422-вмро-дпмне-обидите-за-дискредитација-нема-да-ја-
+  title: "ВМРО-ДПМНЕ: Обидите за дискредитација нема да ја променат реалноста дека СДС се соочува со сопствениот политички крај"
+  source: "Макфакс"
+  published_at: "2026-04-22T14:35:34.503+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/2df9c9ef49.jpg"
+  url: "https://makfax.com.mk/makedonija/vmro-dpmne-obidite-za-diskreditacija-nema-da-ja-promenat-realnosta-deka-sds-se-soochuva-so-sopstveniot-politichki-kraj/"
+  excerpt: "Прес-конференцијата на Филипче не претставува ништо повеќе од очаен политички настап на човек кој веќе е свесен дека ја губи поддршката и незапирливо тоне, оценуваат од ВМРО-ДПМНЕ. Филипче, додаваат од таму, денес не ја напаѓа содржината на ..."
+  featured: false
+
+- id: time-mk-20260422-само-еден-сведок-беше-распрашан-на-денешното-роч
+  title: "САМО ЕДЕН СВЕДОК БЕШЕ РАСПРАШАН НА ДЕНЕШНОТО РОЧИШТЕ ЗА КАТАСТРОФАТА ВО „ПУЛС“, РОДИТЕЛИТЕ НА ЗАГИНАТИТЕ ДЕЦА ПРЕСТАНАА ДА ДОАЃААТ"
+  source: "Сакам да кажам"
+  published_at: "2026-04-22T14:34:34.503+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/0ab43089bc.jpg"
+  url: "https://sdk.mk/index.php/makedonija/samo-eden-svedok-beshe-rasprashan-na-deneshnoto-rochishte-za-katastrofata-vo-puls-roditelite-na-zaginatite-detsa-prestanaa-da-doagaat/"
+  excerpt: "Само еден сведок сведочеше на денешното судско рочиште за катастрофалниот пожар во дивата дискотека „Пулс“ во Кочани на 16 март 2025, со што дополнително падна динамиката на големиот судски процес со 35 обвинети за неизмерната трагедија со 63 жртви, ..."
+  featured: false
+
+- id: time-mk-20260422-сдсм-ке-го-поддржи-предлогот-пратениците-да-имаа
+  title: "СДСМ ќе го поддржи предлогот пратениците да имаат само македонско државјанство"
+  source: "Независен"
+  published_at: "2026-04-22T14:33:34.503+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/da22de7e88.jpg"
+  url: "https://nezavisen.mk/sdsm-kje-go-poddrzhi-predlogot-pratenicite-da-imaat-samo-makedonsko-drzhavjanstvo/"
+  excerpt: "СДСМ ќе го поддржи предлогот пратениците во Собранието да имаат само македонско државјанство, што го поднесоа пет пратеници на ВМРО-ДПМНЕ, предводени од Антонијо Милошоски. Ставот го изнесе Оливер Спасовски, по што беше изгласано предлогот по ..."
+  featured: false
+
+- id: time-mk-20260422-јаневска-надлежните-институции-ке-одлучат-за-слу
+  title: "Јаневска: Надлежните институции ќе одлучат за случајот со Филозофскиот факултет"
+  source: "Скопје1"
+  published_at: "2026-04-22T14:32:34.503+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/1801930d97.jpg"
+  url: "https://skopje1.mk/janevska-nadleznite-institucii-kje-odlucat-za-slucajot-so-filozofskiot-fakultet"
+  excerpt: "Министерката за образование и наука Весна Јаневска изрази надеж дека случајот со упис на магистерски и докторски студии на Филолошкиот факултет без исполнети услови е изолиран и дека не станува збор за системски проблем, изјави таа при увид во ..."
+  featured: false
+
 - id: time-mk-20260422-сведок-за-пулс-пиротехниката-беше-поставена-посл
   title: "Сведок за „Пулс“: Пиротехниката беше поставена после полноќ, пожарот брзо се рашири"
   source: "Трн"
@@ -6,7 +56,7 @@
   image: "https://time.mk/images/thumb/c909da237f.jpg"
   url: "https://trn.mk/svedok-za-puls-pirotehnikata-beshe-postavena-posle-polnokj-pozharot-brzo-se-rashiri/"
   excerpt: "Ѓорѓиева кажа и дека таа го снимала почетокот на пожарот но дека во моментот на снимање таа и другите околу неа не мислеле дека пожарот ќе стане толку сериозен На судскиот процес за пожарот во дискотеката „Пулс“ во Кочани, денеска сведочеше ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260422-еден-од-лидерите-на-српски-отпор-го-учи-сдсм-как
   title: "ЕДЕН ОД ЛИДЕРИТЕ НА СРПСКИ „ОТПОР“ ГО УЧИ СДСМ КАКО ДА ФОРМИРА ОПОЗИЦИСКИ ФРОНТ Манасиевски тврди дека Јован Ратковиќ бил на средба во ..."
@@ -446,54 +496,4 @@
   image: "https://time.mk/images/thumb/a8b002c531.jpg"
   url: "https://nezavisen.mk/fzom-tvrdi-deka-nema-zdravstveno-neosigurani-lica-bez-razlika-dali-ostvaruvaat-prihodi/"
   excerpt: "Во однос на изнесените ставови во јавноста за неопфатеност на категории на граѓани во здравственото осигурување, споделуваме точни и целосни информации за опфатот на осигуреници. Македонија е дефинирана како социјална држава, а согласно Законот за ..."
-  featured: false
-
-- id: time-mk-20260421-универзитетите-на-албански-јазик-ке-бидат-рамноп
-  title: "Универзитетите на албански јазик ќе бидат рамноправни, велат од Вреди по преговорите со МОН за законите за високо образование"
-  source: "Слободен Печат"
-  published_at: "2026-04-21T16:41:46.884+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/db70b89dde.jpg"
-  url: "https://www.slobodenpecat.mk/univerzitetite-na-albanski-jazik-kje-bidat-ramnopravni-velat-od-vredi-po-pregovorite-so-mon-za-zakonite-za-visoko-obrazovanie/"
-  excerpt: "Министерството за образование и наука (МОН) ги заокружи преговорите за новиот закон за високото образование. Последната средба на оваа тема, министерката Весна Јаневска ја оствари со коалицискиот партнер Вреди, со што се отвори патот законот утре да ..."
-  featured: false
-
-- id: time-mk-20260421-професори-од-филозофски-реагираа-студентите-имал
-  title: "Професори од Филозофски реагираа: Студентите имале комплетирано образование кое се барало, факултетот постапил согласно постоечките ..."
-  source: "Скопје инфо"
-  published_at: "2026-04-21T15:44:52.204+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/0cd13c3555.jpg"
-  url: "https://skopjeinfo.mk/profesori-od-filozofski-reagiraa-studentite-imale-kompletirano-obrazovanie-koe-se-baralo-fakultetot"
-  excerpt: "Утринава порталот МКД.мк објави дека студенти без додипломски студии на Филозофскиот факултет при УКИМ во Скопје биле запишувани на магистерски, а потоа и на докторски студии. Откако ова било откриено од Државниот просветен инпекторат и студиите им ..."
-  featured: false
-
-- id: time-mk-20260421-клековски-нема-здравствено-неосигурени-грагани-с
-  title: "Клековски: Нема здравствено неосигурени граѓани, секој четврти осигуреник е без приходи"
-  source: "360 степени"
-  published_at: "2026-04-21T15:43:52.204+02:00"
-  category: "Здравство"
-  image: "https://time.mk/images/thumb/ef6bbcf02f.jpg"
-  url: "https://360stepeni.mk/klekovski-nema-zdravstveno-neosigureni-gragani-sekoj-chetvrti-osigurenik-e-bez-prihodi/"
-  excerpt: "Како што нагласи, постојат одредени предизвици во системот. Дел од нив се однесуваат на транзицискиот период кај лица кои остануваат без работа, како и на оние што остваруваат нерегистрирани приходи или работат во странство, а сепак користат ..."
-  featured: false
-
-- id: time-mk-20260421-филипче-сдсм-35-години-носи-храбри-реформи-заев-
-  title: "Филипче: СДСМ 35 години носи храбри реформи – Заев дојде на крајот на свеченоста и го одзеде целото внимание"
-  source: "ТВ21"
-  published_at: "2026-04-21T15:42:52.204+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/77ca5e6b8c.jpg"
-  url: "https://mk.tv21.tv/filipche-sdsm-35-godini-nosi-hrabri-reformi-zaev-dojde-na-krajot-na-svechenosta-i-go-odzede-tseloto-vnimanie/"
-  excerpt: "СДСМ повторно излегува пред граѓаните со јасна определба за промени и враќање на власта таму каде што припаѓа, во рацете на граѓаните. Ова е пораката испратена од раководството и членството на СДСМ на свечената седница на која беше одбележана 35 ..."
-  featured: false
-
-- id: time-mk-20260421-фала-злато-си-честам-ручек-му-вели-тогашната-пре
-  title: "„ФАЛА, ЗЛАТО СИ, ЧЕСТАМ РУЧЕК“, МУ ВЕЛИ ТОГАШНАТА ПРЕТСЕДАТЕЛКА НА ДКСК ДИМИТРОВСКА НА КОЛЕГАТА КОЈ МЕСТО НЕА ПОЛОЖИЛ ИСПИТ ЗА НАЈВИСОКА ..."
-  source: "Сакам да кажам"
-  published_at: "2026-04-21T15:41:52.204+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/4ae2217ef2.jpg"
-  url: "https://sdk.mk/index.php/makedonija/fala-zlato-si-chestam-ruchek-mu-veli-togashnata-pretsedatelka-na-dksk-dimitrovska-na-kolegata-koj-mesto-nea-polozhil-ispit-za-najvisoka-drzhavna-tajna-se-prochita-na-sudeneto/"
-  excerpt: "Поранешната претседателка на Државната комисија за спречување на корупцијата (ДКСК) Татјана Димитровска обвинета за кривичното дело Компјутерски фалсификат, затоа што две години по ред испитот за безбедносен сертификат ѝ го полагал во нејзино име ..."
   featured: false
