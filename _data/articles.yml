@@ -1,3 +1,13 @@
+- id: time-mk-20260424-нови-детали-уапсени-лекари-и-сопственици-на-дерм
+  title: "Нови детали: Уапсени лекари и сопственици на дерматолошки ординации за нелегални третмани и препарати"
+  source: "Фокус"
+  published_at: "2026-04-24T00:25:12.398+02:00"
+  category: "Здравство"
+  image: "https://time.mk/images/thumb/dc5f0a9e07.jpg"
+  url: "https://fokus.mk/novi-detali-uapseni-lekari-ifd-sopstvenitsi-na-dermatoloshki-ordinatsii-za-nelegalni-tretmani-i-preparati/"
+  excerpt: "Денеска од страна на Одделот за сузбивање на организиран и сериозен криминал при под раководство на ОЈО за ГОКК се спроведува полициска акција при што е сузбиена организирана криминална група инволвирана во извршување на повеќе кривични дела."
+  featured: true
+
 - id: time-mk-20260423-доктори-и-сопственици-на-дерматолошки-ординации-
   title: "Доктори и сопственици на дерматолошки ординации уапсени во акција на МВР и ОЈО ГОКК"
   source: "360 степени"
@@ -6,7 +16,7 @@
   image: "https://time.mk/images/thumb/cbdf403b99.jpg"
   url: "https://360stepeni.mk/doktori-i-sopstvenitsi-na-dermatoloshki-ordinatsii-uapseni-vo-aktsija-na-mvr-i-ojo-gokk/"
   excerpt: "Од Министерството за внатрешни работи потврдија дека во рамки на акцијата се вршат претреси на повеќе локации во Скопје, Струмица и Битола и се уапсени повеќе лица Во акција на Одделот за сузбивање на организиран и сериозен криминал при МВР и ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260423-разбиена-мрежа-со-лажен-ботокс-и-филери-приведен
   title: "РАЗБИЕНА МРЕЖА СО ЛАЖЕН БОТОКС И ФИЛЕРИ – ПРИВЕДЕНИ ДОКТОРИ ОД СКОПСКИТЕ КЛИНИКИ И ПРИВАТНИ ОРДИНАЦИИ"
@@ -486,14 +496,4 @@
   image: "https://time.mk/images/thumb/12b58dba76.jpg"
   url: "https://skopje1.mk/vmro-dpmne-sds-izbra-status-kvo-zaev-i-natamu-gi-drzi-koncite"
   excerpt: "ВМРО-ДПМНЕ обвини дека СДСМ, предводена од Венко Филипче, избрала да продолжи со постојната политика наместо да спроведе реформи, оценувајќи дека партијата е „заробена од старите структури“."
-  featured: false
-
-- id: time-mk-20260423-вмро-дпмне-тајни-средби-на-димитријевик-во-скопј
-  title: "ВМРО-ДПМНЕ: Тајни средби на Димитријевиќ во Скопје со српските опозиционери Бранко Ружиќ и Јован Ратковиќ за формирање на опозициски фронт ..."
-  source: "Скопје1"
-  published_at: "2026-04-23T09:42:34.445+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/8dd3b8c882.jpg"
-  url: "https://skopje1.mk/vmro-dpmne-tajni-sredbi-na-dimitrijevikj-vo-skopje-so-srpskite-opozicioneri-branko-ruzikj-i-jovan-ratkovikj-za-formiranje-na-opoziciski-front-po-instrukcii-na-zaev-i-basanovikj"
-  excerpt: "Од ВМРО-ДПМНЕ обвинуваат дека генералниот секретар на СДС, Александар Саша Димитријевиќ, одржал средба во Скопје со српските опозициски политичари Бранко Ружиќ и Јован Ратковиќ, како што е наведено во соопштение."
   featured: false
