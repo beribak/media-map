@@ -1,3 +1,23 @@
+- id: time-mk-20260423-реконструкција-на-универзалната-сала-заживување-
+  title: "Реконструкција на Универзалната сала, заживување на Калето и Акведуктот – дел од проектите на „Скопје – Европска престолнина на културата“"
+  source: "360 степени"
+  published_at: "2026-04-23T19:41:38.363+02:00"
+  category: "Култура"
+  image: "https://time.mk/images/thumb/cafce6f17d.jpg"
+  url: "https://360stepeni.mk/rekonstruktsija-na-univerzalnata-sala-zazhivuvane-na-kaleto-i-akveduktot-del-od-proektite-na-skopje-evropska-prestolnina-na-kulturata/"
+  excerpt: "Градоначалникот на Скопје, Орце Ѓорѓиевски, на денешната конференција посветена на проектот „Скопје – Европска престолнина на културата 2028“ порача дека ваквата титула е историска можност за суштинска промена на градот Ревитализација на скопското ..."
+  featured: true
+
+- id: time-mk-20260423-предложената-промена-повлече-дилеми-двојните-пас
+  title: "ПРЕДЛОЖЕНАТА ПРОМЕНА ПОВЛЕЧЕ ДИЛЕМИ – ДВОЈНИТЕ ПАСОШИ ПОД ЛУПА: Едно државјанство за пратениците ќе ги стави на тест и сите функционери и ..."
+  source: "Вечер Прес"
+  published_at: "2026-04-23T19:37:38.363+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/b371fa9c59.jpg"
+  url: "https://www.vecer.press/predlozhenata-promena-povleche-dilemi-dvojnite-pasoshi-pod-lupa-edno-drzhavjanstvo-za-prateniczite-ke-gi-stavi-na-test-i-site-funkczioneri-i-evropskata-praktika/"
+  excerpt: "Откако група пратеници на ВМРО-ДПМНЕ предложија промена со која еден пратеник може да има само македонско државјанство, опозицискиот СДСМ предложи и амандман со кој таквата обврска би важела и за сите избрани и именувани функционери."
+  featured: false
+
 - id: time-mk-20260423-скопје-европска-престолнина-на-културата-2028-се
   title: "Скопје – европска престолнина на културата 2028, се очекуваат милиони посетители и трансформација на градот"
   source: "ТВ21"
@@ -6,7 +26,7 @@
   image: "https://time.mk/images/thumb/ee77f09001.jpg"
   url: "https://mk.tv21.tv/skopje-evropska-prestolnina-na-kulturata-2028-se-ochekuvaat-milioni-posetiteli-i-transformatsija-na-gradot/"
   excerpt: "Скопје е прогласено за Европска престолнина на културата за 2028 година, престижна титула што ја доделува Европската Унија на градови со висок културен потенцијал. Според министерот за култура и туризам, Зоран Љутков, овој проект се очекува да ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260423-скопските-улици-плоштади-паркови-и-кејови-ке-ста
   title: "СКОПСКИТЕ УЛИЦИ, ПЛОШТАДИ, ПАРКОВИ И КЕЈОВИ ЌЕ СТАНАТ СЦЕНИ НА ЖИВОТ, УМЕТНОСТ И ЗАЕДНИШТВО Потпишани 5 меморандуми во пресрет на „Скопје ..."
@@ -476,24 +496,4 @@
   image: "https://time.mk/images/thumb/355f91f197.jpg"
   url: "https://biznisvesti.mk/vo-sobranieto-deneska-ke-prodolzhi-98-sednitsa-na-koja-pratenitsite-ke-raspravaat-za-poveke-predlog-zakoni-po-skratena-postapka/"
   excerpt: "Скопје, 23 април 2026 (МИА) – Во Собранието денеска ќе продолжи 98. седница, на која пратениците ќе расправаат за повеќе предлог-закони по скратена постапка. На дневниот ред се Предлог-законот за изменување на Законот за Владата на Република ..."
-  featured: false
-
-- id: time-mk-20260422-сдсм-мицкоски-од-виена-ја-направи-европа-силеџиј
-  title: "СДСМ: Мицкоски од Виена ја направи Европа силеџијка која врши булинг врз Македонија"
-  source: "360 степени"
-  published_at: "2026-04-22T23:26:29.925+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/2d2024a241.jpg"
-  url: "https://360stepeni.mk/sdsm-mitskoski-od-viena-ja-napravi-evropa-siledhijka-koja-vrshi-buling-vrz-makedonija/"
-  excerpt: "Мицкоски на заедничката прес-конференција со австрискиот канцелар Кристијан Штокер рече дека процесот на пристапување на земјата во Европска Унија се билатерализира и дека државата е жртва на булинг по принципот – ние сме внатре, вие сте надвор, ако ..."
-  featured: false
-
-- id: time-mk-20260422-димитров-од-атина-мегу-скопје-и-софија-нема-комп
-  title: "Димитров од Атина: Меѓу Скопје и Софија нема компромис, туку пакет кој не донесе решение"
-  source: "Макфакс"
-  published_at: "2026-04-22T21:38:13.811+02:00"
-  category: "Геополитика"
-  image: "https://time.mk/images/thumb/8d8acd60a6.jpg"
-  url: "https://makfax.com.mk/makedonija/dimitrov-od-atina-megu-skopje-i-sofija-nema-kompromis-tuku-paket-koj-ne-donese-reshenie/"
-  excerpt: "Дипломатскиот пристап кон решавање на спорот помеѓу Македонија и Бугарија беше тема на остра дебата на меѓународниот форум во Атина, каде поранешниот шеф на дипломатијата Никола Димитров му реплицираше на бугарски претставник од публиката."
   featured: false
