@@ -1,3 +1,13 @@
+- id: time-mk-20260423-доктори-и-сопственици-на-дерматолошки-ординации-
+  title: "Доктори и сопственици на дерматолошки ординации уапсени во акција на МВР и ОЈО ГОКК"
+  source: "360 степени"
+  published_at: "2026-04-23T23:26:23.181+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/cbdf403b99.jpg"
+  url: "https://360stepeni.mk/doktori-i-sopstvenitsi-na-dermatoloshki-ordinatsii-uapseni-vo-aktsija-na-mvr-i-ojo-gokk/"
+  excerpt: "Од Министерството за внатрешни работи потврдија дека во рамки на акцијата се вршат претреси на повеќе локации во Скопје, Струмица и Битола и се уапсени повеќе лица Во акција на Одделот за сузбивање на организиран и сериозен криминал при МВР и ..."
+  featured: true
+
 - id: time-mk-20260423-разбиена-мрежа-со-лажен-ботокс-и-филери-приведен
   title: "РАЗБИЕНА МРЕЖА СО ЛАЖЕН БОТОКС И ФИЛЕРИ – ПРИВЕДЕНИ ДОКТОРИ ОД СКОПСКИТЕ КЛИНИКИ И ПРИВАТНИ ОРДИНАЦИИ"
   source: "Вечер Прес"
@@ -6,7 +16,7 @@
   image: "https://time.mk/images/thumb/04bd6aaa81.jpg"
   url: "https://www.vecer.press/razbiena-mrezha-so-lazhen-botoks-i-fileri-privedeni-doktori-od-skopskite-kliniki-i-privatni-ordinaczii/"
   excerpt: "Голема полициска акција на Одделот за организиран криминал во Скопје, Струмица и Битола Неофицијално ,извршени се претреси на повеќе локации во Скопје, Струмица и Битола, при што се лишени од слобода повеќе лица."
-  featured: true
+  featured: false
 
 - id: time-mk-20260423-од-владата-реагираат-за-тоа-како-сме-го-пренеле-
   title: "Од Владата реагираат за тоа како сме го пренеле Мицкоски, велат дека не објаснувал за техничката влада"
@@ -486,14 +496,4 @@
   image: "https://time.mk/images/thumb/8dd3b8c882.jpg"
   url: "https://skopje1.mk/vmro-dpmne-tajni-sredbi-na-dimitrijevikj-vo-skopje-so-srpskite-opozicioneri-branko-ruzikj-i-jovan-ratkovikj-za-formiranje-na-opoziciski-front-po-instrukcii-na-zaev-i-basanovikj"
   excerpt: "Од ВМРО-ДПМНЕ обвинуваат дека генералниот секретар на СДС, Александар Саша Димитријевиќ, одржал средба во Скопје со српските опозициски политичари Бранко Ружиќ и Јован Ратковиќ, како што е наведено во соопштение."
-  featured: false
-
-- id: time-mk-20260423-не-се-создадени-услови-за-укинување-на-техничкат
-  title: "Не се создадени услови за укинување на техничката влада и мора да остане, вели СДСМ"
-  source: "Макфакс"
-  published_at: "2026-04-23T08:53:04.276+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/a48f1cd755.jpg"
-  url: "https://makfax.com.mk/makedonija/ne-se-sozdadeni-uslovi-za-ukinuvanje-na-tehnichkata-vlada-i-mora-da-ostane-veli-sdsm/"
-  excerpt: "„Не се создадени услови за укинување на техничката влада, единствениот механизам за некаква контрола на изборниот процес и мора да остане. Целосно е окупиран правосудниот систем, воспоставена е контрола врз обвинителството и судството со обвинители ..."
   featured: false
