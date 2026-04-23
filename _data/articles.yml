@@ -1,3 +1,43 @@
+- id: time-mk-20260423-тоа-е-политички-незрел-потег-вели-митева-за-улти
+  title: "„Тоа е политички незрел потег“ вели Митева за ултиматумот на СДСМ за техничката влада"
+  source: "Слободен Печат"
+  published_at: "2026-04-23T13:34:48.738+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/cef18eabe7.jpg"
+  url: "https://www.slobodenpecat.mk/toa-e-politichki-nezrel-poteg-veli-miteva-za-ultimatumot-na-sdsm-za-tehnichkata-vlada/"
+  excerpt: "Портпаролката на Владата Марија Митева рече дека е „политички незрел потег и постапувањето на ваков начин не носи ништо добро во интерес на граѓаните“, откако лидерот на опозициската СДСМ, Венко Филипче, постави услови за Пржинската влада и дека ..."
+  featured: true
+
+- id: time-mk-20260423-николоски-објавен-е-тендерот-за-избор-на-надзор-
+  title: "Николоски: Објавен е тендерот за избор на надзор за третата фаза од пругата кон Бугарија, летово ќе започнат активностите на терен"
+  source: "360 степени"
+  published_at: "2026-04-23T13:33:48.738+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/81507d0604.jpg"
+  url: "https://360stepeni.mk/nikoloski-objaven-e-tenderot-za-izbor-na-nadzor-za-tretata-faza-od-prugata-kon-bugarija-letovo-ke-zapochnat-aktivnostite-na-teren/"
+  excerpt: "Во однос на заедничкиот тунел, рече дека работите се одвиваат добро и дека се надева дека за брзо време и таму ќе почнат активностите „Изградбата на железничкиот и патниот дел од Коридорот 8 ќе чини околу пет милијарди евра."
+  featured: false
+
+- id: time-mk-20260423-горгиевски-скопје-2028-е-историска-шанса-за-сушт
+  title: "Ѓорѓиевски: „Скопје 2028“ е историска шанса за суштинска трансформација"
+  source: "Нова Македонија"
+  published_at: "2026-04-23T13:32:48.738+02:00"
+  category: "Култура"
+  image: "https://time.mk/images/thumb/030804ff93.jpg"
+  url: "https://novamakedonija.com.mk/makedonija/skopje/gjorgjievski-skopje-2028-e-istoriska-shansa-za-sushtinska-transformacija/"
+  excerpt: "Титулата Европска престолнина на културата 2028 не се сведува на едногодишна културна програма, туку претставува долгорочен процес насочен кон трајна трансформација на градот и подобрување на квалитетот на живот на граѓаните."
+  featured: false
+
+- id: time-mk-20260423-видео-ајде-колеги-сите-на-нотар-или-сте-само-за-
+  title: "(ВИДЕО) Ајде, колеги, сите на нотар – или сте само за македонско државјанство или манипулирате, Зајкова со повик до пратениците"
+  source: "360 степени"
+  published_at: "2026-04-23T13:31:48.738+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/a878d37a31.jpg"
+  url: "https://360stepeni.mk/video-ajde-kolegi-site-na-notar-ili-ste-samo-za-makedonsko-drzhavjanstvo-ili-manipulirate-zajkova-so-povik-do-pratenitsite/"
+  excerpt: "Повикот Зајкова го упати преку видеообјава на социјалните мрежа Фејсбук, во која информира дека утрово била на нотар каде што заверила изјава дека ниту поседувала ниту поседува друго државјанство освен македонското Претседателката на ..."
+  featured: false
+
 - id: time-mk-20260423-николоски-државата-покажува-капацитет-да-води-го
   title: "Николоски: Државата покажува капацитет да води големи инфраструктурни проекти"
   source: "Макфакс"
@@ -6,7 +46,7 @@
   image: "https://time.mk/images/thumb/0478ab28d9.jpg"
   url: "https://makfax.com.mk/ekonomija/nikoloski-drzhavata-pokazhuva-kapacitet-da-vodi-golemi-infrastrukturni-proekti/"
   excerpt: "Државата покажува капацитет да води големи инфраструктурни проекти. Ако некаде пред година и половина зборувавме за проекти кои што беа заборавени, сега зборуваме за сериозна реализација на истите."
-  featured: true
+  featured: false
 
 - id: time-mk-20260423-филипче-со-услов-техничката-влада-мора-да-остане
   title: "Филипче со услов: Техничката влада мора да остане или ќе се повлечат од работата на Изборниот законик"
@@ -456,44 +496,4 @@
   image: "https://time.mk/images/thumb/7828e082be.jpg"
   url: "https://skopjeinfo.mk/potrebno-li-e-potvrdite-od-platenite-kazni-od-bezbeden-grad-da-se-nosat-vo-policiska-stanica-eve"
   excerpt: "Министерството за внатрешни работи ги известува граѓаните дека потврдите за платените санкции од сообраќајниот систем „Безбеден град“ кои ги платиле во банка или електронски, нема потреба да ги носат во полициска станица."
-  featured: false
-
-- id: time-mk-20260422-почна-процесот-на-укинување-на-пржинската-влада-
-  title: "Почна процесот на укинување на Пржинската влада – опозицијата против и бара консензус, власта вели тоа е надминато решение"
-  source: "ТВ21"
-  published_at: "2026-04-22T14:36:34.503+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/ef84f1e9a1.jpg"
-  url: "https://mk.tv21.tv/pochna-protsesot-na-ukinuvane-na-przhinskata-vlada-opozitsijata-protiv-i-bara-konsenzus-vlasta-veli-toa-e-nadminato-reshenie/"
-  excerpt: "Со 67 гласа за и 13 против сите од опозицијата Собранието ја утврди потребата од донесување на измени на законот за Влада со што се предлага укинување на Пржинската односно техничката влада."
-  featured: false
-
-- id: time-mk-20260422-вмро-дпмне-обидите-за-дискредитација-нема-да-ја-
-  title: "ВМРО-ДПМНЕ: Обидите за дискредитација нема да ја променат реалноста дека СДС се соочува со сопствениот политички крај"
-  source: "Макфакс"
-  published_at: "2026-04-22T14:35:34.503+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/2df9c9ef49.jpg"
-  url: "https://makfax.com.mk/makedonija/vmro-dpmne-obidite-za-diskreditacija-nema-da-ja-promenat-realnosta-deka-sds-se-soochuva-so-sopstveniot-politichki-kraj/"
-  excerpt: "Прес-конференцијата на Филипче не претставува ништо повеќе од очаен политички настап на човек кој веќе е свесен дека ја губи поддршката и незапирливо тоне, оценуваат од ВМРО-ДПМНЕ. Филипче, додаваат од таму, денес не ја напаѓа содржината на ..."
-  featured: false
-
-- id: time-mk-20260422-само-еден-сведок-беше-распрашан-на-денешното-роч
-  title: "САМО ЕДЕН СВЕДОК БЕШЕ РАСПРАШАН НА ДЕНЕШНОТО РОЧИШТЕ ЗА КАТАСТРОФАТА ВО „ПУЛС“, РОДИТЕЛИТЕ НА ЗАГИНАТИТЕ ДЕЦА ПРЕСТАНАА ДА ДОАЃААТ"
-  source: "Сакам да кажам"
-  published_at: "2026-04-22T14:34:34.503+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/0ab43089bc.jpg"
-  url: "https://sdk.mk/index.php/makedonija/samo-eden-svedok-beshe-rasprashan-na-deneshnoto-rochishte-za-katastrofata-vo-puls-roditelite-na-zaginatite-detsa-prestanaa-da-doagaat/"
-  excerpt: "Само еден сведок сведочеше на денешното судско рочиште за катастрофалниот пожар во дивата дискотека „Пулс“ во Кочани на 16 март 2025, со што дополнително падна динамиката на големиот судски процес со 35 обвинети за неизмерната трагедија со 63 жртви, ..."
-  featured: false
-
-- id: time-mk-20260422-сдсм-ке-го-поддржи-предлогот-пратениците-да-имаа
-  title: "СДСМ ќе го поддржи предлогот пратениците да имаат само македонско државјанство"
-  source: "Независен"
-  published_at: "2026-04-22T14:33:34.503+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/da22de7e88.jpg"
-  url: "https://nezavisen.mk/sdsm-kje-go-poddrzhi-predlogot-pratenicite-da-imaat-samo-makedonsko-drzhavjanstvo/"
-  excerpt: "СДСМ ќе го поддржи предлогот пратениците во Собранието да имаат само македонско државјанство, што го поднесоа пет пратеници на ВМРО-ДПМНЕ, предводени од Антонијо Милошоски. Ставот го изнесе Оливер Спасовски, по што беше изгласано предлогот по ..."
   featured: false
