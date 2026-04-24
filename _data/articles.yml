@@ -1,3 +1,13 @@
+- id: time-mk-20260424-нафтата-над-100-долари-ормускиот-теснец-ја-држи-
+  title: "Нафтата над 100 долари: Ормускиот теснец ја држи светската економија во неизвесност"
+  source: "Бизнис Вести"
+  published_at: "2026-04-24T22:23:50.588+02:00"
+  category: "Економија"
+  image: "https://time.mk/images/thumb/173c307ae7.jpg"
+  url: "https://biznisvesti.mk/naftata-nad-100-dolari-ormuskiot-tesnets-ja-drzhi-svetskata-ekonomija-vo-neizvesnost/"
+  excerpt: "Цените на суровата нафта и натаму се движат околу психолошката граница од 100 долари за барел, додека инвеститорите внимателно ги следат дипломатските потези и состојбата во Персискиот Залив."
+  featured: true
+
 - id: time-mk-20260424-дали-се-почитувалe-елаборатите-за-изведување-на-
   title: "Дали се почитувалe елаборатите за изведување на јама и заштита при работа на објектот на Коневски?"
   source: "Фокус"
@@ -6,7 +16,7 @@
   image: "https://time.mk/images/thumb/e0ebd44171.jpg"
   url: "https://fokus.mk/dali-se-pochituvale-elaboratite-za-izveduvane-na-jama-i-zashtita-pri-rabota-na-objektot-na-konevski/"
   excerpt: "Веднаш по несреќата на градилиште во Кисела Вода, каде беа потрупани со земја тројца работници, од кои еден го загуби животот, на лице место излегле припадници на противпожарната служба и полицијата, кои заеднички ги извлекувале работниците, велат ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260424-сдсм-нема-идеи-па-лаже-дека-некои-пратеници-на-в
   title: "СДСМ НЕМА ИДЕИ, ПА ЛАЖЕ ДЕКА НЕКОИ ПРАТЕНИЦИ НА ВМРО-ДПМНЕ ИМААТ БУГАРСКО ДРЖАВЈАНСТВО Злоупотребуваат, клеветат и шират манипулации"
@@ -486,14 +496,4 @@
   image: "https://time.mk/images/thumb/19cb53a7ed.jpg"
   url: "https://ekonomijaibiznis.mk/naftata-poskapuva-sleduva-bran-na-poskapuvane-na-avionskiot-prevoz-evtinite-bileti-vo-ekonomska-klasa-se-zgolemija-za-24-otsto/"
   excerpt: "Војната во Иран предизвика верижна ценовна реакција во глобалната авиоиндустрија, со зголемување на цените на горивата, затворање на воздушниот простор и зголемени трошоци што ги принудија компаниите да ги намалат летовите, да ги пренасочат рутите и ..."
-  featured: false
-
-- id: time-mk-20260424-вмро-дпмне-по-насока-на-заев-филипче-ја-стави-сд
-  title: "ВМРО-ДПМНЕ: По насока на Заев, Филипче ја стави СДС во служба на туѓи политички агенди, наместо конструктивност и доверба кај граѓаните ..."
-  source: "Скопје1"
-  published_at: "2026-04-24T09:43:57.261+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/e2a090579a.jpg"
-  url: "https://skopje1.mk/vmro-dpmne-po-nasoka-na-zaev-filipce-ja-stavi-sds-vo-sluzba-na-tugji-politicki-agendi-namesto-konstruktivnost-i-doverba-kaj-gragjanite-gradat-frontovi-nadvor-so-branko-ruzikj-i-jovan-ratkovikj"
-  excerpt: "ВМРО-ДПМНЕ во своето соопштение обвини дека СДСМ, наместо да се фокусира на внатрешни реформи и враќање на довербата кај граѓаните, се вклучува во политички активности надвор од државата, што според нив е на штета на домашната политичка сцена."
   featured: false
