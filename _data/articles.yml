@@ -1,3 +1,33 @@
+- id: time-mk-20260424-акција-антиботокс-десетици-лица-со-лисици-обвини
+  title: "Акција антиботокс – десетици лица со лисици! Обвинителството и полицијата трагаат и по нелегални увозници"
+  source: "ТВ21"
+  published_at: "2026-04-24T16:45:09.393+02:00"
+  category: "Здравство"
+  image: "https://time.mk/images/thumb/d15f0cb8d0.jpg"
+  url: "https://mk.tv21.tv/aktsija-protiv-antibotoks-desetitsi-litsa-so-lisitsi-obvinitelstvoto-i-politsijata-se-vo-traga-i-po-nelegalni-uvoznitsi/"
+  excerpt: "Пред една година, ТВ21 извести за злоупотреба на ботокс во козметички салони кои не биле надлежни за вршење на оваа дејност. Ова предизвика многу пациенти да завршат со здравствени последици на Клиниката за пластична хирургија во Скопје."
+  featured: true
+
+- id: time-mk-20260424-одрон-на-градилиште-проголта-работници-еден-заги
+  title: "Одрон на градилиште проголта работници, еден загина – Трагедија во Кисела Вода, при ископ на темели за нов објект"
+  source: "Вечер Прес"
+  published_at: "2026-04-24T16:44:09.393+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/fcb64fe662.jpg"
+  url: "https://www.vecer.press/odron-na-gradilishte-progolta-rabotniczi-eden-zagina-tragedija-vo-kisela-voda-pri-iskop-na-temeli-za-nov-objekt/"
+  excerpt: "Фото: П. Стојановски Трагедија го потресе Скопје вчераутро откако еден работник загина, а тројца беа повредени при одрон на земја на градилиште во Кисела Вода. Несреќата се случила зад кафулето „Фејс“, во близина на паркот „Македонија“, при ископ на ..."
+  featured: false
+
+- id: time-mk-20260424-давкова-го-поддржува-законот-за-едно-државјанств
+  title: "Давкова го поддржува законот за едно државјанство: Треба да важи и за други високи функционери"
+  source: "4NEWS"
+  published_at: "2026-04-24T16:43:09.393+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/6215016389.jpg"
+  url: "https://4news.mk/davkova-go-poddrzhuva-zakonot-za-edno-drzhavjanstvo-treba-da-vazhi-i-za-drugi-visoki-funktsioneri/"
+  excerpt: "Во однос на двојното државјанство, претседателката Гордана Сиљановска Давкова истакна дека го поддржува ограничувањето за пратениците, но смета дека тоа треба да важи и за други високи функционери, вклучително и претседателот, премиерот и министрите."
+  featured: false
+
 - id: time-mk-20260424-македонија-во-секторот-градежништво-е-убиец-број
   title: "Македонија во секторот градежништво е убиец број еден во Европа"
   source: "Трн"
@@ -6,7 +36,7 @@
   image: "https://time.mk/images/thumb/0dd573662c.jpg"
   url: "https://trn.mk/peshevski-makedonija-gradeznistvo-ubiec-broj-eden-evropa/"
   excerpt: "По трагедијата во Кисела Вода каде загина еден работник, претседателот на Синдикатот за градежништво бара итна истрага и именува четири страни одговорни: инвеститорот, изведувачот, надзорниот орган и Државниот инспекторат за труд."
-  featured: true
+  featured: false
 
 - id: time-mk-20260424-убавина-на-црно-евтин-ботокс-и-филери-без-контро
   title: "УБАВИНА НА ЦРНО: ЕВТИН БОТОКС И ФИЛЕРИ БЕЗ КОНТРОЛА – РИЗИКОТ ГО ПЛАЌААТ ПАЦИЕНТИТЕ"
@@ -466,34 +496,4 @@
   image: "https://time.mk/images/thumb/3fbb044c8e.jpg"
   url: "https://www.slobodenpecat.mk/od-vladata-reagiraat-za-toa-kako-sme-go-prenele-mickoski-velat-deka-ne-objasnuval-za-tehnichkata-vlada/"
   excerpt: "Владата вечерва испрати реакција до „Слободен печат“ во која изразува незадоволство од насловот на веста со која пренесувме што кажа премиерот Христијан Мицкоски вечерва во гостување на „Сител“ околу ултиматумот што денеска му го упати лидерот на ..."
-  featured: false
-
-- id: time-mk-20260423-вицепремиерот-арбен-фетаи-веке-не-сакал-да-биде-
-  title: "Вицепремиерот Арбен Фетаи веќе не сакал да биде во владата што ја предводи Мицкоски"
-  source: "Независен"
-  published_at: "2026-04-23T22:26:29.728+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/2b6d80abad.jpg"
-  url: "https://nezavisen.mk/vicepremierot-arben-fetai-vekje-ne-sakal-da-bide-vo-vladata-shto-ja-predvodi-mickoski/"
-  excerpt: "Не си поднесол оставка, не е ни разрешен, но вицепремиерот Арбен Фетаи веќе не е член на Владата. Премиерот Христијан Мицкоски вечерва во интервју за Сител го призна она што се зборува подолго време, дека Фетаи фактички веќе не е дел од владата што ..."
-  featured: false
-
-- id: time-mk-20260423-слободен-печат-со-детали-за-акцијата-за-нелегале
-  title: "„Слободен печат“ со детали за акцијата за нелегален ботокс и филери: Уапсени се повеќе од 10 луѓе, дел од нив доктори на Дерматологија и во ..."
-  source: "Слободен Печат"
-  published_at: "2026-04-23T21:39:06.448+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/a6873cd094.jpg"
-  url: "https://www.slobodenpecat.mk/sloboden-pechat-so-detali-za-akcijata-za-nelegalni-botoksi-i-fileri-lisheni-od-sloboda-povekje-od-10-lica-del-od-niv-doktori-na-dermatologija-i-vo-gob-8-septemvri/"
-  excerpt: "Вечерва под раководство на Обвинителството за гонење организиран криминал и корупција, полицијата спроведува акција при што сузбиена е организирана криминална група инволвирана во извршување на кривични дела „злосторничко здружување“, „повреда на ..."
-  featured: false
-
-- id: time-mk-20260423-мицкоски-на-следните-избори-останува-техничката-
-  title: "Мицкоски: На следните избори останува техничката влада, предложеното законско решение е за техничката влада за изборите потоа, стравот на ..."
-  source: "24Инфо"
-  published_at: "2026-04-23T21:38:06.448+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/753fbd0fa2.jpg"
-  url: "https://24info.mk/miczkoski-na-slednite-izbori-ostanuva-tehnichkata-vlada-predlozhenoto-zakonsko-reshenie-e-za-tehnichkata-vlada-za-izborite-potoa-stravot-na-filipche-e-deka-i-tie-izbori-ke-gi-izgubat/"
-  excerpt: "Премиерот Христијан Мицкоски во гостување во Дневникот на ТВ Сител говорејќи за измените на Законот за Влада истакна дека согласно овие измени техничката влада останува и на следните избори, а се укинува за изборите после нив, па оттука стравот на ..."
   featured: false
