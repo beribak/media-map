@@ -1,3 +1,13 @@
+- id: time-mk-20260424-сите-кои-имаат-сертификат-за-пиротехничар-нека-д
+  title: "СИТЕ КОИ ИМААТ СЕРТИФИКАТ ЗА ПИРОТЕХНИЧАР НЕКА ДОЈДАТ НА РАЗГОВОР, ЌЕ СЕ НАЈДЕ РАБОТНО МЕСТО ОТИ ИМА САМО ДВАЈЦА, ПОВИКА АНГЕЛОВ"
+  source: "Сакам да кажам"
+  published_at: "2026-04-24T05:13:50.339+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/7b9d59bf68.jpg"
+  url: "https://sdk.mk/index.php/dopisna-mrezha/site-koi-imaat-sertifikat-za-pirotehnichar-neka-dojdat-na-razgovor-ke-se-najde-rabotno-mesto-povika-angelov/"
+  excerpt: "Инвестирањето во нови приротехничари е комплициран потег, но внимателно работам на тоа да се надмине недостигот на ваков кадар, рече директорот на Дирекцијата за заштита и спасување (ДЗС) Стојанче Ангелов, кој денеска го посети местото во ..."
+  featured: true
+
 - id: time-mk-20260424-нови-детали-уапсени-лекари-и-сопственици-на-дерм
   title: "Нови детали: Уапсени лекари и сопственици на дерматолошки ординации за нелегални третмани и препарати"
   source: "Фокус"
@@ -6,7 +16,7 @@
   image: "https://time.mk/images/thumb/dc5f0a9e07.jpg"
   url: "https://fokus.mk/novi-detali-uapseni-lekari-ifd-sopstvenitsi-na-dermatoloshki-ordinatsii-za-nelegalni-tretmani-i-preparati/"
   excerpt: "Денеска од страна на Одделот за сузбивање на организиран и сериозен криминал при под раководство на ОЈО за ГОКК се спроведува полициска акција при што е сузбиена организирана криминална група инволвирана во извршување на повеќе кривични дела."
-  featured: true
+  featured: false
 
 - id: time-mk-20260423-доктори-и-сопственици-на-дерматолошки-ординации-
   title: "Доктори и сопственици на дерматолошки ординации уапсени во акција на МВР и ОЈО ГОКК"
@@ -486,14 +496,4 @@
   image: "https://time.mk/images/thumb/7b28080148.jpg"
   url: "https://makfax.com.mk/makedonija/sdsm-podnese-zakon-dvojno-drzhavjanstvo-da-nemaat-nitu-ministrite-vo-vladata-i-da-vazhi-vednash/"
   excerpt: "Пратеничката група на СДСМ поднесе Закон за измени на Законот за Влада по скратена постапка, забраната за двојно државјанство да важи за министрите, вицепремиерите и целиот состав на Владата и тоа веднаш."
-  featured: false
-
-- id: time-mk-20260423-вмро-дпмне-сдс-избра-статус-кво-заев-и-натаму-ги
-  title: "ВМРО-ДПМНЕ: СДС избра статус кво, Заев и натаму ги држи конците"
-  source: "Скопје1"
-  published_at: "2026-04-23T09:43:34.445+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/12b58dba76.jpg"
-  url: "https://skopje1.mk/vmro-dpmne-sds-izbra-status-kvo-zaev-i-natamu-gi-drzi-koncite"
-  excerpt: "ВМРО-ДПМНЕ обвини дека СДСМ, предводена од Венко Филипче, избрала да продолжи со постојната политика наместо да спроведе реформи, оценувајќи дека партијата е „заробена од старите структури“."
   featured: false
