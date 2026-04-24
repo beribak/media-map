@@ -1,8 +1,11 @@
 name: Update time.mk articles
 
 on:
-  schedule:
-    - cron: '7 * * * *'
+  # Scheduled runs are intentionally paused for now.
+  # To re-enable the hourly sync later, uncomment the lines below:
+  # schedule:
+  #   - cron: '7 * * * *'
+  # Manual runs stay enabled through the Actions tab.
   workflow_dispatch:
 
 permissions:
