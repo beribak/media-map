@@ -1,3 +1,23 @@
+- id: time-mk-20260424-дали-се-почитувалe-елаборатите-за-изведување-на-
+  title: "Дали се почитувалe елаборатите за изведување на јама и заштита при работа на објектот на Коневски?"
+  source: "Фокус"
+  published_at: "2026-04-24T21:29:46.971+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/e0ebd44171.jpg"
+  url: "https://fokus.mk/dali-se-pochituvale-elaboratite-za-izveduvane-na-jama-i-zashtita-pri-rabota-na-objektot-na-konevski/"
+  excerpt: "Веднаш по несреќата на градилиште во Кисела Вода, каде беа потрупани со земја тројца работници, од кои еден го загуби животот, на лице место излегле припадници на противпожарната служба и полицијата, кои заеднички ги извлекувале работниците, велат ..."
+  featured: true
+
+- id: time-mk-20260424-сдсм-нема-идеи-па-лаже-дека-некои-пратеници-на-в
+  title: "СДСМ НЕМА ИДЕИ, ПА ЛАЖЕ ДЕКА НЕКОИ ПРАТЕНИЦИ НА ВМРО-ДПМНЕ ИМААТ БУГАРСКО ДРЖАВЈАНСТВО Злоупотребуваат, клеветат и шират манипулации"
+  source: "+инфо"
+  published_at: "2026-04-24T21:25:46.971+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/3ae947aa4a.jpg"
+  url: "https://plusinfo.mk/sdsm-nema-idei-pa-lazhe-deka-nekoi-pratenici-na-vmro-dpmne-imaat-bugarsko-drzhav-anstvo-zloupotrebuvaat-klevetat-i-shirat-manipulacii/"
+  excerpt: "Потписници на измената на Законот за пратениците со кои се предвидува пратеник да има само македонско државјанство се токму актуелни пратеници од пратеничката група на ВМРО-ДПМНЕ, за кои СДСМ наведува дека имаат и бугарско државјанство, вели ..."
+  featured: false
+
 - id: time-mk-20260424-што-откри-акцијата-за-нелегални-ботокси-и-филери
   title: "Што откри акцијата за нелегални ботокси и филери во Македонија и кој е епилогот?"
   source: "Рацин"
@@ -6,7 +26,7 @@
   image: "https://time.mk/images/thumb/3fed141db0.jpg"
   url: "https://racin.mk/vesti/shto-otkri-akczijata-za-nelegalni-botoksi-i-fileri-vo-makedonija-i-koj-e-epilogot/"
   excerpt: "Нелегални ботокси и филери, увезени без одобрение, без упатства и без налепници, завршувале кај пациенти во Македонија, а акцијата што на 23 и 24 април ја спроведоа МВР и Обвинителството за гонење организиран криминал и корупција отвори многу ..."
-  featured: true
+  featured: false
 
 - id: time-mk-20260424-сдсм-бараме-детална-истрага-што-ке-утврди-одгово
   title: "СДСМ: Бараме детална истрага што ќе утврди одговорност за несреќата во Кисела Вода"
@@ -476,24 +496,4 @@
   image: "https://time.mk/images/thumb/e2a090579a.jpg"
   url: "https://skopje1.mk/vmro-dpmne-po-nasoka-na-zaev-filipce-ja-stavi-sds-vo-sluzba-na-tugji-politicki-agendi-namesto-konstruktivnost-i-doverba-kaj-gragjanite-gradat-frontovi-nadvor-so-branko-ruzikj-i-jovan-ratkovikj"
   excerpt: "ВМРО-ДПМНЕ во своето соопштение обвини дека СДСМ, наместо да се фокусира на внатрешни реформи и враќање на довербата кај граѓаните, се вклучува во политички активности надвор од државата, што според нив е на штета на домашната политичка сцена."
-  featured: false
-
-- id: time-mk-20260424-сдсм-антимонот-во-крива-паланка-е-партиски-бизни
-  title: "СДСМ: Антимонот во Крива Паланка е партиски бизнис на ВМРО-ОКГ и нивните донатори"
-  source: "Фокус"
-  published_at: "2026-04-24T09:42:57.261+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/a4f65d0da0.jpg"
-  url: "https://fokus.mk/sdsm-antimonot-vo-kriva-palanka-e-partiski-biznis-na-vmro-okg-i-nivnite-donatori/"
-  excerpt: "Нели Владата на Христијан Мицкоски вчера тврдеше дека здравјето на граѓаните ќе било приоритет во врска со рудникот за антимон во Крива Паланка?, прашуваат од СДСМ. „Вистината покажа дека не е така и ја разоткри целата позадина на овој случај."
-  featured: false
-
-- id: time-mk-20260424-земјотрес-со-јачина-од-5-8-степени-регистриран-ј
-  title: "Земјотрес со јачина од 5,8 степени регистриран јужно од грчкиот остров Крит"
-  source: "360 степени"
-  published_at: "2026-04-24T08:54:23.698+02:00"
-  category: "Општо"
-  image: "https://time.mk/images/thumb/0a209a57c0.jpg"
-  url: "https://360stepeni.mk/zemjotres-so-jachina-od-5-8-stepeni-registriran-juzhno-od-grchkiot-ostrov-krit/"
-  excerpt: "Според податоците на Европскиот медитерански сеизмолошки центар (ЕМСЦ), епицентарот на земјотресот е регистриран на 78 километри југоисточно од Ираклион на длабочина од 10 километри Земјотрес со јачина од 5,8 степени според Рихтеровата скала утрово ..."
   featured: false
