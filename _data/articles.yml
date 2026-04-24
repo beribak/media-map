@@ -1,3 +1,43 @@
+- id: time-mk-20260424-тројца-лекари-од-кожно-во-болницата-8-септември-
+  title: "ТРОЈЦА ЛЕКАРИ ОД КОЖНО ВО БОЛНИЦАТА „8 СЕПТЕМВРИ“ И ЕДЕН ОД КЛИНИКАТА ЗА ДЕРМАТОЛОГИЈА СЕ МЕЃУ 14 УАПСЕНИ ЗА ЛАЖНИ БОТОКСИ И ФИЛЕРИ ОД ..."
+  source: "Сакам да кажам"
+  published_at: "2026-04-24T17:38:50.873+02:00"
+  category: "Здравство"
+  image: "https://time.mk/images/thumb/ad617a7f80.jpg"
+  url: "https://sdk.mk/index.php/naslovna/trojtsa-lekari-od-kozhno-vo-bolnitsata-8-septemvri-i-eden-od-klinikata-za-dermatologija-se-megu-14-uapseni-za-lazhni-botoksi-i-fileri-od-srbija-turtsija-i-koreja/"
+  excerpt: "За увоз на фалсификуван медицински материјал ботокси и филери без царинска контрола, како и за чување по куќи на роднините на осомничените и за ставање на недозволената естетска содржина на пациенти, Обвинителството покрена истрага против 19 лица, ..."
+  featured: true
+
+- id: time-mk-20260424-еден-работник-загина-во-трагедијата-во-кисела-во
+  title: "Еден работник загина во трагедијата во Кисела вода, тројца градежници тешко повредени"
+  source: "24 Вести"
+  published_at: "2026-04-24T17:37:50.873+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/6566a6f463.jpg"
+  url: "https://www.24.mk/details/eden-rabotnik-zagina-vo-tragedijata-vo-kisela-voda-trojca-gradezhnici-teshko-povredeni"
+  excerpt: "Од Основното јавно обвинителство е издадена наредба за обдукција на починатиот работник, а на терен постапуваат и Државниот инспекторат за труд и општинскиот градежен инспектор. ОЈО ,,Дежурен јавен обвинител од Основното јавно обвинителство Скопје ..."
+  featured: false
+
+- id: time-mk-20260424-техничката-влада-пред-укинување-филипче-не-отста
+  title: "Техничката влада пред укинување – Филипче не отстапува од ултиматумот, Мицкоски не е загрижен за тоа"
+  source: "ТВ21"
+  published_at: "2026-04-24T17:36:50.873+02:00"
+  category: "Политика"
+  image: "https://time.mk/images/thumb/1d5afa08c7.jpg"
+  url: "https://mk.tv21.tv/tehnichkata-vlada-pred-ukinuvane-filipche-ne-otstapuva-od-ultimatumot-mitskoski-ne-e-zagrizhen-za-toa/"
+  excerpt: "Измените на Законот за Влада со кој се укинува техничката влада го имаше последниот филтер на седницата на Законодавно правната комисија. Како и на вчерашната расправа на Комисијата за политички систем така и на денешната беа отфрлени сите амандмани ..."
+  featured: false
+
+- id: time-mk-20260424-дилема-за-воведувањето-услов-со-едно-државјанств
+  title: "ДИЛЕМА ЗА ВОВЕДУВАЊЕТО УСЛОВ СО ЕДНО ДРЖАВЈАНСТВО: Ќе им се верува ли на „чесен збор“ на пратениците дека немаат два пасоши?"
+  source: "Вечер Прес"
+  published_at: "2026-04-24T17:35:50.873+02:00"
+  category: "Општо"
+  image: "https://time.mk/images/thumb/a7b6f019f1.jpg"
+  url: "https://www.vecer.press/dilema-za-voveduvaneto-uslov-so-edno-drzhavjanstvo-ke-im-se-veruva-li-na-chesen-zbor-na-prateniczite-deka-nemaat-dva-pasoshi/"
+  excerpt: "Според сознанијата, нашата држава нема разработени механизми преку кои би можела да врши поголеми проверки на тоа дали лицата што се кандидирани или избрани за патеници и евентуално за други избрани или именувани владини функционери, поседуваат само ..."
+  featured: false
+
 - id: time-mk-20260424-акција-антиботокс-десетици-лица-со-лисици-обвини
   title: "Акција антиботокс – десетици лица со лисици! Обвинителството и полицијата трагаат и по нелегални увозници"
   source: "ТВ21"
@@ -6,7 +46,7 @@
   image: "https://time.mk/images/thumb/d15f0cb8d0.jpg"
   url: "https://mk.tv21.tv/aktsija-protiv-antibotoks-desetitsi-litsa-so-lisitsi-obvinitelstvoto-i-politsijata-se-vo-traga-i-po-nelegalni-uvoznitsi/"
   excerpt: "Пред една година, ТВ21 извести за злоупотреба на ботокс во козметички салони кои не биле надлежни за вршење на оваа дејност. Ова предизвика многу пациенти да завршат со здравствени последици на Клиниката за пластична хирургија во Скопје."
-  featured: true
+  featured: false
 
 - id: time-mk-20260424-одрон-на-градилиште-проголта-работници-еден-заги
   title: "Одрон на градилиште проголта работници, еден загина – Трагедија во Кисела Вода, при ископ на темели за нов објект"
@@ -456,44 +496,4 @@
   image: "https://time.mk/images/thumb/7b9d59bf68.jpg"
   url: "https://sdk.mk/index.php/dopisna-mrezha/site-koi-imaat-sertifikat-za-pirotehnichar-neka-dojdat-na-razgovor-ke-se-najde-rabotno-mesto-povika-angelov/"
   excerpt: "Инвестирањето во нови приротехничари е комплициран потег, но внимателно работам на тоа да се надмине недостигот на ваков кадар, рече директорот на Дирекцијата за заштита и спасување (ДЗС) Стојанче Ангелов, кој денеска го посети местото во ..."
-  featured: false
-
-- id: time-mk-20260424-нови-детали-уапсени-лекари-и-сопственици-на-дерм
-  title: "Нови детали: Уапсени лекари и сопственици на дерматолошки ординации за нелегални третмани и препарати"
-  source: "Фокус"
-  published_at: "2026-04-24T00:25:12.398+02:00"
-  category: "Здравство"
-  image: "https://time.mk/images/thumb/dc5f0a9e07.jpg"
-  url: "https://fokus.mk/novi-detali-uapseni-lekari-ifd-sopstvenitsi-na-dermatoloshki-ordinatsii-za-nelegalni-tretmani-i-preparati/"
-  excerpt: "Денеска од страна на Одделот за сузбивање на организиран и сериозен криминал при под раководство на ОЈО за ГОКК се спроведува полициска акција при што е сузбиена организирана криминална група инволвирана во извршување на повеќе кривични дела."
-  featured: false
-
-- id: time-mk-20260423-доктори-и-сопственици-на-дерматолошки-ординации-
-  title: "Доктори и сопственици на дерматолошки ординации уапсени во акција на МВР и ОЈО ГОКК"
-  source: "360 степени"
-  published_at: "2026-04-23T23:26:23.181+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/cbdf403b99.jpg"
-  url: "https://360stepeni.mk/doktori-i-sopstvenitsi-na-dermatoloshki-ordinatsii-uapseni-vo-aktsija-na-mvr-i-ojo-gokk/"
-  excerpt: "Од Министерството за внатрешни работи потврдија дека во рамки на акцијата се вршат претреси на повеќе локации во Скопје, Струмица и Битола и се уапсени повеќе лица Во акција на Одделот за сузбивање на организиран и сериозен криминал при МВР и ..."
-  featured: false
-
-- id: time-mk-20260423-разбиена-мрежа-со-лажен-ботокс-и-филери-приведен
-  title: "РАЗБИЕНА МРЕЖА СО ЛАЖЕН БОТОКС И ФИЛЕРИ – ПРИВЕДЕНИ ДОКТОРИ ОД СКОПСКИТЕ КЛИНИКИ И ПРИВАТНИ ОРДИНАЦИИ"
-  source: "Вечер Прес"
-  published_at: "2026-04-23T22:30:29.728+02:00"
-  category: "Здравство"
-  image: "https://time.mk/images/thumb/04bd6aaa81.jpg"
-  url: "https://www.vecer.press/razbiena-mrezha-so-lazhen-botoks-i-fileri-privedeni-doktori-od-skopskite-kliniki-i-privatni-ordinaczii/"
-  excerpt: "Голема полициска акција на Одделот за организиран криминал во Скопје, Струмица и Битола Неофицијално ,извршени се претреси на повеќе локации во Скопје, Струмица и Битола, при што се лишени од слобода повеќе лица."
-  featured: false
-
-- id: time-mk-20260423-од-владата-реагираат-за-тоа-како-сме-го-пренеле-
-  title: "Од Владата реагираат за тоа како сме го пренеле Мицкоски, велат дека не објаснувал за техничката влада"
-  source: "Слободен Печат"
-  published_at: "2026-04-23T22:29:29.728+02:00"
-  category: "Политика"
-  image: "https://time.mk/images/thumb/3fbb044c8e.jpg"
-  url: "https://www.slobodenpecat.mk/od-vladata-reagiraat-za-toa-kako-sme-go-prenele-mickoski-velat-deka-ne-objasnuval-za-tehnichkata-vlada/"
-  excerpt: "Владата вечерва испрати реакција до „Слободен печат“ во која изразува незадоволство од насловот на веста со која пренесувме што кажа премиерот Христијан Мицкоски вечерва во гостување на „Сител“ околу ултиматумот што денеска му го упати лидерот на ..."
   featured: false
